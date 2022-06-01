@@ -1,0 +1,15 @@
+ "Hello. Can I speak to Mr. James, please?"\n"I'm sorry. He is _____ on holiday at the moment. Can I help you?"
+A) in 0
+B) on 0
+C) away 0
+D) off 1
+ “I feel like going to the cinema tonight.”\n“Good idea! What’s _____ at the moment?”
+A) in 0
+B) on 0
+C) at 1
+D) off 0
+ I think this milk's _____ . It smells horrid.
+A) in 0
+B) on 1
+C) at 0
+D) off 0

@@ -1,0 +1,440 @@
+ Thank goodness we _____ a dishwasher!
+A) was  0
+B) have  1
+C) did  0
+D) were 0
+ How many people _____ you invited to the party?
+A) was  0
+B) have  1
+C) did  0
+D) were 0
+ Why _____ you leaving so early?
+A) was  0
+B) have  0
+C) is  0
+D) are 1
+ We _____ got a beautiful puppy called Molly.
+A) was  0
+B) have  1
+C) did  0
+D) were 0
+ We _____ a beautiful puppy called Molly.
+A) was  0
+B) having  0
+C) did  0
+D) had 1
+ I have been to Australia but Anna _____ .
+A) haven't  0
+B) hasn't  1
+C) isn't  0
+D) doesn't 0
+ Anna likes ice-cream but John _____ .
+A) haven't  0
+B) hasn't  0
+C) isn't  0
+D) doesn't 1
+ I don't like ice-cream but Jill _____ .
+A) have  0
+B) has  0
+C) is  0
+D) does 1
+ Maria isn't studying hard but I _____ .
+A) have  0
+B) has  0
+C) am  1
+D) are 0
+ John loves flying but we _____ .
+A) haven't  0
+B) don't  1
+C) isn't  0
+D) doesn't 0
+ I watched TV last night but my sister _____ .
+A) hasn't  0
+B) didn't  1
+C) isn't  0
+D) doesn't 0
+ Bill hasn't finished his work but we _____ .
+A) have  1
+B) do  0
+C) don't  0
+D) doesn't 0
+ We don't want to leave early but they _____ .
+A) have 0
+B) do 1
+C) is 0
+D) does 0
+ They didn't remember my birthday but you _____ .
+A) have 0
+B) don't 0
+C) did 1
+D) does 0
+ Your English is really improving but mine _____ .
+A) haven't 0
+B) don't 0
+C) isn't 1
+D) doesn't 0
+ _____ you speak three languages?
+A) Do 1
+B) Does 0
+C) Did 0
+D) Are 0
+ _____ you having a holiday soon?
+A) Do 0
+B) Does 0
+C) Did 0
+D) Are 1
+ _____ you have a good holiday last year?
+A) Do 0
+B) Does 0
+C) Did 1
+D) Are 0
+ _____ you ever been to Amsterdam?
+A) Do 0
+B) Does 0
+C) Have 1
+D) Did 0
+ _____ you often travel abroad?
+A) Do 1
+B) Does 0
+C) Have 0
+D) Did 0
+_____ your best friend sometimes go on holiday with you?
+A) Do 0
+B) Does 1
+C) Have 0
+D) Did 0
+ I think you're wrong. I don't agree _____ you at all.
+A) to 0
+B) on 0
+C) with 1
+D) about 0
+ I'm not interested _____ what you think or what you want.
+A) to 0
+B) on 0
+C) with 0
+D) in 1
+ We might have a picnic. It depends _____ the weather.
+A) to 0
+B) on 1
+C) with 0
+D) about 0
+ What are you listening _____ ?
+A) to 1
+B) on 0
+C) with 0
+D) about 0
+ If you have a problem, talk _____ the teacher.
+A) to 1
+B) on 0
+C) at 0
+D) in 0
+ "What did you talk _____ ?"\n"Oh, this and that."
+A) to 0
+B) on 0
+C) with 0
+D) about 1
+ You aren't concentrating on your work. What are you thinking _____?
+A) to 0
+B) on 0
+C) with 0
+D) about 1
+ "What do you think _____ Pete?"\n"I really like him."
+A) to 0
+B) at 0
+C) with 0
+D) of 1
+ Where's the cash desk? I'd like to pay _____ this book.
+A) to 0
+B) for 0
+C) with 0
+D) about
+ "I've lost your pen. Sorry ..."\n"It's all right. Don’t worry _____ it."
+A) to 0
+B) on 0
+C) with 0
+D) about 1
+The weather in England is unreliable. _____ summer it can be hot, but it often rains _____ April and June.
+A) At / in 0
+B) In / in 1
+C) On / in 0
+D) * / in 0
+ _____ last year the summer was awful.
+A) At 0
+B) In 0
+C) On 0
+D) * 1
+ The best English weather is _____ spring and autumn.
+A) at 0
+B) in 1
+C) on 0
+D) * 0
+ I learned to drive _____ 1980 _____ the age of 17.
+A) at / at 0
+B) in / at 1
+C) on / at 0
+D) * / at 0
+ My brother learned _____ the same time as me, but I passed first.
+A) at 0
+B) in 0
+C) on 0
+D) * 1
+ I'll phone you _____ next week. _____ Thursday.
+A) at / On 0
+B) in / On 0
+C) on / On 0
+D) * / On 1
+ "Hello. Can I speak to Mr. James, please?"\n"I'm sorry. He is _____ on holiday at the moment. Can I help you?"
+A) in 0
+B) on 0
+C) away 0
+D) off 1
+ "I feel like going to the cinema tonight."\n"Good idea! What's _____ at the moment?"
+A) in 0
+B) on 0
+C) at 1
+D) off 0
+ I think this milk's _____ . It smells horrid.
+A) in 0
+B) on 1
+C) at 0
+D) off 0
+ _____ last year the summer was awful.
+A) At 0
+B) In 0
+C) On 0
+D) * 1
+ The best English weather is _____ spring and autumn.
+A) at 0
+B) in 1
+C) on 0
+D) * 0
+ I learned to drive _____ 1980 _____ the age of 17.
+A) at / at 0
+B) in / at 1
+C) on / at 0
+D) * / at 0
+ My brother learned _____ the same time as me, but I passed first.
+A) at 0
+B) in 0
+C) on 0
+D) * 1
+  Thank goodness we _____ a dishwasher!
+A) was  0
+B) have  1
+C) did  0
+D) were 0
+ How many people _____ you invited to the party?
+A) was  0
+B) have  1
+C) did  0
+D) were 0
+ Why _____ you leaving so early?
+A) was  0
+B) have  0
+C) is  0
+D) are 1
+ We _____ got a beautiful puppy called Molly.
+A) was  0
+B) have  1
+C) did  0
+D) were 0
+ We _____ a beautiful puppy called Molly.
+A) was  0
+B) having  0
+C) did  0
+D) had 1
+ I have been to Australia but Anna _____ .
+A) haven't  0
+B) hasn't  1
+C) isn't  0
+D) doesn't 0
+ Anna likes ice-cream but John _____ .
+A) haven't  0
+B) hasn't  0
+C) isn't  0
+D) doesn't 1
+ I don't like ice-cream but Jill _____ .
+A) have  0
+B) has  0
+C) is  0
+D) does 1
+ Maria isn't studying hard but I _____ .
+A) have  0
+B) has  0
+C) am  1
+D) are 0
+ John loves flying but we _____ .
+A) haven't  0
+B) don't  1
+C) isn't  0
+D) doesn't 0
+ I watched TV last night but my sister _____ .
+A) hasn't  0
+B) didn't  1
+C) isn't  0
+D) doesn't 0
+ Bill hasn't finished his work but we _____ .
+A) have  1
+B) do  0
+C) don't  0
+D) doesn't 0
+ We don't want to leave early but they _____ .
+A) have 0
+B) do 1
+C) is 0
+D) does 0
+ They didn't remember my birthday but you _____ .
+A) have 0
+B) don't 0
+C) did 1
+D) does 0
+ Your English is really improving but mine _____ .
+A) haven't 0
+B) don't 0
+C) isn't 1
+D) doesn't 0
+ _____ you speak three languages?
+A) Do 1
+B) Does 0
+C) Did 0
+D) Are 0
+ _____ you having a holiday soon?
+A) Do 0
+B) Does 0
+C) Did 0
+D) Are 1
+ _____ you have a good holiday last year?
+A) Do 0
+B) Does 0
+C) Did 1
+D) Are 0
+ _____ you ever been to Amsterdam?
+A) Do 0
+B) Does 0
+C) Have 1
+D) Did 0
+ _____ you often travel abroad?
+A) Do 1
+B) Does 0
+C) Have 0
+D) Did 0
+_____ your best friend sometimes go on holiday with you?
+A) Do 0
+B) Does 1
+C) Have 0
+D) Did 0
+ I think you're wrong. I don't agree _____ you at all.
+A) to 0
+B) on 0
+C) with 1
+D) about 0
+ I'm not interested _____ what you think or what you want.
+A) to 0
+B) on 0
+C) with 0
+D) in 1
+ We might have a picnic. It depends _____ the weather.
+A) to 0
+B) on 1
+C) with 0
+D) about 0
+ What are you listening _____ ?
+A) to 1
+B) on 0
+C) with 0
+D) about 0
+ If you have a problem, talk _____ the teacher.
+A) to 1
+B) on 0
+C) at 0
+D) in 0
+ "What did you talk _____ ?"\n"Oh, this and that."
+A) to 0
+B) on 0
+C) with 0
+D) about 1
+ You aren't concentrating on your work. What are you thinking _____?
+A) to 0
+B) on 0
+C) with 0
+D) about 1
+ "What do you think _____ Pete?"\n"I really like him."
+A) to 0
+B) at 0
+C) with 0
+D) of 1
+ Where's the cash desk? I'd like to pay _____ this book.
+A) to 0
+B) for 0
+C) with 0
+D) about
+ "I've lost your pen. Sorry ..."\n"It's all right. Don’t worry _____ it."
+A) to 0
+B) on 0
+C) with 0
+D) about 1
+The weather in England is unreliable. _____ summer it can be hot, but it often rains _____ April and June.
+A) At / in 0
+B) In / in 1
+C) On / in 0
+D) * / in 0
+ _____ last year the summer was awful.
+A) At 0
+B) In 0
+C) On 0
+D) * 1
+ The best English weather is _____ spring and autumn.
+A) at 0
+B) in 1
+C) on 0
+D) * 0
+ I learned to drive _____ 1980 _____ the age of 17.
+A) at / at 0
+B) in / at 1
+C) on / at 0
+D) * / at 0
+ My brother learned _____ the same time as me, but I passed first.
+A) at 0
+B) in 0
+C) on 0
+D) * 1
+ I'll phone you _____ next week. _____ Thursday.
+A) at / On 0
+B) in / On 0
+C) on / On 0
+D) * / On 1
+ "Hello. Can I speak to Mr. James, please?"\n"I'm sorry. He is _____ on holiday at the moment. Can I help you?"
+A) in 0
+B) on 0
+C) away 0
+D) off 1
+ "I feel like going to the cinema tonight."\n"Good idea! What's _____ at the moment?"
+A) in 0
+B) on 0
+C) at 1
+D) off 0
+ I think this milk's _____ . It smells horrid.
+A) in 0
+B) on 1
+C) at 0
+D) off 0
+ _____ last year the summer was awful.
+A) At 0
+B) In 0
+C) On 0
+D) * 1
+ The best English weather is _____ spring and autumn.
+A) at 0
+B) in 1
+C) on 0
+D) * 0
+ I learned to drive _____ 1980 _____ the age of 17.
+A) at / at 0
+B) in / at 1
+C) on / at 0
+D) * / at 0
+ My brother learned _____ the same time as me, but I passed first.
+A) at 0
+B) in 0
+C) on 0
+D) * 1
