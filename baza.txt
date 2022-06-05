@@ -1,440 +1,1561 @@
- Thank goodness we _____ a dishwasher!
-A) was  0
-B) have  1
-C) did  0
-D) were 0
- How many people _____ you invited to the party?
-A) was  0
-B) have  1
-C) did  0
-D) were 0
- Why _____ you leaving so early?
-A) was  0
-B) have  0
-C) is  0
-D) are 1
- We _____ got a beautiful puppy called Molly.
-A) was  0
-B) have  1
-C) did  0
-D) were 0
- We _____ a beautiful puppy called Molly.
-A) was  0
-B) having  0
-C) did  0
-D) had 1
- I have been to Australia but Anna _____ .
-A) haven't  0
-B) hasn't  1
-C) isn't  0
-D) doesn't 0
- Anna likes ice-cream but John _____ .
-A) haven't  0
-B) hasn't  0
-C) isn't  0
-D) doesn't 1
- I don't like ice-cream but Jill _____ .
-A) have  0
-B) has  0
-C) is  0
-D) does 1
- Maria isn't studying hard but I _____ .
-A) have  0
-B) has  0
-C) am  1
-D) are 0
- John loves flying but we _____ .
-A) haven't  0
-B) don't  1
-C) isn't  0
-D) doesn't 0
- I watched TV last night but my sister _____ .
-A) hasn't  0
-B) didn't  1
-C) isn't  0
-D) doesn't 0
- Bill hasn't finished his work but we _____ .
-A) have  1
-B) do  0
-C) don't  0
-D) doesn't 0
- We don't want to leave early but they _____ .
-A) have 0
-B) do 1
-C) is 0
-D) does 0
- They didn't remember my birthday but you _____ .
-A) have 0
-B) don't 0
-C) did 1
-D) does 0
- Your English is really improving but mine _____ .
-A) haven't 0
-B) don't 0
-C) isn't 1
-D) doesn't 0
- _____ you speak three languages?
-A) Do 1
-B) Does 0
-C) Did 0
-D) Are 0
- _____ you having a holiday soon?
-A) Do 0
-B) Does 0
-C) Did 0
-D) Are 1
- _____ you have a good holiday last year?
-A) Do 0
-B) Does 0
-C) Did 1
-D) Are 0
- _____ you ever been to Amsterdam?
-A) Do 0
-B) Does 0
-C) Have 1
-D) Did 0
- _____ you often travel abroad?
-A) Do 1
-B) Does 0
-C) Have 0
-D) Did 0
-_____ your best friend sometimes go on holiday with you?
-A) Do 0
-B) Does 1
-C) Have 0
-D) Did 0
- I think you're wrong. I don't agree _____ you at all.
-A) to 0
-B) on 0
-C) with 1
-D) about 0
- I'm not interested _____ what you think or what you want.
-A) to 0
-B) on 0
-C) with 0
-D) in 1
- We might have a picnic. It depends _____ the weather.
-A) to 0
-B) on 1
-C) with 0
-D) about 0
- What are you listening _____ ?
-A) to 1
-B) on 0
-C) with 0
-D) about 0
- If you have a problem, talk _____ the teacher.
-A) to 1
-B) on 0
-C) at 0
-D) in 0
- "What did you talk _____ ?"\n"Oh, this and that."
-A) to 0
-B) on 0
-C) with 0
-D) about 1
- You aren't concentrating on your work. What are you thinking _____?
-A) to 0
-B) on 0
-C) with 0
-D) about 1
- "What do you think _____ Pete?"\n"I really like him."
-A) to 0
-B) at 0
-C) with 0
-D) of 1
- Where's the cash desk? I'd like to pay _____ this book.
-A) to 0
-B) for 0
-C) with 0
-D) about
- "I've lost your pen. Sorry ..."\n"It's all right. Don’t worry _____ it."
-A) to 0
-B) on 0
-C) with 0
-D) about 1
-The weather in England is unreliable. _____ summer it can be hot, but it often rains _____ April and June.
-A) At / in 0
-B) In / in 1
-C) On / in 0
-D) * / in 0
- _____ last year the summer was awful.
-A) At 0
-B) In 0
-C) On 0
-D) * 1
- The best English weather is _____ spring and autumn.
-A) at 0
-B) in 1
-C) on 0
-D) * 0
- I learned to drive _____ 1980 _____ the age of 17.
-A) at / at 0
-B) in / at 1
-C) on / at 0
-D) * / at 0
- My brother learned _____ the same time as me, but I passed first.
-A) at 0
-B) in 0
-C) on 0
-D) * 1
- I'll phone you _____ next week. _____ Thursday.
-A) at / On 0
-B) in / On 0
-C) on / On 0
-D) * / On 1
- "Hello. Can I speak to Mr. James, please?"\n"I'm sorry. He is _____ on holiday at the moment. Can I help you?"
-A) in 0
-B) on 0
-C) away 0
-D) off 1
- "I feel like going to the cinema tonight."\n"Good idea! What's _____ at the moment?"
-A) in 0
-B) on 0
-C) at 1
-D) off 0
- I think this milk's _____ . It smells horrid.
-A) in 0
-B) on 1
-C) at 0
-D) off 0
- _____ last year the summer was awful.
-A) At 0
-B) In 0
-C) On 0
-D) * 1
- The best English weather is _____ spring and autumn.
-A) at 0
-B) in 1
-C) on 0
-D) * 0
- I learned to drive _____ 1980 _____ the age of 17.
-A) at / at 0
-B) in / at 1
-C) on / at 0
-D) * / at 0
- My brother learned _____ the same time as me, but I passed first.
-A) at 0
-B) in 0
-C) on 0
-D) * 1
-  Thank goodness we _____ a dishwasher!
-A) was  0
-B) have  1
-C) did  0
-D) were 0
- How many people _____ you invited to the party?
-A) was  0
-B) have  1
-C) did  0
-D) were 0
- Why _____ you leaving so early?
-A) was  0
-B) have  0
-C) is  0
-D) are 1
- We _____ got a beautiful puppy called Molly.
-A) was  0
-B) have  1
-C) did  0
-D) were 0
- We _____ a beautiful puppy called Molly.
-A) was  0
-B) having  0
-C) did  0
-D) had 1
- I have been to Australia but Anna _____ .
-A) haven't  0
-B) hasn't  1
-C) isn't  0
-D) doesn't 0
- Anna likes ice-cream but John _____ .
-A) haven't  0
-B) hasn't  0
-C) isn't  0
-D) doesn't 1
- I don't like ice-cream but Jill _____ .
-A) have  0
-B) has  0
-C) is  0
-D) does 1
- Maria isn't studying hard but I _____ .
-A) have  0
-B) has  0
-C) am  1
-D) are 0
- John loves flying but we _____ .
-A) haven't  0
-B) don't  1
-C) isn't  0
-D) doesn't 0
- I watched TV last night but my sister _____ .
-A) hasn't  0
-B) didn't  1
-C) isn't  0
-D) doesn't 0
- Bill hasn't finished his work but we _____ .
-A) have  1
-B) do  0
-C) don't  0
-D) doesn't 0
- We don't want to leave early but they _____ .
-A) have 0
-B) do 1
-C) is 0
-D) does 0
- They didn't remember my birthday but you _____ .
-A) have 0
-B) don't 0
-C) did 1
-D) does 0
- Your English is really improving but mine _____ .
-A) haven't 0
-B) don't 0
-C) isn't 1
-D) doesn't 0
- _____ you speak three languages?
-A) Do 1
-B) Does 0
-C) Did 0
-D) Are 0
- _____ you having a holiday soon?
-A) Do 0
-B) Does 0
-C) Did 0
-D) Are 1
- _____ you have a good holiday last year?
-A) Do 0
-B) Does 0
-C) Did 1
-D) Are 0
- _____ you ever been to Amsterdam?
-A) Do 0
-B) Does 0
-C) Have 1
-D) Did 0
- _____ you often travel abroad?
-A) Do 1
-B) Does 0
-C) Have 0
-D) Did 0
-_____ your best friend sometimes go on holiday with you?
-A) Do 0
-B) Does 1
-C) Have 0
-D) Did 0
- I think you're wrong. I don't agree _____ you at all.
-A) to 0
-B) on 0
-C) with 1
-D) about 0
- I'm not interested _____ what you think or what you want.
-A) to 0
-B) on 0
-C) with 0
-D) in 1
- We might have a picnic. It depends _____ the weather.
-A) to 0
-B) on 1
-C) with 0
-D) about 0
- What are you listening _____ ?
-A) to 1
-B) on 0
-C) with 0
-D) about 0
- If you have a problem, talk _____ the teacher.
-A) to 1
-B) on 0
-C) at 0
-D) in 0
- "What did you talk _____ ?"\n"Oh, this and that."
-A) to 0
-B) on 0
-C) with 0
-D) about 1
- You aren't concentrating on your work. What are you thinking _____?
-A) to 0
-B) on 0
-C) with 0
-D) about 1
- "What do you think _____ Pete?"\n"I really like him."
-A) to 0
-B) at 0
-C) with 0
-D) of 1
- Where's the cash desk? I'd like to pay _____ this book.
-A) to 0
-B) for 0
-C) with 0
-D) about
- "I've lost your pen. Sorry ..."\n"It's all right. Don’t worry _____ it."
-A) to 0
-B) on 0
-C) with 0
-D) about 1
-The weather in England is unreliable. _____ summer it can be hot, but it often rains _____ April and June.
-A) At / in 0
-B) In / in 1
-C) On / in 0
-D) * / in 0
- _____ last year the summer was awful.
-A) At 0
-B) In 0
-C) On 0
-D) * 1
- The best English weather is _____ spring and autumn.
-A) at 0
-B) in 1
-C) on 0
-D) * 0
- I learned to drive _____ 1980 _____ the age of 17.
-A) at / at 0
-B) in / at 1
-C) on / at 0
-D) * / at 0
- My brother learned _____ the same time as me, but I passed first.
-A) at 0
-B) in 0
-C) on 0
-D) * 1
- I'll phone you _____ next week. _____ Thursday.
-A) at / On 0
-B) in / On 0
-C) on / On 0
-D) * / On 1
- "Hello. Can I speak to Mr. James, please?"\n"I'm sorry. He is _____ on holiday at the moment. Can I help you?"
-A) in 0
-B) on 0
-C) away 0
-D) off 1
- "I feel like going to the cinema tonight."\n"Good idea! What's _____ at the moment?"
-A) in 0
-B) on 0
-C) at 1
-D) off 0
- I think this milk's _____ . It smells horrid.
-A) in 0
-B) on 1
-C) at 0
-D) off 0
- _____ last year the summer was awful.
-A) At 0
-B) In 0
-C) On 0
-D) * 1
- The best English weather is _____ spring and autumn.
-A) at 0
-B) in 1
-C) on 0
-D) * 0
- I learned to drive _____ 1980 _____ the age of 17.
-A) at / at 0
-B) in / at 1
-C) on / at 0
-D) * / at 0
- My brother learned _____ the same time as me, but I passed first.
-A) at 0
-B) in 0
-C) on 0
-D) * 1
+ 1. We had ____ other choice apart from deciding to cease trading, or we would have gone bankrupt.
+A) some 0
+B) no 1
+C) many 0
+D) each 0
+E) any 0
+ 2. ____ who enjoys jazz music will enjoy this festival, tickets for which can be bought at ____ good music shop.
+A) Nobody / some 0
+B) Anyone / several 0
+C) Everybody / all 0
+D) Somebody / both 0
+E) Anybody / every 1
+ 3.   Slimming bars claim to provide ____ the vitamins and minerals the body needs, but eating them cannot be as healthy as a meal containing plenty of fruit and vegetables, which can also supply ____nutrients required by the body.
+A) whole / all 0
+B) all / other 1
+C) plenty of / another 0
+D) every / any 0
+E) both / each 0
+ 4.   ____ child will be given a role, however small, in the play.
+A) Several 0
+B) The whole 0
+C) Both 0
+D) Each 0
+E) Many 1
+ 5. Because there have been ____ accidents at that road junction, the council are going to install traffic lights there.
+A) too much 0
+B) plenty 0
+C) so many 1
+D) much more  0
+E) a great deal of  0
+ 6.   I didn't believe him when he said that it was hailing in June, so I went out on the balcony to see it for ____.
+A) myself 1
+B) himself 0
+C) mine 0
+D) him 0
+E) itself 0
+ 7.   ____ bus we were travelling on stopped suddenly because ____ tree had fallen across the road.
+A) A / the 0
+B) The / - 0
+C) The / the 0
+D) The / a 1
+E) A / a 0
+ 8.   ____ that we accomplished was to find a suitable date for the next meeting.
+A) Each 0
+B) Every 0
+C) The whole 0
+D) Others 0
+E) All 1
+ 9.   Although ____ in the group knew that ____ had ever tried to climb the mountain by this path before, they all seemed very confident.
+A) someone / nowhere  0
+B) no one / anywhere  0
+C) everyone / no one 1
+D) anyone / somebody 0
+E) everything / anyone 0
+ 10. As the number of students attending the universities ____, most employers ____ for higher and higher qualifications from new employees.
+A) is increasing / are asking  1
+B) are increasing / will ask  0
+C) increase / is asking  0
+D) have increased / have asked  0
+E) increased / has asked  0
+ 11. ____ of the soldiers was given two complete uniforms, ____ of which they were expected to keep spotlessly clean.
+A) All / some 0
+B) Every / either 0
+C) Each / both 1
+D) Some / all 0
+E) The whole / many 0
+ 12. There is an amount of wisdom in ____ old sayings, such as "Don't cry over spilt milk".
+A) a number of 1
+B) a little 0
+C) a great deal of  0
+D) every 0
+E) the whole 0
+ 13. When the winners arrived at the award ceremony, the mayor ____ was there to greet ____.
+A) ourselves / him 0
+B) themselves / ours 0
+C) myself / their 0
+D) itself / ourselves 0
+E) himself / them 1
+ 14. When I woke up this morning, there was ____ heavy dew covering ____ long green summer grass in our garden.
+A) the / a 0
+B) - / the 1
+C) some / a 0
+D) the / - 0
+E) a / a 0
+ 15. It's getting late. I'll feel better when we have found ____ to stay for the night, and, at this hour, I'm not looking for a luxury place. _____ clean and tidy will do.
+A) somewhere / Anywhere  1
+B) everywhere / Somebody  0
+C) something / Nowhere  0
+D) nowhere / Somewhere  0
+E) anything / Something 0
+ 16. I wish he would give ____ more consideration to those around him.
+A) enough 0
+B) a lot of 0
+C) a little 1
+D) several 0
+E) a few 0
+ 17. This ship has ____ experienced crew, all of whom have been at ____ sea on and off for more than six years.
+A) the / the 0
+B) an / a 0
+C) an / - 1
+D) - / - 0
+E) some / the 0
+ 18. Politicians from the Opposition are constantly criticizing the government, but they don't say what they would do ____ to improve things if they were in ____ position.
+A) us / our 0
+B) themselves / our 1
+C) them / themselves 0
+D) theirs / us 0
+E) ours / theirs 0
+ 19. As ____ of the proposals seems to provide a complete solution on ____ I suggest we continue working on this.
+A) both / themselves 0
+B) either / our own 0
+C) each / ourselves 0
+D) none / his own 0
+E) neither / its own 1
+ 20. When ____ manager disagrees with ____, our board meetings can go on for hours.
+A) a / other 0
+B) - / the other 0
+C) the / each other 0
+D) one / another 1
+E) none / the other 0
+ 21. Each of ____ will develop a revision method that will suit ____ individual strengths and weaknesses.
+A) they / theirs 0
+B) us / our 1
+C) we / ours 0
+D) you / yours 0
+E) her / hers 0
+ 22. I don't think that's the only dry cleaner's around here. I think there is ____ next to the bus station.
+A) another 1
+B) others 0
+C) other 0
+D) the other 0
+E) the others 0
+ 23. I think that buying ____ own photocopier would save ____ money.
+A) us / ours 0
+B) him / his 0
+C) ourselves / our 0
+D) themselves / theirs 0
+E) their / them 1
+ 24. Since ____ seems eager to give me a hand with these, I have no other choice but to do ____ by myself.
+A) something / everywhere  0
+B) someone / anything 0
+C) no one / everything 1
+D) anybody / nowhere  0
+E) nothing / something 0
+ 25. ____ has got a packed lunch, a torch and a waterproof coat, haven't ____?
+A) Everybody / they 1
+B) Everywhere / it  0
+C) No one / you 0
+D) Someone / we 0
+E) Anybody / them 0
+ 26 . Men, women  and children in ______ part of the  world wear some sort of jewelry , either  as ornaments or because of superstitions.
+A) all 0
+B) every 1
+C) whole 0
+D) some 0
+E) neither 0
+ 27. There are ____ ways to get from my house to work, but ____ of them is very comfortable.
+A) plenty / one 0
+B) more / several  0
+C) several / none 1
+D) a few / neither 0
+E) much / all 0
+ 28. There are ____ Indian restaurants available in England, whereas, in Istanbul, your options are ____.
+A) some / several 0
+B) so much / only one 0
+C) the other / little 0
+D) many / another 0
+E) a lot of / a few 1
+ 29. Normally, airlines serve their passengers ____ cooked dinner during ____ flight.
+A) the / a 0
+B) - / a 0
+C) a / the 1
+D) a / some 0
+E) another / - 0
+ 30. The lawyer for the people who ____ in the fire at the shopping centre ____ the judge for compensation.
+A) were injured / is going to ask  1
+B) is injured / has been asking  0
+C) are injured / would ask  0
+D) was injured / are going to ask  0
+E) have been injured / have asked  0
+ 31. We have 120 post-graduate students at our university and almost two-thirds of ____ ____ from abroad.
+A) themselves / comes 0
+B) their / are coming  0
+C) theirs / were coming  0
+D) them / come 1
+E) they / has come 0
+ 32. A good percentage of our time ____ at work, so we should choose an occupation that we enjoy.
+A) is spending 0
+B) are spent  0
+C) is spent 1
+D) are spending  0
+E) would spend 0
+ 33. I love the company of ____ friends, but sometimes I just want to be by ____.
+A) my / me 0
+B) mine / me 0
+C) me / mine 0
+D) my / myself 1
+E) mine / my own 0
+ 34. There have been ____ isolated incidents of violence, but ____ of World Cup supporters have been well- behaved.
+A) a few / the majority 1
+B) any / a good deal 0
+C) some / several 0
+D) each / a great deal  0
+E) every / a large number  0
+ 35. Americans plays produced during the 19th century were mostly sensational melodrama and therefore of ____ literary importance.
+A) many 0
+B) little 1
+C) none 0
+D) every 0
+E) a few 0
+ 36. The different peoples in Africa ____ have ____ own myths about the creation of the world.
+A) all / its 0
+B) most / themselves 0
+C) every / itself 0
+D) some / theirs 0
+E) each / their 1
+ 37. The doctor gave him ____ tablets and told him to drink ____ water.
+A) each / a little 0
+B) a few / many 0
+C) several of / little 0
+D) any / much 0
+E) some / plenty of 1
+ 38. Pasta, which literally means dough in ____ Italian, is ____ Italian food now popular, in such forms as spaghetti, macaroni and ravioli all over the world.
+A) the / the 0
+B) an / some 0
+C) - / an 1
+D) - / any 0
+E) some / - 0
+ 39. I knew that his wife wasn't a good cook, so I doubted that she had cooked all the dishes she served ____ on____.
+A) us / her own 1
+B) mine / hers 0
+C) theirs / himself 0
+D) you / his own 0
+E) him / hersel 0
+ 40. Do you know that everything they ____ ____ guaranteed for two years?
+A) are selling / are  0
+B) sell / is 1
+C) sold / have been 0
+D) had sold / were  0
+E) are sold / has been  0
+ 1.	Very few will have learnt of ____ before and he will not hang around long enough to make a name for______.
+A) us / ourselves 0
+B) him / himself 1
+C) themselves / ours 0
+D) theirs / herself 0
+E) him / its 0
+ 2.   ______ wants to expose ______. People often hide their feelings.
+A) Everybody / themselves 0
+B) Somebody / himself 0
+C) Anybody / themselves 0
+D) Nobody / themselves 1
+E) Somebody / themselves 0
+ 3.   The officer rode 70 km to _____ home city and then turned a gun on _____, the reporter told.
+A) our / him 0
+B) his / herself 0
+C) my / itself 0
+D) her / herself 1
+E) us / ourselves 0
+ 4.   The gangs emanate terror. Every town, _____ say is under _____ control.
+A) they / their 1
+B) we / our 0
+C) they / themselves 0
+D) you / theirs 0
+E) us / my 0
+ 5. _____ elder people's rate is less than 2 beats per second.
+A) Much 0
+B) A few of 0
+C) Most 1
+D) The whole 0
+E) Every 0
+ 6.   It will be advisable to quit _____ alcohol and smoking during pregnancy.
+A) each 0
+B) every 0
+C) all 1
+D) a number of 0
+E) some 0
+ 7.   The wildlife of ______ region is under threat and ______  rare animal species may become extinct.
+A) all / a large amount of  0
+B) each / others 0
+C) another / both 0
+D) every / either 0
+E) the whole / some 1
+ 8.   The place was spacious with _____ room for relaxation surrounded by restaurants.
+A) no 0
+B) a 0
+C) any 0
+D) lots of 1
+E) little 0
+ 9.   There were some people on the street that fought with _____.
+A) one another 1
+B) themselves 0
+C) another 0
+D) other 0
+E) the other 0
+ 10. After ____ years passed, I decided to have an operation to have _____ the wrinkles taken away from around my eyes.
+A) many / a good many 0
+B) the whole / both 0
+C) some / many 0
+D) all / all of 0
+E) several / all 1
+ 11. ______ of us managed to do it separately, but fortunately together we did it.
+A) Neither 1
+B) Both 0
+C) Some 0
+D) All 0
+E) Each 0
+ 12. Before the gathering that night, there was _____ more clearing up in the house to do as usual.
+A) a few 0
+B) some 1
+C) several 0
+D) a great many  0
+E) a number of 0
+ 13. Her husband tried to convince her to reject it, but she would have _____ of it.
+A) some 1
+B) no 0
+C) none 0
+D) neither 0
+E) many 0
+ 14. We had _____ room so none of us had any problems with accommodation
+A) little 0
+B) few 0
+C) enough 1
+D) the number of 0
+E) a 0
+ 15. I really want to know what kind of feeling it is to have a relative that hates you that ______.
+A) most 0
+B) much 1
+C) a lot 0
+D) a good many 0
+E) a little 0
+ 16. Things happen in ______ stadium and ours is no different than _____.
+A) any / the other 0
+B) every / others 1
+C) the others / the others 0
+D) each / each other 0
+E) one / one another 0
+ 17. We have realized that _____ has brought _____ worths buying.
+A) everybody / anything 0
+B) somebody / nothing 0
+C) anybody / everything 0
+D) nobody / anything 1
+E) anybody / something 0
+ 18. We hope doctors may someday be able to diagnose lung cancer with ______ more than a quick swab of the mouth.
+A) everything 0
+B) nothing 1
+C) something 0
+D) anything 0
+E) somewhere  0
+ 19. Not only graduate but also undergraduate students find _____ in a troublesome position that can not be got rid of.
+A) themselves 1
+B) one another 0
+C) them 0
+D) the others 0
+E) each other 0
+ 20. I spend ____ my time thinking about you at nights.
+A) a good deal of 1
+B) a great many of  0
+C) a plenty number of 0
+D) a number of 0
+E) almost 0
+ 21. In our country, there are well-known spectacle places, _____ after______, especially in the West.
+A) one / the others 0
+B) some / other 0
+C) several / others 0
+D) the other / the others 0
+E) one / another 1
+ 22. He sprang forward ____ metres towards the trenches but soon hesitated.
+A) no 0
+B) a few 1
+C) a great quantity of  0
+D) plenty of 0
+E) quite a few 0
+ 23. _____ in my brain a light bulb slowly started to twinkle towards the given question.
+A) Everything 0
+B) Nothing 0
+C) Somewhere  1
+D) Anyone 0
+E) Nowhere  0
+ 24. To ______ that are acquainted with them, they don't appear to be an ideal couple.
+A) nowhere  0
+B) anybody 1
+C) nobody 0
+D) somebody 0
+E) none 0
+ 25. _____ was in the name of Reynar; _____ Daze.
+A) Some / other 0
+B) Another / some 0
+C) One / the other 1
+D) Each other / the other 0
+E) Other / the others 0
+  1. This year's whiteout of a winter has prompted _____ global-warming naysayer to crow about buying Al Gore a snow shovel.
+A) some 0
+B) a lot of 0
+C) many a 1
+D) none 0
+E) little 0
+ 2. _____ commercial or recreational salmon fishing will be allowed off the coast of Oregon this year due to the possible extinction of the species.
+A) Some 0
+B) One 0
+C) No 1
+D) None 0
+E) Each 0
+ 3. With some families displaced for more than a decade, children born or raised in camps have _____ or ______ memory of traditional farming life.
+A) little / no 1
+B) no / any 0
+C) more / less  0
+D) few / fewer 0
+E) less / none 0
+ 4.   Istanbul is the biggest city in Turkey and one of the world's major cities, with around 6.7 million people in the city _____ and ______ four million in the area around it.
+A) its own / other 0
+B) themselves / the other 0
+C) alone / others 0
+D) one another / the others 0
+E) itself / another 1
+ 5.   _____ product you buy should be a gateway to a personal sustainability practice.
+A) None 0
+B) Everything 0
+C) Any 1
+D) Several 0
+E) Most 0
+ 6.   There were Rangers fans throwing bottles and cans at _____ because the game was not on.
+A) themselves 0
+B) one another 1
+C) other 0
+D) each another 0
+E) the others 0
+ 7.   Officials say _____ affected county has now been reached and rescue efforts started.
+A) each other 0
+B) both 0
+C) all 0
+D) either 0
+E) every 1
+ 8.   At no time should you endanger yourself or ______ take _____ unnecessary risks.
+A) the others / every 0
+B) others / any 1
+C) one another / no 0
+D) each other / some 0
+E) the other / either 0
+ 9.   While consumers who obtain genuine products can improve their health, _____ who are deceived by clever advertising may lose their health, their savings or _____.
+A) those / both 1
+B) ones / neither 0
+C) all / none 0
+D) both / all 0
+E) none / either 0
+ 10. Discount retailers such as Aldi and Lidl have been charging for bags for ______ years.
+A) a great amount of  0
+B) a number of 1
+C) many a 0
+D) a lot 0
+E) too much 0
+ 11. For most of ______ who emigrated, the search for employment and a better life was almost certainly the principal cause of ______ departure.
+A) none / their 0
+B) ones / some 0
+C) all / any 0
+D) some / its 0
+E) those / their 1
+ 12. Not ____ of the changes observed in nature are damaging to _____ creatures.
+A) every / whole 0
+B) each / both 0
+C) either / neither 0
+D) none / all 0
+E) all / all 1
+ 13. _____ attempt to explain why humans think and behave in the way that they do will inevitably be linked to one or _____ branch of psychology.
+A) Whole / others 0
+B) Each / each other 0
+C) Every / the other 0
+D) All / one another 0
+E) Any / another 1
+ 14. Having different types of businesses in a neighbourhood can increase _____ walking trips among residents.
+A) a great amount of  0
+B) a vast amount of 0
+C) the number of 1
+D) several 0
+E) a number of 0
+ 15. In neighbourhoods where residents are willing to help _____, children are less likely to be overweight.
+A) another 0
+B) one another 1
+C) each other 0
+D) the other 0
+E) themselves 0
+ 16. Until the 1980s, about 2 in ______ 1,000 people were thought to be affected by the disease.
+A) each 0
+B) other 0
+C) more  0
+D) no 0
+E) every 1
+ 17. Our brain is made of many parts, ______ of which has a specific function.
+A) every 0
+B) all 0
+C) each 1
+D) whole 0
+E) many 0
+ 18. _____ number has an inherent power of analysis; it has also the power of synthesis because of the inner bond that connects all _____ numbers to the unit.
+A) Every / the other 0
+B) Each / other 1
+C) All / some 0
+D) No / any 0
+E) Whole / many 0
+ 19. There were ____ adventurers who were willing to fight in _____ cause if the pay were good.
+A) several / some 0
+B) many / none 0
+C) some / any 1
+D) a good deal of / few 0
+E) the number of / most 0
+ 20. The scientists stripped the DNA from 19 human eggs and implanted in _____ a DNA-containing nucleus from _____ person's cell.
+A) both / the other 0
+B) every / other 0
+C) each / another 1
+D) none / others 0
+E) neither / the others 0
+ 21. When an electron meets an antielectron, _____ particles vanish.
+A) none 0
+B) all 0
+C) both 1
+D) either 0
+E) every 0
+ 22. Physical dating violence affects almost one in _____ 11 adolescents.
+A) several 0
+B) other 0
+C) all 0
+D) every 1
+E) each 0
+ 23. Police had no motive for the attack, and witnesses said they heard _____ demand for money or _____ else.
+A) no / anything 1
+B) any / something 0
+C) some / anyone 0
+D) every / nothing 0
+E) a / anything 0
+ 24. Under law, the manufacturers don't have to declare _____ ingredients.
+A) whole 0
+B) all 1
+C) every 0
+D) each 0
+E) few 0
+ 25. She put forward two proposals, ______ of which didn't make any sense to the participants in the summit.
+A) a good number 0
+B) all 0
+C) neither 0
+D) none 0
+E) either 1
+ 1.   Despite the material donations from the local shops, the school still needs ____ more equipment such as video players, cassette players and computers.
+A) a few 0
+B) many 0
+C) some 1
+D) no 0
+E) plenty 0
+ 2.   The police found ____ counterfeit money as well as guns at the gang's headquarters.
+A) several more  0
+B) a large amount of  1
+C) only a few 0
+D) a number of 0
+E) large numbers of  0
+ 3.   A colleague of ____ has lent us ____ holiday cottage for a week.
+A) him / her 0
+B) mine / his 1
+C) theirs / its 0
+D) your / them 0
+E) our / their 0
+ 4.   There is ____information available on recycling, but unfortunately, little of ____ is known by ordinary people.
+A) a lot of / it 1
+B) plenty of / them 0
+C) several / its 0
+D) much / theirs 0
+E) too many / itself 0
+ 5.   I've seen ____ of his work to know that he's ready for a promotion.
+A) a number 0
+B) both 0
+C) a few 0
+D) several 0
+E) enough 1
+ 6.   Personally, of the two halls, I prefer the one closer to the airport, but ____ seems suitable to hold our conference in.
+A) both 0
+B) all 0
+C) either 1
+D) none 0
+E) every 0
+ 7.   Blood flows to ____ parts of the body through the circulatory system, which is composed of arteries, veins and capillaries.
+A) only a little 0
+B) much 0
+C) whole 0
+D) all 1
+E) every 0
+ 8.   They had ____ money to spend on their house, but even with that limited amount, they managed to create a warm and friendly atmosphere.
+A) a few 0
+B) little 1
+C) the whole 0
+D) plenty of 0
+E) small number of 0
+ 9.___ of the area managers is going to report his total sales to head office ____ two weeks.
+A) All / each 0
+B) Both / another 0
+C) Any / all 0
+D) Every / several 0
+E) Each / every 1
+ 10. We had had so much rain that the fields on ____ sides of the river were ____ flooded.
+A) every / both 0
+B) neither / each 0
+C) each / most 0
+D) all / much 0
+E) both / all 1
+ 11. When the river was flooded, the farmhouse was surrounded by water on ____ sides.
+A) every 0
+B) either 0
+C) each 0
+D) all 1
+E) neither 0
+ 12. ____ sheep escaped from Farmer Gile's field last week, and so far, only ____ of them has been found.
+A) Several / one 1
+B) Many / a few 0
+C) More / each  0
+D) Some / enough 0
+E) A few / some 0
+ 13. Each of ____ has a blue dash of paint on ____ coat, so it will be easy to recognize Farmer Gile's sheep.
+A) it / their 0
+B) him / theirs 0
+C) them / its 1
+D) their / them 0
+E) his / it 0
+ 14. We must admit that the fault was not entirely ____. Some of it must have been ____.
+A) hers / ours 1
+B) his / us 0
+C) their / my 0
+D) her / theirs 0
+E) mine / you 0
+ 15. Thank you for letting me know about this birthday wish of ____.
+A) him 0
+B) me 0
+C) your 0
+D) his 1
+E) us 0
+ 16. I made a lot of friends in Mexico, but I have only kept in touch with ____ them.
+A) plenty of 0
+B) a few of 1
+C) little 0
+D) many 0
+E) several 0
+ 17. If we've got ____ time, we'll try to do ____ shopping as well.
+A) much / a few 0
+B) several / lots of 0
+C) every / plenty 0
+D) plenty of / many 0
+E) enough / some 1
+ 18. Blood plays a critical part in the fight against disease because blood contains ____ kinds of disease- combating agents.
+A) each 0
+B) neither 0
+C) several 1
+D) a lot 0
+E) much 0
+ 19. If parts of the body do not get ____ blood, they will become infected and their tissues will die.
+A) enough 1
+B) many 0
+C) whole 0
+D) all 0
+E) plenty 0
+ 20. Upon graduation, ____ student is sent an information pack giving useful tips and information about finding suitable employment.
+A) all 0
+B) each 1
+C) none 0
+D) many 0
+E) a few 0
+ 21. Although we've already had ____ volunteers, we're still looking for ____ to help out at the school fete.
+A) plenty of / much 0
+B) several / much mor 0
+C) a number of / a few more  1
+D) a lot of / a little more  0
+E) almost no / quite a lot 0
+ 22. ____ of his poems, "The Swans", ____ diffcult to fully appreciate if you don't know about the poet's meeting Nelly Sachs.
+A) Much / have been 0
+B) Several / was 0
+C) A few / is going to 0
+D) Some / has been 0
+E) One / is 1
+ 23. ____ secret meetings the board of directors has had lately have led to ____ speculation in the office.
+A) Every one of / lots of 0
+B) Too many / plenty  0
+C) A great deal of / many  0
+D) A few / some 1
+E) A good many / a few 0
+ 24. If people showed ____ concern for the environment, there wouldn't be ____ pollution in the world.
+A) much / too many 0
+B) enough / none 0
+C) less / several of 0
+D) more / so much  1
+E) a few more / too much  0
+ 25. It takes ____ of concentration and patience to make intricate lace handicrafts.
+A) enough 0
+B) a good deal 1
+C) a little 0
+D) much more  0
+E) a great many  0
+ 26. ____ bird watchers arrived at the place where the rare bird had been sighted.
+A) A small amount of 0
+B) Only a little 0
+C) Too much  0
+D) A good deal of 0
+E) A large number of  1
+ 27. This footballer can kick the ball with ____ feet, but he is especially dangerous with his left.
+A) all 0
+B) neither 0
+C) some 0
+D) both 1
+E) either 0
+ 28. On international airlines, there are always ____ a pilot and a co-pilot and each knows the other's job, so, in the event that ____ falls ill during the fight, the other is qualified to land the plane safely.
+A) either / both 0
+B) neither / any 0
+C) both / either 1
+D) all / neither 0
+E) many / one 0
+ 29. She hasn't accepted the job in Vienna for ____ reasons, the most important of which is that she hates cold weather.
+A) much 0
+B) each 0
+C) every 0
+D) a few 1
+E) plenty 0
+ 30. ____students actively participated in the discussion, which annoyed the teacher because it showed that ____ of them hadn't prepared sufficiently.
+A) Few / most  1
+B) All / hardly any  0
+C) None of / almost no 0
+D) Too few / none  0
+E) Several / enough 0
+ 31. The short life span of ____ animals as compared to humans is an advantage to experimenters since it allows them to observe ____ generations of the same species.
+A) much / the whole 0
+B) many / several 1
+C) a little / a few 0
+D) all / so few 0
+E) any / much more  0
+ 32. I'm sorry there is ____ coffee left. Would you mind drinking tea instead?
+A) some 0
+B) much 0
+C) any 0
+D) no 1
+E) none 0
+ 33. The coach was glad that they didn't have ____ major injuries during the school's sports week, and ____ team was ready for the next week's competition.
+A) a little / very 0
+B) any / the whole 1
+C) none / some of 0
+D) much / much of 0
+E) many / all 0
+ 34. Public transport is getting more and more unbearable in this city because there are ____ people, but not ____ vehicles.
+A) many more / much  0
+B) so much / many 0
+C) several / a little 0
+D) plenty of / a few 0
+E) too many / enough 1
+ 35. Marketing research is ____ expensive undertaking, and its costs are built into ____ prices of products.
+A) an / the 1
+B) - / - 0
+C) the / - 0
+D) the / some 0
+E) the / any 0
+ 36. If you improve ____ conclusion section of your essay, I think you'll get ____better mark.
+A) - / the 0
+B) the / a 1
+C) a / some 0
+D) a / the 0
+E) the / - 0
+ 37. What's ____ name of ____ player who scored ____ last goal?
+A) the / - / a 0
+B) the / the / the 1
+C) - / the / an 0
+D) an / - / the 0
+E) - / - / - 0
+ 38. I'm going to buy ____ hose pipe because I'm tired of washing ____ car using ____ bucket.
+A) the / a / - 0
+B) - / a / the 0
+C) a / a / - 0
+D) a / the / a 1
+E) the / the / - 0
+ 39. ____ highly valued animal fibre, ____ silk has long been used for the production of luxuries textiles of ____ finest quality.
+A) A / - / the 1
+B) - / a / the 0
+C) The / - / a 0
+D) The / the / a 0
+E) A / a / - 0
+ 40. According to Hindus, the god Brahma discovered the pearl when he picked one from the ocean to adorn ____ daughter Pandia on ____ wedding day.
+A) him / hers 0
+B) his / her 1
+C) her / she 0
+D) himself / h 0
+E) herself / him 0
+ 41. She started reading first thing in the morning, and by nightfall, she had read the ____book.
+A) whole 1
+B) either 0
+C) all 0
+D) each 0
+E) every 0
+ 42. The best way to avoid high cholesterol levels in the blood is through maintaining a balanced diet that includes ____ the major food groups in moderation.
+A) many 0
+B) whole 0
+C) all 1
+D) both 0
+E) several 0
+ 43. ____ I was going to suggest was the thing that we should hold our meetings at a more convenient time.
+A) All 1
+B) Each 0
+C) Both 0
+D) Every 0
+E) The whole 0
+ 44. I hope we haven't invited ____ people to welcome them all properly.
+A) lots of 0
+B) plenty of 0
+C) so few 0
+D) too many 1
+E) so much 0
+ 45. A few relatives of ____ are going to stay with ____ over the weekends.
+A) hers / us 1
+B) them / us 0
+C) mine / I 0
+D) him / their 0
+E) his / their 0
+ 46. None of ____ wanted to become involved in the quarrel between two members.
+A) your 0
+B) they 0
+C) her 0
+D) us 1
+E) him 0
+ 47. If we don't get ____ bookings, we'll have to cancel the trip.
+A) a few more  1
+B) much more  0
+C) no longer 0
+D) a little more  0
+E) any longer 0
+ 48. They only delivered ____ our order today, but they will bring the rest tomorrow.
+A) both 0
+B) half 1
+C) some 0
+D) each 0
+E) most 0
+ 49. Arizona State in the US is very hot, but there is usually only ____ humidity, so it is not very pleasant.
+A) several 0
+B) most 0
+C) a little 1
+D) few 0
+E) much 0
+ 50. Of the many dresses she has shown, ____ was actually to her taste, but she had to choose one for the party.
+A) both 0
+B) some 0
+C) none 1
+D) neither 0
+E) most 0
+ 51. Although the film was criticized favourably by ____ critics, it received ____ appreciation from the audience.
+A) many / little 1
+B) some / too few 0
+C) either / less 0
+D) all / fewer 0
+E) both / neither 0
+ 52. A: Should I study art or philosophy? B: ____! In my opinion, they are ____ a waste of time.
+A) Both / either 0
+B) Neither / both 1
+C) All / whole 0
+D) Each / none 0
+E) None / all 0
+ 53. Spanish, Italian, French are all derived from Latin, which is why there are ____ similarities between them.
+A) too much 0
+B) much less 0
+C) such a lot 0
+D) so many 1
+E) very a little 0
+ 54. You can ride up hills much more easily because ____ bicycle has five more gears than ____.
+A) your / mine 1
+B) his / me 0
+C) hers / theirs 0
+D) mine / yours 0
+E) her / us 0
+ 55. Almost ____ nation sends teams of selected athletes to take part in the Olympic Games, which are held ____ four years.
+A) any / all 0
+B) each / many 0
+C) every / every 1
+D) all / each 0
+E) many / a few 0
+ 1. You ____ the meeting this week if you are too busy. There is going to be another one next week and you ____ to that one.
+A) might not attend / would go  0
+B) needn't attend / can go  1
+C) can't attend / have gone  0
+D) won't have attended / go  0
+E) didn't attend / used to go 0
+ 2. You look as if you are having trouble with your homework. ____ you like me to help you with it?
+A) Could  0
+B) Did  0
+C) May  0
+D) Would  1
+E) Shall 0
+ 3. I thought that I had my keys with me, but I can't find them in my coat. I ____ them in my other coat.
+A) am supposed to leave  0
+B) am able to leave  0
+C) would rather have left  0
+D) must have left  1
+E) could leave 0
+ 4. I've heard that Mr Benner is the toughest teacher for this course. You ____ to get another teacher, or you can't get a good mark.
+A) had better try  1
+B) must have tried  0
+C) have tried  0
+D) would try  0
+E) might have tried 0
+ 5. You ____ to bed early the night before an exam. A good night's sleep will do you more good than studying all night and then falling asleep in the exam.
+A) will have gone  0
+B) may go  0
+C) ought to go  1
+D) would go  0
+E) would rather go 0
+ 6. Would you mind ____ your music so loudly? I am trying to study.
+A) not play  0
+B) not playing  1
+C) didn't play  0
+D) not to play  0
+E) haven't played 0
+ 7. The former president never ____ to the press, but this one is much more accessible.
+A) could have talked  0
+B) should be talking  0
+C) must have talked  0
+D) has to talk  0
+E) used to talk 1
+ 8. Hurray! We ____ to school today because it is snowing so hard.
+A) haven't been going  0
+B) shouldn't have gone  0
+C) must not have gone  0
+D) don't have to go  1
+E) may not have gone 0
+ 9. Wilber ____ smoking and eating meat after his heart attack, but he didn't and now he has had a second one.
+A) should have stopped  1
+B) must have stopped  0
+C) was able to stop  0
+D) will have stopped  0
+E) used to stop 0
+ 10. According to the weather report, it ____ tomorrow, and if it does, we ____the hike I've been looking forward to.
+A) ought to rain / cancelled  0
+B) must rain / were able to cancel  0
+C) may rain / will have to cancel  1
+D) would be raining / had to cancel  0
+E) has been raining / must cancel 0
+ 11. I know you have a lot of work to do, but it is your own fault; you ____ everything until the last minute.
+A) can't have left  0
+B) might not leave  0
+C) must not have left  0
+D) shouldn't have left  1
+E) haven't been leaving 0
+ 12. I'd really rather ____ in Hawaii at the moment than be stuck behind this desk all day.
+A) I am surfing  0
+B) to be surfing  0
+C) to surf  0
+D) have surfed  0
+E) be surfing 1
+ 13. You ____ your plane ticket so far in advance because flights to Birmingham are never full
+A) can't buy  0
+B) needn't have bought  1
+C) didn't use to buy  0
+D) haven't bought  0
+E) couldn't have bought 0
+ 14. In Iran and Saudi Arabia, all women ____ their heads outside of the house, but in most Muslim countries it is optional.
+A) have to cover  1
+B) must have covered  0
+C) could be covering  0
+D) might cover  0
+E) used to cover 0
+ 15. I ____ a stockbroker if I had wanted to, but I thought life as a bass guitarist in a heavy metal band would be far more interested.
+A) was able to become  0
+B) may have become  0
+C) had become  0
+D) could have become  1
+E) used to become 0
+ 16. You ____ more carefully. Now the insurance company won't pay you anything because the accident was your fault.
+A) must have been driving  0
+B) should be driving  0
+C) had been driving  0
+D) ought to have been driving  1
+E) have been driving 0
+ 17. I'd rather you ____ out tonight because, according to the news, there could be trouble downtown.
+A) haven't gone  0
+B) not to go  0
+C) didn't go  1
+D) won't go  0
+E) not going 0
+ 18. A friend of mine told me that I ____ India in the summer because that is the monsoon season when it is both too hot and too wet.
+A) didn't use to visit  0
+B) needn't visit  0
+C) haven't visited  0
+D) might not visit  0
+E) shouldn't visit 1
+ 19. Hawaii is such an expensive place to live and the wages are so low that you ____ very hard just to get by.
+A) are able to work  0
+B) have to work  1
+C) have worked  0
+D) must have worked  0
+E) used to work 0
+ 20. We had better hurry if we want to get back to the hotel before the curfew. No one ____ out after dark, except for the patrol forces, you know.
+A) could have been  0
+B) is supposed to be  1
+C) has been  0
+D) has to be  0
+E) should have been 0
+ 21. Mike couldn't attend university because he ____ his family when his father died.
+A) had to support  1
+B) must have supported  0
+C) could be supporting  0
+D) has been supporting  0
+E) will have supported 0
+ 22. Petroleum deposits can occur almost anywhere - they ____ under desert, under fertile land, or even under the sea.
+A) ought to be  0
+B) may be  1
+C) must be  0
+D) were  0
+E) should have been 0
+ 23. Using the latest and most expensive technology, including nuclear batteries, space scientists ____ to the furthest reaches of our solar system now.
+A) were probing  0
+B) may have probed  0
+C) used to probe  0
+D) are able to probe  1
+E) must have probed 0
+ 24. Now remember, when you are in the race you ____ to run too fast in the first few laps because you will need plenty of energy for the final sprint.
+A) haven't tried  0
+B) shouldn't have tried  0
+C) mustn't try  1
+D) might not try  0
+E) didn't use to try 0
+ 25. There are some sounds that are out of the range of the human ear but which dogs ___.
+A) ought to hear  0
+B) have heard  0
+C) can hear  1
+D) have to hear  0
+E) used to hear 0
+ 26. My sister ____ a German teacher because her German was fluent, but she decided to become an accountant instead
+A) has become  0
+B) had to become  0
+C) will become  0
+D) could have become  1
+E) must have become 0
+ 27. You ____ me at work. The boss was really angry because he had warned me before about personal calls.
+A) must not have phoned  0
+B) shouldn't have phoned  1
+C) didn't phone  0
+D) didn't use to phone  0
+E) can't have phoned 0
+ 28. Sally ____ Italian like a native, but since she moved to Indiana, she has forgotten most of it.
+A) used to speak  1
+B) had spoken  0
+C) was supposed to speak  0
+D) has been speaking  0
+E) must have spoken 0
+ 29. While there seem to be plenty of unexploited petroleum reserves, some experts worry that there ____ enough to carry us through the next century.
+A) may not be  1
+B) haven't been  0
+C) didn't use to be  0
+D) don't have to be  0
+E) had better not be 0
+ 30. Today, no one can imagine what a battle at sea was like in the days of sail. It ____ both an impressive and frightening sight.
+A) might be  0
+B) could be  0
+C) ought to be  0
+D) has been  0
+E) must have been 1
+ 31. When we went to Japan, we ____ anything for ourselves because our Japanese hosts took care of everything.
+A) must not have done  0
+B) needn't have done  0
+C) didn't need to do  1
+D) couldn't have done  0
+E) ought not to do 0
+ 32. A: I hear a noise coming from the kitchen. \n B: My greedy brother ____ for something to eat.
+A) must be looking  1
+B) should have looked  0
+C) used to look  0
+D) ought to be looking  0
+E) has looked 0
+ 33. A: Did you know that classes were cancelled yesterday because the heating in the building failed? B: No, but I ____ anyway because I was in bed all day with flu.
+A) didn't use to attend  0
+B) won't be attending  0
+C) must not have attended  0
+D) haven't attended  0
+E) couldn't have attended 1
+ 34. I know I ____ for a job, but there are so few jobs for a person of my abilities, which is discouraging.
+A) had been looking  0
+B) ought to look  1
+C) must have looked  0
+D) was able to look  0
+E) used to look 0
+ 35. ____ the same computer program when I worked at a bank, so it ____ easy for me to adjust to this new job.
+A) should be using / could be  0
+B) used to use / should be  1
+C) need to use / would be  0
+D) must have used / must be  0
+E) might have used / can be 0
+ 36. He ____ as carefully as he claimed he was. Why did he bump me to the lamp post then?
+A) doesn't have to drive  0
+B) isn't supposed to drive  0
+C) won't have been driving  0
+D) shouldn't have driven  0
+E) can't have been driving 1
+ 37. Would you mind if I ____ early this afternoon? I have a dentist appointment at 4:30.
+A) to leave  0
+B) had left  0
+C) leaving  0
+D) left  1
+E) have left 0
+ 38. I'm so glad that I ____ to the meeting place on time yesterday despite the heavy traffic, or the boss would have been really annoyed.
+A) was able to get  1
+B) have got  0
+C) used to get  0
+D) should have got  0
+E) had to get 0
+ 39. Sean ____ married three months ago and since then he ____ out drinking with his old friends.
+A) had got / ought not to go  0
+B) used to get / couldn't have gone  0
+C) got / hasn't been able to go  1
+D) has got / shouldn't be going  0
+E) was getting / didn't have to go 0
+ 40. These days, he ____ to stop smoking and playing cards as well because his wife is so strict with him, so his life will have changed completely soon.
+A) used to try  0
+B) is trying  1
+C) tried  0
+D) had to try  0
+E) could have tried 0
+ 41. It is hardly surprising that he gets depressed and wonders if he really ____ married.
+A) may have got  0
+B) must have got  0
+C) used to get  0
+D) will have got  0
+E) ought to have got 1
+ 42. Though Sally ____ how to swim, when she met a young man who was a professional diver, she learned quickly.
+A) hasn't known  0
+B) might not know  0
+C) can't know  0
+D) wouldn't know  0
+E) didn't know 1
+ 43. Our father never earned much money, but he ____ something nice for us whenever he ____.
+A) should buy / did  0
+B) had to buy / does  0
+C) would buy / could  1
+D) must have bought / can  0
+E) would rather buy / has 0
+ 44. Where have you been? You ____ here at 2 o'clock, and it's almost 3.
+A) must have been  0
+B) were supposed to be  1
+C) were able to be  0
+D) are going to be  0
+E) have been 0
+ 45. I told my flatmate to buy some bread, but he ____ because there isn't any here.
+A) must have forgotten  1
+B) ought to be forgetting  0
+C) could forget  0
+D) should have forgotten  0
+E) was able to forget 0
+ 46. Sue has only been in Egypt for a year and she already speaks Arabic fluently. She ____ it that quickly. I'm sure she had started studying it before she left England.
+A) shouldn't have learned  0
+B) won't have learned  0
+C) can't have learned  1
+D) didn't use to learn  0
+E) isn't supposed to learn 0
+ 47. Do you think Jeff ____ to join us on our hike? Does he like this sort of activity?
+A) would rather  0
+B) was able  0
+C) has been able  0
+D) had better  0
+E) would like 1
+ 48. Sam is such a good swimmer that he ____ the Olympic record for the 100-metre race, but unfortunately, he didn't compete because of a pulled shoulder muscle.
+A) is going to break  0
+B) must have broken  0
+C) could have broken  1
+D) is supposed to break  0
+E) had to break 0
+ 49. I wonder what the problem was in the restaurant last night. Three members of staff ____ tables, but there was only one, I must speak to the restaurant manager.
+A) could be clearing  0
+B) ought to be clearing  0
+C) should have been clearing  1
+D) must have been clearing  0
+E) were clearing 0
+ 50. Hey, watch where you are going! You ____ me!
+A) could have killed  1
+B) should have killed  0
+C) have killed  0
+D) will have killed  0
+E) used to kill 0
+ 1.  The company had sent the advertisement to the newspaper when they realised they'd mistyped the salary they were offering for the position. Luckily, they ____ the newspaper to correct their mistake before they printed it.
+A) could have asked  0
+B) were able to ask  1
+C) must have asked  0
+D) were supposed to ask  0
+E) might have asked 0
+ 2. A: I wish I hadn't criticised Mark's drawings yesterday because he hasn't spoken to me today. Do you think he'll come to my party on Friday? B: Possibly, he ____ you by then.
+A) has forgiven  0
+B) was able to forgive  0
+C) might have forgiven  1
+D) must have forgiven  0
+E) used to forgive 0
+ 3. Since the day his manager transferred him to the foundry section of the steelworks, he ____ safety goggles.
+A) will be wearing  0
+B) has had to wear  1
+C) ought to wear  0
+D) must have worn  0
+E) is wearing 0
+ 4. A: This student has circled the mistakes in the text, but he hasn't corrected them, so he'll only get half marks. B: He ____ the instructions
+A) would rather not read  0
+B) had better not read  0
+C) needn't have read  0
+D) shouldn't have read  0
+E) must not have read 1
+ 5. As a single woman, Lucy ____ quite a lot of money on clothes, jewellery and cosmetics, but now married with two children, she can't spare so much money on them.
+A) might spend  0
+B) had spent  0
+C) would rather spend  0
+D) would spend  1
+E) should have spent 0
+ 6. A: Are you going to enrol on the second course when we finish this one? B: I don't know. It's tiring coming every day after work. I ____ a month before I start the second course.
+A) may wait  1
+B) am supposed to wait  0
+C) have waited  0
+D) have to wait  0
+E) could have waited 0
+ 7. James will book the hotel rooms for the German representatives and you ____ them at the airport at eight o'clock. Is that clear?
+A) have met  0
+B) can meet  0
+C) are to meet  1
+D) had met  0
+E) would meet 0
+ 8. ____ lending me 25 cents so that I don't have to break a hundred-dollar bill?
+A) Would you like  0
+B) Would you rather  0
+C) Would you mind  1
+D) Had you better  0
+E) Do you like 0
+ 9. A: Jack doesn't work for a computer company, so why has he gone to the computer exhibition? B: I don't know. He ____ interested in buying a computer to use at home or perhaps he's thinking of starting his own company.
+A) must be  0
+B) has to be  0
+C) will be  0
+D) ought to be  0
+E) could be 1
+ 10. You ____ anything to me if you want to spend virtually your entire wages on lottery tickets, then that's up to you.
+A) couldn't have explained  0
+B) don't have to explain  1
+C) weren't able to explain  0
+D) shouldn't have explained  0
+E) weren't supposed to explain 0
+ 11. You ____ anything after your operation. The nurses will tell you when it is all right.
+A) needn't eat  0
+B) don't have to eat  0
+C) couldn't eat  0
+D) mustn't eat  1
+E) might not eat 0
+ 12. Oh dear, my fruit cake is a little too sweet. I ____ the amount of sugar I add to the mixture next time.
+A) have been reducing  0
+B) should have reduced  0
+C) will have to reduce  1
+D) have had to reduce  0
+E) must be reducing 0
+ 13. Isn't it great that Tim and Sue have given up smoking? They both ____ too much.
+A) used to smoke  1
+B) ought to be smoking  0
+C) must be smoking  0
+D) would rather smoke  0
+E) have been smoking 0
+ 14. A: What's happened to Mr Meyer? \nB: He's ill in hospital. They ____keep him in overnight, and if they do, he ____ travel back to Germany tomorrow morning
+A) may / won't be able to  1
+B) would / ought not to  0
+C) shall / doesn't have to  0
+D) can / couldn't  0
+E) ought to / didn't use to 0
+ 15. A: ____we paint the kitchen this weekend? B: We could, but I ____ wait until the weather gets better because we'll have to open the window.
+A) Ought / prefer  0
+B) May / must  0
+C) Can / would like  0
+D) Shall / would sooner  1
+E) Would / had better 0
+ 16. A: I couldn't persuade John to come to the match with us. He said he couldn't afford it. B: You ____ to lend him the money. A: I did, but he said he ____ borrow any money at that moment.
+A) have offered / ought not to  0
+B) could have offered / would rather not  1
+C) may have offered / didn't use to  0
+D) must have offered / wouldn't like  0
+E) can offer / had better not 0
+ 17. ____I ask you a favour? ____ you work on Thursday night this week instead of Friday night?
+A) Can / Did  0
+B) Would / Will  0
+C) May / Could  1
+D) Might / Shall  0
+E) Must / Would 0
+ 18. Amy Johnson, the first woman pilot who ____ from England to Australia, ____ several times during her flight to fill her plane with petrol.
+A) had flown / has stopped  0
+B) could fly / was stopping  0
+C) used to fly / might stop  0
+D) was flying / would rather stop  0
+E) flew / had to stop 1
+ 19. ____ you take this screwdriver back to Mr Smith next door and thank him for lending it to us
+A) Will  1
+B) Must  0
+C) Ought  0
+D) Shall  0
+E) May 0
+ 20. They ____ their house yet. They only put it up for sale yesterday.
+A) haven't been selling  0
+B) might not be selling  0
+C) needn't have sold  0
+D) ought not to sell  0
+E) can't have sold 1
+ 21. We ____ get a visa before we ____ go to Bulgaria.
+A) could / would  0
+B) are to / must  0
+C) have to / can  1
+D) may / have to  0
+E) will / shall 0
+ 22. I only had a brief chat with Marry at the bus stop, so I ____ to ask her how she ____ on in her new job.
+A) might forget / could get  0
+B) forgot / was getting  1
+C) have forgotten / used to get  0
+D) would forget / gets  0
+E) must have forgotten / should get 0
+ 23. A: Well, I've got lots of great ideas, but I haven't written anything down yet. B: But you ____us a written outline of your section of the project today! A: Don't panic. I'll do it tomorrow.
+A) would rather have given  0
+B) were able to give  0
+C) must have given  0
+D) were supposed to give  1
+E) had to give 0
+ 24. Our father ____ a small present for me and my sister every month when he ____ his salary.
+A) was buying / had received  0
+B) has had to buy / was receiving  0
+C) must have bought / could receive  0
+D) would buy / received  1
+E) bought / could have received 0
+ 25. I ____ listening to pop music at all, but recently I have realised that I quite like certain pop-songs.
+A) didn't use to enjoy  1
+B) ought not to enjoy  0
+C) must not have enjoyed  0
+D) can't have been enjoying  0
+E) wasn't enjoying 0
+ 26. When their baby was born, Lucy ____ up work until they found someone to look after the baby.
+A) must give  0
+B) ought to give  0
+C) had to give  1
+D) used to give  0
+E) has given 0
+ 27. They had their baby daughter in June and, since then, they ____ in restaurants very often.
+A) didn't use to eat  0
+B) couldn't eat  0
+C) aren't supposed to eat  0
+D) haven't been able to eat  1
+E) weren't able to eat 0
+ 28. Do you think he ____ to watch the match with us? I know he enjoys football.
+A) would sooner  0
+B) had better  0
+C) would mind  0
+D) preferred  0
+E) would like 1
+ 29. Would you mind if I ____ the secretary for half an hour, Mr Pitt? She has two thousand leaflets to send out.
+A) helping  0
+B) helped  1
+C) help  0
+D) have helped  0
+E) to help 0
+ 30. A: I missed this week's episode of "The Simpsons". What happened? B: I don't know. I don't watch it anymore. A: Why not? I thought you were a fan of the show like me. B: Yes, I ____ it three times a week, but now I go to German lessons every night.
+A) used to watch  1
+B) had watched  0
+C) must have watched  0
+D) have watched  0
+E) was able to watch 0
+ 31. I believe you ____this computer programme in your previous job, so you ____ it difficult at times. Please don't hesitate to ask me for help.
+A) didn't use / might find  1
+B) haven't used / must find  0
+C) couldn't use / have found  0
+D) may not use / will find  0
+E) hadn't used / can find 0
+ 32. Apparently, the man across the road ____ his car after all because he took down the for-sale sign a week ago and he is still driving to work
+A) used to keep  0
+B) had better keep  0
+C) was keeping  0
+D) was able to keep  0
+E) is keeping 1
+ 33. A: Hopefully, Peter booked the tickets for us yesterday. B: He ____them yesterday. The booking office is closed on Saturdays. A: Oh well, I'm sure he'll order them tomorrow then.
+A) had better not looked  0
+B) hasn't booked  0
+C) couldn't have booked  1
+D) needn't have booked  0
+E) wasn't supposed to book 0
+ 34. A: I didn't think Paul and Sam were coming to the picnic. B: They ____ their minds. A: Well, it's nice to see them again
+A) would rather change  0
+B) used to change  0
+C) must have changed  1
+D) should have changed  0
+E) had better chang 0
+ 35. I'm glad that I ____ hard to persuade my parents because they were already keen on the idea.
+A) ought not to try  0
+B) didn't need to try  1
+C) needn't have tried  0
+D) mustn't try  0
+E) wasn't able to try 0
+ 36. When it was completed, the Eiffel Tower ____ the tallest building in the world, but now there are many others that are taller than the Eiffel Tower.
+A) would be  0
+B) must be  0
+C) used to be  0
+D) was  1
+E) has been 0
+ 37. Cats are very alert to any movement. For this reason, they will pounce when a victim ____ but ____prey that remains still
+A) can move / couldn't attack  0
+B) is moving / shouldn't attack  0
+C) has moved / aren't attacking  0
+D) moved / don't attack  0
+E) moves / may not attack 1
+ 38. When I lived in England, I ____Indian food several times a month, but here in Istanbul, it's virtually impossible to find
+A) shall eat  0
+B) would eat  1
+C) ought to eat  0
+D) have eaten  0
+E) had eaten 0
+ 39. A: Mrs Parkinson ____ three accidents in the last month. B: She ____ a very careful driver, then. A: Couldn't it have been just bad luck?
+A) was having / can't be  0
+B) has / shouldn't be  0
+C) has had / must not be  1
+D) is having / wasn't  0
+E) used to have / isn't 0
+ 40. The weather is awful again today. Let's look in the newspaper. There ____ a good film showing at the cinema.
+A) can be  0
+B) had to be  0
+C) would rather be  0
+D) might be  1
+E) should have been 0
+ 41. Cellulose is indigestible by humans, but herbivores, such as cows and horses, ____ it because they retain it long enough for digestion by micro-organisms present in their digestive system
+A) can digest  1
+B) have to digest  0
+C) used to digest  0
+D) have digested  0
+E) ought to digest 0
+ 42. You ____ all your holiday money on the first day. You will need some for the rest of the week.
+A) didn't use to spend  0
+B) mustn't spend  1
+C) don't spend  0
+D) might not spend  0
+E) haven't spent 0
+ 43. Using lasers to produce extremely short and repeatable pulses of light, today scientists ____ events happening in time intervals as short as 1,000 trillionths of a second
+A) must have measured  0
+B) were measuring  0
+C) used to measure  0
+D) may have measured  0
+E) are able to measure 1
+ 44. Living cells exist in a variety of shapes; for example, they ____ cube-shaped or fla
+A) may be  1
+B) must be  0
+C) were  0
+D) have been  0
+E) ought to be 0
+ 45. We ____ the football match on television yesterday, but we ____ because there was a power cut.
+A) should be watching / may not  0
+B) were supposed to watch / haven't  0
+C) were going to watch / couldn't  1
+D) had better watch / needn't  0
+E) were watching / aren't 0
+ 46. Oh no, look at the sign! We ____ here. These spaces are for doctors and emergency patients only.
+A) needn't have parked  0
+B) won't be parking  0
+C) haven't got to park  0
+D) aren't supposed to park  1
+E) couldn't have parked 0
+ 47. You ____ your children some freedom; otherwise, they will resent you
+A) used to allow  0
+B) must allow  1
+C) have allowed  0
+D) allow  0
+E) are able to allow 0
+ 48. It's not easy learning Turkish at home. Do you think I ____an evening course?
+A) must have taken  0
+B) have taken  0
+C) should take  1
+D) had to take  0
+E) used to take 0
+ 49. I refused to give my son any money for the "Mega Death" sweatshirt he wants to buy, but I'm sure he'll try to get some from his grandmother. I'd really rather she ____ him the money because I don't want him to wear such an awful thing.
+A) didn't lend  1
+B) won't lend  0
+C) not to lend  0
+D) not lending  0
+E) had better not lend 0
+ 50. He ____ safety goggles, but he wasn't and, as a result, the hot steel badly damaged his eyes
+A) could have been wearing  0
+B) must have been wearing  0
+C) had been wearing  0
+D) should be wearing  0
+E) ought to have been wearing 1
+ 51. I ____ my car last week if I had accepted James' offer. He offered me two thousand dollars for it, but I wanted more.
+A) used to sell  0
+B) could have sold  1
+C) had sold  0
+D) may have sold  0
+E) was able to sell 0
+ 52. In parts of Africa, women still ____ water a long way to their village
+A) used to carry  0
+B) might carry  0
+C) could have carried  0
+D) have to carry  1
+E) must have carried 0
+ 53. Why did you bother so much trying to change your money? You ____ it, you know, as they accept US dollars in Mexico
+A) couldn't have changed  0
+B) haven't changed  0
+C) didn't use to change  0
+D) needn't have changed  1
+E) can't change 0
+ 54. I'd rather ____the match on television than here in the pouring rain. I'm sure we'll all catch a cold!
+A) I watched  0
+B) have watched  0
+C) to watch  0
+D) to have watched  0
+E) be watching 1
+ 55. You knew that we had to walk a long way today, so you really ____ those high heeled shoes. You only have yourself to blame for your aching feet.
+A) don't have to wear  0
+B) must not have worn  0
+C) should't have worn  1
+D) might not wear  0
+E) can't have worn 0
+ 56. I think Victoria ____ to the party although she really wants to because she is flying to Paris the next day and has to pack her things.
+A) may not come  1
+B) couldn't come  0
+C) wouldn't come  0
+D) didn't come  0
+E) must not come 0
+ 57. You ____ this report to the managing director personally. Do you understand?
+A) would sooner hand  0
+B) would like to hand  0
+C) may have handed  0
+D) are to hand  1
+E) have handed 0
+ 58. You ____ for the cocktail party after the conference if you are worried about arriving home late.
+A) needn't have stayed  0
+B) don't have to stay  1
+C) haven't stayed  0
+D) weren't able to stay  0
+E) didn't use to stay 0
+ 59. He ____ handball quite often, but his new job requires him to travel a lot now, so he doesn't have time anymore.
+A) must have played  0
+B) has to play  0
+C) should be playing  0
+D) could have played  0
+E) used to play 1
+ 60. Would you mind ____ your cigarette smoke in my face? It's getting on my nerves
+A) not to blow  0
+B) didn't blow  0
+C) not blowing  1
+D) haven't blown  0
+E) not blow 0
+ 61. You ____ your jacket on a clothes hanger and not leave it on the chair. You'll crease it!
+A) must have hung  0
+B) would hang  0
+C) may hang  0
+D) ought to hang  1
+E) will have hung 0
+ 62. It's a long journey and there may not be any restaurants on the way. You ____ something before you leave.
+A) might have eaten  0
+B) would eat  0
+C) had better eat  1
+D) are able to eat  0
+E) must have eaten 0
+ 63. I knew that Marcus didn't have much money, but he has just bought a new car. He ____ the money from someone
+A) could borrow  0
+B) must have borrowed  1
+C) would rather have borrowed  0
+D) is able to borrow  0
+E) is supposed to borrow 0
+ 64. ____ I get some plates while you are cutting the cake
+A) Do  0
+B) Let  0
+C) Shall  1
+D) Did  0
+E) Would 0
+ 65. We ____ anything tonight. We ____ the leftovers from yesterday's dinner part
+A) didn't cook / used to eat  0
+B) must not have cooked / will eat  0
+C) won't have cooked / should eat  0
+D) might not cook / would eat  0
+E) needn't cook / can wait 1
+t

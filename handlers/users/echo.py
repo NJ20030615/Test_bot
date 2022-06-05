@@ -5,7 +5,7 @@ from aiogram import types
 from aiogram.types import ReplyKeyboardRemove
 from aiogram.dispatcher import FSMContext
 
-from keraksiz import new_test
+from keraksiz import new_test, length
 from loader import dp, db
 from keyboards.inline.login import login_keyboard, login_keyboard_2, login_keyboard_3
 from keyboards.inline.test import button_test, answers_button
@@ -132,7 +132,7 @@ async def test(message: types.Message):
         await message.answer("Testni ishlash uchun quyidagi tugmani bosing:", reply_markup=button_test())
         tests = []
         while len(tests) < 50:
-            test_number = randint(0, 83)
+            test_number = randint(0, length())
             if test_number not in tests:
                 tests.append(test_number)
         s = ""
@@ -151,11 +151,10 @@ async def test(call: types.CallbackQuery):
     db.update_user_score(call.from_user.id, "0")
     i = 0
     number = db.select_user_by_id(call.from_user.id)[9]
-    test_numbers = number[9].split(" ")
     number += f"{i}"
     db.update_user_status(call.from_user.id, number)
     text = f"{i+1}) {tests[int(i)][0]}\n{tests[int(i)][1][0]}\n{tests[int(i)][2][0]}\n{tests[int(i)][3][0]}\n" \
-           f"{tests[int(i)][4][0]}"
+           f"{tests[int(i)][4][0]}\n{tests[int(i)][5][0]}"
     correct_answer = ""
     if tests[int(i)][1][1] == "1":
         correct_answer = "A"
@@ -165,6 +164,8 @@ async def test(call: types.CallbackQuery):
         correct_answer = "C"
     elif tests[int(i)][4][1] == "1":
         correct_answer = "D"
+    elif tests[int(i)][5][1] == "1":
+        correct_answer = "E"
     await call.message.answer(text, reply_markup=answers_button(correct_answer))
 
 
@@ -189,8 +190,8 @@ async def true(call: types.CallbackQuery):
             test_numbers.pop()
             test_numbers.append(str(i))
             number = ""
-            for i in test_numbers:
-                number = number + i + " "
+            for j in test_numbers:
+                number = number + j + " "
             number = number[:-1]
             db.update_user_status(call.from_user.id, number)
             if call.data == "T":
@@ -199,8 +200,9 @@ async def true(call: types.CallbackQuery):
                 await call.answer("✅")
             else:
                 await call.answer("❌")
-            text = f"{int(i)+1}) {tests[int(i)][0]}\n{tests[int(i)][1][0]}\n{tests[int(i)][2][0]}\n" \
-                   f"{tests[int(i)][3][0]}\n{tests[int(i)][4][0]}"
+            j = int(number.split(" ")[i])
+            text = f"{int(i)+1}) {tests[int(j)][0][tests[int(j)][0].find('.')+1:]}\n{tests[int(j)][1][0]}\n" \
+                   f"{tests[int(j)][2][0]}\n{tests[int(j)][3][0]}\n{tests[int(j)][4][0]}\n{tests[int(j)][5][0]}"
             correct_answer = ""
             if tests[int(i)][1][1] == "1":
                 correct_answer = "A"
@@ -210,6 +212,8 @@ async def true(call: types.CallbackQuery):
                 correct_answer = "C"
             elif tests[int(i)][4][1] == "1":
                 correct_answer = "D"
+            elif tests[int(i)][5][1] == "1":
+                correct_answer = "E"
             await call.message.edit_text(text, reply_markup=answers_button(correct_answer))
 
 
