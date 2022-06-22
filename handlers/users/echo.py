@@ -9,6 +9,7 @@ from keraksiz import new_test, length
 from loader import dp, db
 from keyboards.inline.login import login_keyboard, login_keyboard_2, login_keyboard_3
 from keyboards.inline.test import button_test, answers_button
+from keyboards.inline.kanallar import support
 from keyboards.default.login import button_phone_number
 from keyboards.default.main_page import button_main
 from states.login_states import LoginState
@@ -17,8 +18,8 @@ from states.login_states import LoginState
 @dp.callback_query_handler(text='kanallar_check', state='*')
 async def check(call: types.CallbackQuery):
     await call.message.edit_text(text="Yana bir bor botimizga xush kelibsiz.\nDavom ettirish uchun"
-                                      " ro'yxatdan o'tinsh tugmasini bosing.",
-                                 reply_markup=login_keyboard())
+                                      " ro'yxatdan o'tinsh tugmasini bosing.\n<strong>Eslatma:</strong> Ma’lumotlar "
+                                      "faqat lotin alifbosida to‘ldirilishi shart",  reply_markup=login_keyboard())
 
 
 @dp.callback_query_handler(text="Ro'yxatdan o'tish", state="*")
@@ -100,7 +101,20 @@ async def echo(message: types.Message, state: FSMContext):
 
 @dp.message_handler(text="ℹ️ Ma'lumot")
 async def info(message: types.Message):
-    await message.answer("Bot uchun ma'lumot:", )
+    await message.answer("Yoshlar ishlari agentligi tillarni o‘rta (B1) va undan yuqori darajada biladigan yoshlar "
+                         "uchun IBRAT LANGUAGE CAMP yozgi oromgohini tashkil qilmoqda!\n\nIBRAT LANGUAGE CAMP yozgi"
+                         " oromgohi 16 yoshdan 25 yoshgacha bo‘lgan yoshlar uchun:\n- chet tillari bo‘yicha nazariy"
+                         " mashg‘ulotlarni o‘tkazish;\n- yoshlar bilan amaliy ish tajribasini almashish;\n- xorijiy"
+                         " tillarda so'zlashuvchi yoshlar hamjamiyatini yaratish maqsadlarida tashkil etiladi.\n\n"
+                         "1. Oromgoh bepul va 7 kun davom etadi. Toshkent shaxrigacha bo'lgan yo'l xarajatlarini "
+                         "o'zingiz qoplaysiz. Qolgan barcha xarajatlar Yoshlar ishlari agentligi tomonidan "
+                         "qoplanadi.\n\n2. Oromgohga qabul qilishda rasmiy sertifikatlar majburiy emas. Tilni "
+                         "bilish darajangiz minimum B1 (4.0,4.5,5.0)bo’lishi kerak. Bu baholarni tasdiqlovchi "
+                         "sertifikat bo’lmagan taqdirda ham, test va suhbat orqali sizdan alohida sinov imtixoni "
+                         "olinadi.\n\n"
+                         "Barcha ishtrokchilarga imkon berish maqsadida 2021-yil Ibrat oromgohida ishtrokchi "
+                         "sifatida qatnashganlar, bu yilgi(2022 yil) Ibrat oromgohida qatnashish imkoniga ega "
+                         "emaslar.", reply_markup=support())
 
 
 @dp.message_handler(text="👤 Profilim")
@@ -139,7 +153,6 @@ async def test(message: types.Message):
         for i in tests:
             s = s + str(i) + " "
         db.update_user_status(message.from_user.id, s)
-        db.update_user_date(message.from_user.id, datetime.now())
     else:
         await message.answer(f"Siz test yechib bo'ldingiz.\nSizning natijangiz: {user[8]} ball")
 
@@ -147,13 +160,15 @@ async def test(message: types.Message):
 @dp.callback_query_handler(text="test")
 async def test(call: types.CallbackQuery):
     tests = new_test("baza.txt")
-    await call.message.edit_text(f"Test boshlandi:")
+    await call.message.edit_text(f"Test boshlandi."
+                                 f"\n Test ishlash vaqti 60 minut")
+    db.update_user_date(call.from_user.id, datetime.now())
     db.update_user_score(call.from_user.id, "0")
     i = 0
     number = db.select_user_by_id(call.from_user.id)[9]
     number += f"{i}"
     db.update_user_status(call.from_user.id, number)
-    text = f"{i+1}) {tests[int(i)][0]}\n{tests[int(i)][1][0]}\n{tests[int(i)][2][0]}\n{tests[int(i)][3][0]}\n" \
+    text = f"{i+1}) {tests[int(i)][0][2:]}\n{tests[int(i)][1][0]}\n{tests[int(i)][2][0]}\n{tests[int(i)][3][0]}\n" \
            f"{tests[int(i)][4][0]}\n{tests[int(i)][5][0]}"
     correct_answer = ""
     if tests[int(i)][1][1] == "1":
@@ -178,7 +193,7 @@ async def true(call: types.CallbackQuery):
     date = datetime.strptime(date, "%Y-%m-%d %H:%M:%S.%f")
     timedifference = datetime.now() - date
     timedifference = timedifference.seconds
-    if timedifference > 1200:
+    if timedifference > 3600:
         await call.message.edit_text(f"Testni ishlash vaqti tugadi.", )
     else:
         number = db.select_user_by_id(call.from_user.id)[9]

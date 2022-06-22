@@ -12,3 +12,11 @@ def kanallar_keyboard():
         ],
         ])
     return keys
+
+def support():
+    keys = InlineKeyboardMarkup(inline_keyboard=[
+        [
+            InlineKeyboardButton(text="Support", url="https://t.me/ibratcamp2022supportbot"),
+        ],
+    ])
+    return keys

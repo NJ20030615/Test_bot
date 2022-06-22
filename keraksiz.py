@@ -41,7 +41,8 @@ def new_test(file_name):
 def length():
     return len(new_test("baza.txt"))-1
 
-print(len(new_test("baza.txt")))
+print((new_test("baza2.txt")))
+print(length())
 # tests = new_test("baza.txt")
 #
 # for i in range(len(tests)):

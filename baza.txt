@@ -1558,4 +1558,3395 @@ B) must not have cooked / will eat  0
 C) won't have cooked / should eat  0
 D) might not cook / would eat  0
 E) needn't cook / can wait 1
-t
+ 1.   Cold deserts _____ in snow, which don't receive much precipitation.
+A) should be covered  0
+B) must be covered  0
+C) had better be covered  0
+D) might have been covered  0
+E) can be covered  1
+ 2.   The money in our pocket _____ far less today than it _____ ten years ago.
+A) could buy / would 1
+B) can buy / had 0
+C) should buy / had 0
+D) might buy / should 0
+E) may buy / had to 0
+ 3.   They reminded me that we _____ an early start the next morning, so we _____ late to bed.
+A) would make / didn't need to be  0
+B) must have made / can't be 0
+C) would make / wouldn't be  1
+D) could make / needn't have been  0
+E) would be making / mustn't have been 0
+ 4.   Emergency supplies ______ the earthquake area as soon as possible with the help of the UN. It is crucial.
+A) must reach  1
+B) should have reached  0
+C) had to reach  0
+D) can reach  0
+E) was going to reach  0
+ 5.   When I entered the kitchen, I realized that the chocolate cake was all gone! Someone ____ it.
+A) would have eaten 0
+B) should have eaten 0
+C) must have eaten 1
+D) need to have eaten 0
+E) had to eat 0
+ 6. No one knows exactly who were the first Americans, but scientists exploring caves have found evidence that they _____ from Asia.
+A) should have arrived  0
+B) would have arrived  0
+C) must have arrived  1
+D) ought to have arrived  0
+E) have arrived  0
+ 7.   After the spraying and facing problems, state health officials said the amount of insecticide applied in Monterey _____ severe health risks.
+A) shouldn't have posed 1
+B) needn't have posed 0
+C) didn't need to pose 0
+D) didn't use to pose 0
+E) hadn't posed 0
+ 8.   If the jury members ______ agreement, the case ______ retried before a new jury.
+A) can't have reached / may be  0
+B) mustn't reach / should be  0
+C) aren't able to reach / has been  0
+D) can't reach / must be  1
+E) couldn't reach / must be  0
+ 9.   The people who lived there _____ everything they needed from the gifted forest.
+A) should get 0
+B) could get 1
+C) will get 0
+D) may get 0
+E) have got 0
+ 10. If a store manager decides to take a shoplifter to court, the legal process _____ both time-consuming and expensive.
+A) should be 0
+B) may be 1
+C) must be 0
+D) are to be  0
+E) has to be 0
+ 11. Some European politicians, it seems, _____ spend billions on aid than allow poor-world farmers to sell attractively priced food to Europe's consumers.
+A) would rather 1
+B) would prefer  0
+C) would 0
+D) prefer  0
+E) were to  0
+ 12. Governments ______ regions in their countries more autonomy so that they _____ and enjoy their own cultures rather than serving the centralized policies of the capital city.
+A) had to give / can protected  0
+B) were going to give / may protect  0
+C) should have given / would have protected  0
+D) must give / could have protected  0
+E) should give / can protect  1
+ 13. In my opinion, rich people ____ permitted to buy educational advantages by sending their children to private schools or _____ all schools be run by the state?
+A) should be / should 1
+B) have to be / will 0
+C) must be / would 0
+D) should be / ought to 0
+E) could be / have 0
+ 14. Greenpeace operates internationally and _____ governments and large oil companies through feats of direct action which attract public sympathy.
+A) could have embarrassed  0
+B) had to embarrass  0
+C) would embarrass  0
+D) is able to embarrass  1
+E) should be embarrassed  0
+ 15. Do people have the right to smoke when children in the same house or colleagues in the same office _____ the smoke?
+A) could inhale 0
+B) have to inhale 1
+C) might inhale 0
+D) may inhale 0
+E) should inhale 0
+ 16. Clients ____ the part of town where they want to be based if they want, though this _____ their choice of price-range.
+A) can specify / may limit  1
+B) could specify / used to limit  0
+C) had to specify / might limit  0
+D) must specify / may have limited  0
+E) are supposed to specify / might have limited  0
+ 17. During the twentieth century, women in Britain _____ vigorously for equal rights - the right to vote and the right to work in posts traditionally reserved for men.
+A) were campaigning  0
+B) must campaign 0
+C) had to campaign 1
+D) must have campaigned 0
+E) have had to campaign 0
+ 18. Any kind of modification ____ without informing all the members at that meeting.
+A) shouldn't be made 0
+B) didn't need to be made 0
+C) wouldn't be made 0
+D) didn't use to be made 0
+E) ought not to have been made 1
+ 19. The Supreme Election Council ____ the end results of the election at tomorrow's gathering.
+A) would verify  0
+B) is bound to verify  1
+C) might as well verify  0
+D) had verified 0
+E) are used to verify  0
+ 20. As an antielectron speeds along, it _____ come up against one of the trillions of ordinary electrons in its immediate neighbourhood. It will do that in perhaps a millionth of a second.
+A) must 0
+B) was unlikely to  0
+C) is about to 0
+D) may as well 0
+E) is bound to 1
+ 21. Scientists fear that a patient's immune system _____ stem cells unless they _____ genetically identical to the patient's other cells.
+A) may reject / are  1
+B) may have rejected / were  0
+C) could reject / had been  0
+D) has rejected / has been  0
+E) would be rejected / were  0
+ 22. I _____ to make myself heard above the noise lest I _____ lost there.
+A) have to shout / got 0
+B) had to shout / should get 1
+C) used to shout / would get 0
+D) have had to shout / should have got 0
+E) will shout / might have got 0
+ 23. We_____ that we the adults are out to educate a group that mostly does not want education, and tailor our work accordingly.
+A) could remember  0
+B) must have remembered  0
+C) may remember  0
+D) should remember  1
+E) could have remembered  0
+ 24. A spokeswoman said the company has identified only four deaths to date where its recalled heparin _____ a role in them.
+A) should have played 0
+B) must play 0
+C) had to play 0
+D) would play 0
+E) may have played 1
+ 25. It was so dark that I fell down the stairs last night. I _____ the light.
+A) must have fixed  0
+B) should have fixed  1
+C) had to fix 0
+D) would fix 0
+E) need to fix 0
+ 1. A century ago, some linguists _____ that Canada _____ different languages in the next centuries.
+A) had predicted / would speak  0
+B) predicted / might have spoken  0
+C) could predict / could have spoken  0
+D) predicted / would be speaking  1
+E) was to predict / would have spoken  0
+ 2.   You _____ much more sensibly; now you seem to be an overweight man.
+A) should have eaten 1
+B) had to eat 0
+C) must have eaten 0
+D) were to eat  0
+E) are supposed to eat  0
+ 3.   The epic is dated back to nearly 3000 BC, but scholars believe it _____ much earlier through an oral tradition.
+A) should have existed  0
+B) need to be existed  0
+C) could existed  0
+D) could have existed  1
+E) may exist  0
+ 4.   Although the oral tale of the Iliad _____ to various rulers over millennia, the story we know is probably attached to a real king.
+A) can be attributed 0
+B) could have been attributed 1
+C) should have been attributed 0
+D) must be attributed 0
+E) would be attributed 0
+ 5.   Stein spoke in a voice so low that the judge repeatedly _____ her to speak up.
+A) could ask 0
+B) would ask 0
+C) had to ask 1
+D) used to ask 0
+E) might have asked  0
+ 6.   When we lived in East Anatolia, the water pipes _____ every winter, and we _____ in a plumber.
+A) would freeze / had to call  1
+B) were freezing / used to call  0
+C) could freeze / would have called  0
+D) used to freeze / were calling  0
+E) might have frozen / have had to call  0
+ 7.   He had such bad flu that he ______ breathe through his nose.
+A) didn't have to 0
+B) couldn't 1
+C) shouldn't 0
+D) didn't use to 0
+E) wouldn't 0
+ 8. Her unconventional, yet practical clothing shocked all the audience, who _____ men play in the long, heavy dresses which were typical of that period.
+A) would see 0
+B) used to see 0
+C) were used to seeing  1
+D) get used to seeing 0
+E) are accustomed to seeing  0
+ 9. Now that Doris has been living in France for a decade she _____ things differently, but it hasn't been always the case.
+A) used to do 0
+B) was used to doing 0
+C) is used to doing 1
+D) got used to doing 0
+E) was accustomed to do 0
+ 10. Neither writer develops this concept in terms which _____ scientific.
+A) could have been considered  0
+B) might have been considered  0
+C) should have been considered  0
+D) can be considered  1
+E) would be considered  0
+ 11. To get to a better post in this job, you _____ be punctual and have good organizational behaviour.
+A) are to  1
+B) can 0
+C) might 0
+D) would 0
+E) used to 0
+ 12. A: The students ____ there yesterday. B: I don't think they were, but I can not prove that they weren't.
+A) ought to have been 0
+B) had to be 0
+C) could have been 1
+D) would have been 0
+E) used to be 0
+ 13. I am not certain where Haul is. He _____ Fauzzia to the cinema or to a park.
+A) must have taken  0
+B) was supposed to take  0
+C) should have taken  0
+D) might have taken  1
+E) has taken  0
+ 14. They normally agree about where to go every year but this time they _____ problems finding something that _____ all of them.
+A) might have had / must satisfy  0
+B) must be having / ought to satisfy  0
+C) could have / will have satisfied 0
+D) had better have / is to satisfy  0
+E) may have / will satisfy  1
+ 15. You ____ so fast on such a busy road. You _____ an accident.
+A) couldn't have driven / could have 0
+B) shouldn't have driven / might have had 1
+C) mustn't have driven / should have had 0
+D) can't have driven / would die 0
+E) might not have driven / must have died 0
+ 16. I ____ bear the sight of blood so I ____ wait for the cow to be sacrificed.
+A) couldn't / shouldn't 0
+B) mustn't / can't 0
+C) am not to / would rather not 0
+D) can't / couldn't 1
+E) won't / didn't use to 0
+ 17. Would you mind ____ her to accompany me at the party tomorrow? I am too busy to do that.
+A) having invited 0
+B) if I invited 0
+C) invite 0
+D) invited 0
+E) inviting 1
+ 18. You ____ avoid being in such a room full of billowing cigar smoke. The doctor has warned you.
+A) must 1
+B) can 0
+C) would 0
+D) could 0
+E) would rather 0
+ 19. The prisoner ____ eligible for parole after he serves  15 years by next year due to his behaviours there.
+A) will have become 1
+B) might have become 0
+C) should have become 0
+D) must have become 0
+E) has become 0
+ 20. My word! It ____ you ages to write all this. There are more than 2,000 pages!
+A) ought to take  0
+B) must take  0
+C) has to take  0
+D) will take  1
+E) used to take  0
+ 21. Dad ____ his pills before starting to fast; now he is suffering from his stomach.
+A) had to take  0
+B) ought to take  0
+C) must have taken  0
+D) had better take  0
+E) should have taken  1
+ 22. As you ____ expect, there are lots of souvenir shops where you _____ buy a present for anyone to give.
+A) can / need to 0
+B) will /ought to 0
+C) would / could 1
+D) could / have to 0
+E) may / must 0
+ 23. Tally____ that we were supposed to meet here at five. It is almost six.
+A) had forgotten  0
+B) should have forgotten  0
+C) must have forgotten  1
+D) would forget  0
+E) used to forge 0
+ 24. The potatoes are undercooked; you ______ them for a bit longer.
+A) must boil 0
+B) should boil 0
+C) ought to have boiled 1
+D) must have boiled 0
+E) would rather boil 0
+ 25. I would rather you ____ anything about what I did.
+A) didn't say 0
+B) don't say 0
+C) hadn't said 1
+D) wouldn't say 0
+E) couldn't say 0
+  1. Whatever else --------- the British Empire for so long, it was not Britain's education system
+A) was sustained  0
+B) has sustained  0
+C) sustains  0
+D) sustained  1
+E) to have sustained 0
+ 2. Studies of the survivors of the atomic bomb blasts and radiation accidents have --------- demonstrated the leukemogenic effect of radiation
+A) reluctantly  0
+B) properly  0
+C) sensitively  0
+D) unmistakably  0
+E) understandably 1
+ 3. Malnutrition and undernutrition are not ------- to the Third World; they also occur in afiuent societies
+A) exposed  0
+B) permitted  0
+C) restricted  1
+D) disposed  0
+E) convinced 0
+ 4. In the past 25 years, new knowledge about cancer has led to changes in dietary --------- for the public.
+A) disorders  0
+B) admissions  0
+C) obligations  0
+D) obsessions  0
+E) recommendations 1
+ 5. Biotechnology offers opportunities to improve the quality and --------- value of foods.
+A) nutritional  1
+B) conditional  0
+C) collective  0
+D) deceptive  0
+E) complacent 0
+ 6. Our paediatrician said we should always --------- her if the little boy's temperature continued for more than 24 hours
+A) come across  0
+B) get in touch with  1
+C) look forward to  0
+D) make up to  0
+E) look into 0
+ 7. Only after a great deal of pressure had been --------the registrar did he agree to give up the recovery ward in favour of a second operating theatre
+A) weighed up  0
+B) taken to  0
+C) put on  1
+D) brought down  0
+E) turned over 0
+ 8. He claims he has --------- a cure for the common cold, but I don't suppose he has.
+A) waited for  0
+B) made sure of  0
+C) put through  0
+D) taken care of  0
+E) come up with 1
+ 9. Over morphological lesions are relatively late manifestations of nutritional disorder and may be preceded --------- long periods of time --------functional deflcits.
+A) through / to  0
+B) in / from  0
+C) for / by  1
+D) over / for  0
+E) at / through 0
+ 10. If Julie --------- herself like that while we were away, she --------- from anorexia nervosa today
+A) hasn't starved / wouldn't suffer  0
+B) didn't starve / isn't suffering  0
+C) hadn't starved / wouldn't be suffering  1
+D) wouldn't starve / won't be suffering  0
+E) wasn't starving / isn't suffering 0
+ 11. Health Watch, which, initially at least, --------- by pharmaceutical companies, --------- an aggressive campaign against natural medicines
+A) was flnanced / is waging  1
+B) had flnanced / was waging  0
+C) has been flnanced / had waged  0
+D) was being flnanced / had been waging  0
+E) will be flnanced / would wage 0
+ 12. From time to time, many different theories of heredity ---------, only some of which --------- valid now.
+A) had been advanced / had been  0
+B) were advanced / would be  0
+C) are advanced / were  0
+D) have been advanced / are  1
+E) will be advanced / would be 0
+ 13. It would be foolish of them not --------- genetic advice as their flrst child was abnormal.
+A) to seek  1
+B) having sought  0
+C) to have sought  0
+D) seeking  0
+E) being sought 0
+ 14. The students who ------- a top grade in pharmacology were admitted to postgraduate studies
+A) have received  0
+B) had received  1
+C) receive  0
+D) will receive  0
+E) are receiving 0
+ 15. Depression could be one of the fastest-growing ailments of the 21st century, --------- young and unmarried people most --------- risk
+A) about / in  0
+B) for / from  0
+C) through / of  0
+D) of / on  0
+E) with / at 1
+ 16. Unfortunately, adults don't usually offer early adolescents --------- warm indulgence and social protection than they provided a decade earlier.
+A) too  0
+B) as much  0
+C) more  1
+D) the same  0
+E) such as 0
+ 17. Many of my colleagues work with radiation, but they don't seem to have been adversely affected by it, and ---------
+A) neither do I  1
+B) I have too  0
+C) neither was I  0
+D) nor was I  0
+E) nor did I 0
+ 18. In Africa, the irresponsible sewage discharge of an exclusive hotel gradually put an end to the seafood harvest on --------- a local village depended for its livelihood
+A) that  0
+B) which  1
+C) what  0
+D) where  0
+E) whom 0
+ 19. The inquiry into the foot and mouth epidemic will bring together veterinary scientists, virologists and epidemiologists --------- the representatives of the farming and consumer groups.
+A) as well as  1
+B) such as  0
+C) especially  0
+D) as to as  0
+E) but for 0
+ 20. Scientists wondered --------- Dolly, the cloned sheep, would live a normal life span --------- simply live out the remaining years of the sheep from which she had been cloned
+A) more / than  0
+B) so / that  0
+C) whether / or  1
+D) neither / nor  0
+E) just / as 0
+ 1. Professional tennis, which got its start in 1926 when the French player Suzanne Lenglen --------- 50,000 US dollars for a tour, only --------- full recognition in 1960
+A) had been paid / has received  0
+B) was paid / received  1
+C) has been paid / would receive  0
+D) is paid / receives  0
+E) would be paid / had received 0
+ 2. Once the director --------- just how much was at stake, he --------- immediate steps to deal with the dispute
+A) realizes / will take  1
+B) has realized / had taken  0
+C) had realized / took  0
+D) realized / takes  0
+E) would realize / has taken 0
+ 3. The once-radical notion that birds --------- from dinosaurs --------- stronger and stronger since palaeontologists ffrst started taking it seriously a couple of decades ago.
+A) have descended / grew  0
+B) had descended / had grown  0
+C) descend / is growing  0
+D) descended / has grown  1
+E) are descending / was growing 0
+ 4. Throughout his term in ofice, President Clinton --------- by allegations relating to the White-water real estate deal in which he and his wife, Hillary Clinton, --------- prior to the 1999 election.
+A) is dogged / are involved  0
+B) had been dogged / were involved  0
+C) was dogged / had been involved  1
+D) has been dogged / have been involved  0
+E) was being dogged / may have been involved 0
+ 5. The essays taken together tell the story of how the US became an economic power --------- a scale unprecedented --------- history.
+A) for / with  0
+B) at / by  0
+C) with / from  0
+D) thought / at  0
+E) on / in 1
+ 6. --------- the surprise of the archaeologists, the structures turned out to be the remains --------- two domed tombs, each over a thousand years old.
+A) At / from  0
+B) For / by  0
+C) With / over  0
+D) To / of  1
+E) By / through 0
+ 7. More than 29 million Africans are now infected with HIV, and the disease is killing --------- Africans --------all the continent's wars combined
+A) so many / as  0
+B) either / or  0
+C) more / than  1
+D) not only / but also  0
+E) both / and 0
+ 8. He did --------- better in the interview --------- any of the other applicants.
+A) much / as  0
+B) rather / than  1
+C) as / for  0
+D) still / with  0
+E) far / from 0
+ 9. Geographical Information System tools provide specialised functions for spatial data input, processing, analysis and output, --------- Database Management System tools provide more advanced functions for storing and managing large spatial databases
+A) that  0
+B) due to  0
+C) while  1
+D) whether  0
+E) in that 0
+ 10. Photosynthesis is the process --------- green plants manufacture carbohydrates, using the energy of sunlight.
+A) as when  0
+B) on which  0
+C) where  0
+D) by which  1
+E) since 0
+ 11. -------- economic development projects in developing countries are carefully thought out and implemented, they can actually contribute to environmental deterioration
+A) Provided that  0
+B) Unless  1
+C) Since  0
+D) So long as  0
+E) Whenever 0
+ 12. Until the time of World War II, it --------- that human beings --------- to the requirements of technological systems with great ease.
+A) is assumed / adapted  0
+B) has been assumed / were adapting  1
+C) was assumed / are adapting  0
+D) had been assumed / could adapt  0
+E) assumed / have adapted 0
+ 13. In his acknowledgement, the writer thanked his wife for the support she --------- him while he --------- the book
+A) had given / was writing  1
+B) gave / is writing  0
+C) gives / has been writing  0
+D) has given / will be writing  0
+E) was giving / had written 0
+ 14. Since Swedish industrial relationships -------- so many fundamental changes, it is hardly surprising that the existence of a "Swedish model" ---------.
+A) were undergoing / will be questioned  0
+B) underwent / has been questioned  0
+C) had undergone / had been questioned  0
+D) are undergoing / was being questioned  0
+E) have undergone / is being questioned 1
+ 15. If it --------- for the severe air pollution of 1952, which was responsible for 4,000 deaths, the UK Clean Air Act of 1956 ---------
+A) weren't / hadn't been passed  0
+B) was not / won't be passed  0
+C) hadn't been / wouldn't have been passed  1
+D) wouldn't be / hadn't been passed  0
+E) isn't / was not passed 0
+ 16. ---------- corporations grow in size and diversity, the dificulty of managing employee relations increases.
+A) Lest  0
+B) In case  0
+C) Whether  0
+D) So that  0
+E) As 1
+ 17. --------- had so many people complained so loudly about so little cause
+A) Only once  1
+B) For the first time  0
+C) At the beginning  0
+D) Up to this time  0
+E) From the start 0
+ 18. Multinational companies account for --------- 60 per cent of trade in manufactured goods in the developed world.
+A) so much  0
+B) no less than  1
+C) rather than  0
+D) as far as  0
+E) by no means 0
+ 19. The period --------- which Margaret Mae painted the Amazon flora coincided --------- the time when the Amazon rain forest was being destroyed
+A) on / from  0
+B) in / at  0
+C) at / on  0
+D) during / with  1
+E) for / by 0
+ 20. Some delicate fruits and vegetables need to ripen gradually as they make their way ------- producer nations to consumer markets ------- the globe.
+A) from / around  1
+B) with / on  0
+C) for / in  0
+D) of / over  0
+E) through / through 0
+ 1. The purpose of this bridge project is --------- to eliminate the cause of such accidents --------- to keep traffic moving at a steady rate
+A) only / but also  0
+B) both / and  1
+C) not only / and  0
+D) as much / than  0
+E) so / as 0
+ 2. The term "man-machine system" fell somewhat into disrepute and was replaced by "person-machine system" --------- the need to avoid sexist language.
+A) contrary to  0
+B) despite  0
+C) in case of  0
+D) in accordance with  1
+E) instead of 0
+ 3. The slavery issue was --------- one reason --------- the northern and southern states fought against each other during the US Civil War
+A) on the other hand / which  0
+B) as such / whereas  0
+C) only / why  1
+D) moreover / that  0
+E) thus / in that 0
+ 4. The United Nations has, on numerous occasions, tried to assert its authority to mediate a dispute between nations, --------- has often been inefiective --------- the nations involved refused to acknowledge the right of the United Nations to intervene
+A) yet / that  0
+B) but / because  1
+C) either / or  0
+D) therefore / because of  0
+E) however / as far as 0
+ 5. This is not a new theory; quite a lot of scientists ------on it for several decades.
+A) would have worked  0
+B) had worked  0
+C) have been working  1
+D) would work  0
+E) have to work 0
+ 6. If the equipment ------- us on time, we ------- the bridge by now
+A) would have reached / could complete  0
+B) reached / had completed  0
+C) reaches / will have completed  0
+D) will reach / can complete  0
+E) had reached / could have completed 1
+ 7. Unfortunately there was an electricity cut just as we ------- the new computer
+A) are installing  0
+B) would install  0
+C) have installed  0
+D) were installing  1
+E) will install 0
+ 8. It is recommended that you wear a helmet in this part of the plant, but it's up to you; you -------
+A) have got to  0
+B) will have to  0
+C) shouldn't have  0
+D) need to  0
+E) don't have to 1
+ 9. ------- a piece of metal is denser than water, it sinks in water
+A) Because of  0
+B) While  0
+C) Since  1
+D) Despite  0
+E) Therefor 0
+ 10. ------- he was aware of the dangers of this kind of research, he still continued with the project
+A) If  0
+B) Even though  1
+C) So that  0
+D) Whereas  0
+E) However 0
+ 11. ------- the semester is over, Dr. Baines will supervise the sinking of the shaft as it seems likely that they'll strike oil
+A) In order that  0
+B) As a result  0
+C) If only  0
+D) Once  1
+E) In case 0
+ 12. It took him several months to set ------- the experiment, but results are beginning to come ------now
+A) up / in  1
+B) ofi / over  0
+C) in / up  0
+D) over / out  0
+E) back / through 0
+ 13. Obviously, during the Second World War, many scientists were involved ------- the development of new weapons
+A) by  0
+B) in  1
+C) at  0
+D) through  0
+E) about 0
+ 14. An honorary degree will be conferred upon the physicist ------- contributions to energy studies have proved the most beneflcial
+A) which  0
+B) who  0
+C) whose  1
+D) that  0
+E) whom 0
+ 15. Is that the professor ------- received the Nobel Prize in chemistry?
+A) whom  0
+B) whose  0
+C) where  0
+D) which  0
+E) who 1
+ 16. Diary farming has received a lot of coverage in the media lately, ------ on account of the dry season ------because of the radiation scare.
+A) both / more than  0
+B) more / even so  0
+C) only / also  0
+D) not only / but also  1
+E) such / as well as 0
+ 17. Thanks to improvements in car design, ------- of the power produced is wasted in friction ------- was formerly the case
+A) far less / than  1
+B) as much / as  0
+C) a little / than  0
+D) little / than  0
+E) more / as 0
+ 18. As regards the decision to modernize the mines in the region, here is a report which contains ------relevant information
+A) another  0
+B) any  0
+C) many  0
+D) a  0
+E) some 1
+ 19. If I --------- a similar kind of research, I --------- on just two decades
+A) will do / concentrate  0
+B) had done / concentrated  0
+C) have done / would have concentrated  0
+D) were doing / would concentrate  1
+E) did / will concentrate 0
+ 20. The committee --------- the question for nearly an hour, and still hasn't come to a decision
+A) has been discussing  1
+B) had discussed  0
+C) will discuss  0
+D) is discussing  0
+E) would discuss 0
+ 1. Towards the end of the 5th century, many political and social changes --------- in Europe which --------- all countries profoundly
+A) had been occurring / had affected  0
+B) were occurring / have affected  0
+C) have occurred / will affect  0
+D) had occurred / would affect  0
+E) occurred / affected 1
+ 2. Before I read Freud, I --------- dreams were of so much significance.
+A) haven't thought  0
+B) wouldn't think  0
+C) didn't think  1
+D) don't think  0
+E) wouldn't have thought 0
+ 3. --------- the critics, the film is almost as good as the novel itself.
+A) With regard to  0
+B) According to  1
+C) Owing to  0
+D) Concerning  0
+E) In comparison to 0
+ 4. It is thought to be basically a Hittite settlement --------- there are some traces of earlier civilisations
+A) in spite of  0
+B) even so  0
+C) instead  0
+D) even though  1
+E) in case 0
+ 5. The next meeting will be held --------- February, probably --------- the second Tuesday of the month
+A) in / on  1
+B) in / at  0
+C) at / in  0
+D) on / at  0
+E) at / on 0
+ 6. Venice is joined to the mainland --------- road and railway viaducts
+A) from  0
+B) over  0
+C) by  1
+D) on  0
+E) off 0
+ 7. The conference was a great disappointment; in fact, it was quite --------- I have ever attended
+A) the worst  1
+B) as bad as  0
+C) worse than  0
+D) so bad  0
+E) the worse 0
+ 8. The Sumerian King Ur-Anger was a great ruler --------dominions extended from the Gulf to the Mediterranean
+A) whom  0
+B) who  0
+C) which  0
+D) whose  1
+E) that 0
+ 9. In advertising it is important to decide -------- you are aiming to attract.
+A) by whom  0
+B) whoever  0
+C) who  1
+D) which  0
+E) whose 0
+ 10. I told him that the ultimate responsibility for solving the problem was not ------- but -------.
+A) us / theirs  0
+B) his / me  0
+C) her / yours  0
+D) him / ours  0
+E) mine / his 1
+ 11. He said he would apply for the job immediately after he returned, ---------?
+A) did he  0
+B) didn't he  1
+C) would he  0
+D) hadn't he  0
+E) wouldn't he 0
+ 12. The last exhibition I went to was --------- crowded that I could hardly see anything
+A) as  0
+B) too  0
+C) more  0
+D) so  1
+E) very 0
+ 13. Before Alexander Fleming ------- penicillin, a great many people ------- of meningitis.
+A) has discovered / would die  0
+B) discovered / died  1
+C) will discover / have died  0
+D) would discover / died  0
+E) was discovering / were dying 0
+ 14. When the new hospital ------- in March, you ------- one of the first patients to be admitted
+A) opened / have been  0
+B) will open / will be  0
+C) has opened / can have been  0
+D) is opening / are  0
+E) opens / will be 1
+ 15. Don't take him into the operating room until the anaesthetist ------- you to.
+A) tells  1
+B) will tell  0
+C) tell  0
+D) can tell  0
+E) told 0
+ 16. Of all the medicines we have tested, this is obviously ------- effective
+A) much  0
+B) more  0
+C) less  0
+D) a little  0
+E) the most 1
+ 17. The nurse claimed that it wasn't ------- responsibility but the doctor's
+A) herself  0
+B) herself  0
+C) theirs  0
+D) her  1
+E) himself 0
+ 18. If you had followed the doctor's advice, you ------- a complete recovery by this time
+A) would make  0
+B) would have made  1
+C) had made  0
+D) will make  0
+E) were making 0
+ 19. ------- she gave up smoking, she has enjoyed the best of health
+A) Although  0
+B) If  0
+C) Since  1
+D) For  0
+E) When 0
+ 20. Millions of children in these third world countries will suffer and die ------- these infectious diseases remain uncontrolled
+A) if  1
+B) unless  0
+C) as soon as  0
+D) however  0
+E) so as 0
+ 1. He was advised not to discontinue this medicine ------- this might bring a recurrence of the complaint
+A) so that  0
+B) despite  0
+C) until  0
+D) as  1
+E) due to 0
+ 2. The patient was not satisffed ------- the treatment he received.
+A) on  0
+B) for  0
+C) of  0
+D) from  0
+E) with 1
+ 3. Be sure ------- take a look ------- the article on infant mortality rates
+A) in / of  0
+B) to / at  1
+C) of / for  0
+D) for / up  0
+E) by / from 0
+ 4. AIDS is a disease ------- has given rise to much speculation.
+A) whom  0
+B) whose  0
+C) what  0
+D) which  1
+E) who 0
+ 5. A lot of people want to become surgeons, but ------make the grade.
+A) few  1
+B) not much  0
+C) very little  0
+D) any  0
+E) all 0
+ 6. A drug of this kind is ------- dangerous to be sold without a prescription
+A) as  0
+B) just  0
+C) too  1
+D) so  0
+E) enough 0
+ 7. Acetic acid is used as a food ------- and fiavouring material, and also in the manufacture of white lead.
+A) preservative  1
+B) decay  0
+C) absorption  0
+D) solution  0
+E) process 0
+ 8. Researchers disagree ------- whether a large ocean ever existed on Mars, but one thing is certain: Martian geology is turning ------- to be strange and complex
+A) of / round  0
+B) in / over  0
+C) for / up  0
+D) on / out  1
+E) about / in 0
+ 9. Species become endangered and even extinct ------- a variety of reasons, many of which are related ------human activities
+A) within / of  0
+B) for / to  1
+C) with / for  0
+D) in / with  0
+E) over / through 0
+ 10. Some scientists ------- us that the thermal blanket around the globe ------- the average temperature of the earth to rise
+A)were warning / has caused  0
+B)have been warning / was causing  0
+C)have warned / may cause  1
+D)have warned / may caused  0
+E)warn / will have cause 0
+ 11. A theory ------- only when a hypothesis ------- by consistent results from many observations or experiments
+A)may have been developed / was being supported  0
+B)can be developed / has been supported  1
+C)will be developed / was supported  0
+D)has been developed / had been supported  0
+E)had been developed / might have been supporte 0
+ 12. If transport costs ------- into consideration at the outset, the plant ------- far from its present site
+A)will be taken / are being built  0
+B)were taken / had been built  0
+C)have been taken / have been built  0
+D)were being taken / will be built  0
+E)had been taken / would have been buil 1
+ 13. The first laser ------- in 1960 by Maiman almost half a century after the publication of Einstein's theory of radiation which ------- the possibility of laser operation
+A)has been demonstrated / had shown  0
+B)had been demonstrated / showed  0
+C)was demonstrated / showed  1
+D)demonstrates / was shown  0
+E)was being demonstrated / show 0
+ 14. The advent of nuclear power------- the trend to use water-power on a large scale, and hydroelectric installations ------- in all industrial countries with water power potential
+A)has not halted / are being built  1
+B)did not halt / are built  0
+C)would not halt / will be built  0
+D)will not halt / were being built  0
+E)had not halted / would be buil 0
+ 15. ------- many diverse animal forms exist ------exceptions can be found to almost any definition of an animal
+A)So / as  0
+B)As / as  0
+C)Whether / so  0
+D)So / that  1
+E)Neither / no 0
+ 16. Products ------- diverse ------- rubber, tobacco, coflee, chocolate and aromatic oils for perfumes come from fiowering plants
+A)too / than  0
+B)as / as  1
+C)both / than  0
+D)either / or  0
+E)not only / but als 0
+ 17. The writers of this article seem to assume the nuclear plants conform with safety requirements ------- the fact that violations are constantly being reported
+A)in case  0
+B)although  0
+C)against  0
+D)concerning  0
+E)despit 1
+ 18. Pile foundations are costly and normally economic only ------- commercial structures on valuable sites.
+A) in the manner of  0
+B) in the case of  1
+C) in place of  0
+D) in fulfilment of  0
+E) in accordance with 0
+ 19. The South African government has committed a further sum of money to the Southern African Large Telescope (SALT), ------- enables the construction of this giant telescope to commence next year
+A) which  1
+B) thus  0
+C) by which  0
+D) whose  0
+E) for whom 0
+ 20. Heat is transferred from ------- object ------- by conductions, convection and radiation.
+A) either / to others  0
+B) each / from the rest  0
+C) any / with another  0
+D) some / through others  0
+E) one / to another 1
+ 1. The recent rise in drug addiction ------- young people has been given publicity in the media ------- all proportion to the size of the problem
+A) with / through  0
+B) for / over  0
+C) in / above  0
+D) among / out of  1
+E) between / from 0
+ 2. The mentally handicapped have diffculty in coping ------- tasks that are well ------- the capabilities of the average person.
+A) under / over  0
+B) to / beyond  0
+C) with / within  1
+D) through into  0
+E) along / above 0
+ 3. By the end of the week, he ------- the first stage of the treatment, and we'll know then if he ------- well to it
+A) would have completed / responded  0
+B) has completed / was responding  0
+C) will have completed / is responding  1
+D) is completing / has responded  0
+E) will complete / will respond 0
+ 4. The successful education of children with speech defects involves ------- all means of approach.
+A) to explore  0
+B) exploring  1
+C) having explored  0
+D) having been explored  0
+E) to have explored 0
+ 5. If they ------- the child to the hospital a little earlier, these complications -------
+A) would have brought / wouldn't develop  0
+B) would bring / won't develop  0
+C) have brought / haven't developed  0
+D) brought / hadn't developed  0
+E) had brought / would not have developed 1
+ 6. Pure carbolic acid on a suspected rabies ------- wound the incubation period which probably won't kill all the viruses; so its use ------- into general disfavour among doctors
+A) may prolong / has fallen  1
+B) might prolong / had fallen  0
+C) might have prolonged / might have fallen  0
+D) will prolong / fell  0
+E) would prolong / would have fallen 0
+ 7. The healthy individual possesses means of arresting minor haemorrhages; if this ------- so, trivial cuts ------to a fatal loss of blood
+A) was not / have led  0
+B) were not / would lead  1
+C) is not / led  0
+D) will not be / would have led  0
+E) would not be / had led 0
+ 8. In recent years the trend in the study of child development has been an increased emphasis on the processes underlying the changes, ------- simple descriptions of age changes
+A) as if  0
+B) just as  0
+C) rather than  1
+D) even so  0
+E) such as 0
+ 9. Poisoning ------- drug overdose is a frequent and still increasing cause of admission to hospital.
+A) according to  0
+B) due to  1
+C) on behalf of  0
+D) in excess of  0
+E) in spite of 0
+ 10. Dizziness is a distressing symptom in advanced old age, and alarms relatives ------- the patient
+A) no less than  1
+B) as little as  0
+C) in accordance with  0
+D) consequent on  0
+E) in case of 0
+ 11. Bacteria are ------- small that they can ------- be seen under a microscope.
+A) very / rather  0
+B) too / hardly  0
+C) as / thus  0
+D) so / only  1
+E) much / just 0
+ 12. The brain is a part of the body ------- very little is known and even less is understood.
+A) which  0
+B) from what  0
+C) where  0
+D) of whose  0
+E) about which 1
+ 13. The remedies they use in the East are very diflerent from those we use in the West; ------- rely more on the natural properties of herbs and plants while ------- are more chemically orientated.
+A) to them / to us  0
+B) they / us  0
+C) their / we  0
+D) theirs / ours  1
+E) themselves / ourselves 0
+ 14. In hay fever, the symptoms vary from one patient -------, and treatment will also vary
+A) and to others  0
+B) to the other  0
+C) and to another  0
+D) to another  1
+E) to others 0
+ 15. Naturally, I will come to you for advice whenever I feel in need of -------
+A) them  0
+B) one  0
+C) some  1
+D) none  0
+E) a few 0
+ 16. We've had some pretty good directors over the years, but Dr. Radclifl is ------- the most capable of them.
+A) by far  1
+B) over all  0
+C) just so  0
+D) as much  0
+E) too much 0
+ 17. The committee showed their wholehearted approval of the designs he submitted, and -------
+A) me, too  0
+B) so did I  1
+C) so have I  0
+D) so we do  0
+E) we also have 0
+ 18. The other climbers were all for giving up the attempt, but it was ------- impossible to convince him of the need to do so
+A) too  0
+B) such  0
+C) quite  1
+D) as  0
+E) much 0
+ 19. Could this possibly be the firm's new buyer ________ reputation, if we are able to believe the newspapers, is not quite what it should be
+A) whom  0
+B) which  0
+C) whatever  0
+D) what  0
+E) whose 1
+ 20. ------- takes on the task of investigating these particular allegations is going to run into a lot of diffculties.
+A) Someone  0
+B) Anyone  0
+C) Whatsoever  0
+D) Whoever  1
+E) Whichever 0
+  1.   Choose the "restatement" that is closest in meaning to the original sentence. More than one choice may be factually correct, but you should choose the one that is the closest "restatement" of the first sentence. The judge is worried because different witnesses have given a different sequence of events.
+A) The witnesses had to be called in order by the judge as they described the sequence of events. 0
+B) The judge is disturbed that the sequence of events described by the various witnesses is in all cases identical. 0
+C) The judge is concerned that there is no agreement among the witnesses as to the order in which the events occurred.  1
+D) What the judge found so upsetting was that there were so many discrepancies between the witnesses' account of the incident. 0
+E) The only discrepancy in the witnesses' accounts to disturb the judge isn't related to the order of events.  0
+ 2.   Basically, the witnesses all gave a uniform account of the incident but, as might be expected, there were some small discrepancies in the details.
+A) All the witnesses gave a very detailed account of the incident and apparently a very accurate one.  0
+B) It wouldn't have surprised one if there had been differences in the details supplied by the witnesses, but actually they were in full agreement over the incident. 0
+C) The accounts of the incident given by the various witnesses were surprisingly similar even as regards the details. 0
+D) Not surprisingly, the witnesses gave slightly varied accounts of the incident but there was complete agreement on the main facts.  1
+E) Apart from one or two very crucial details the witnesses gave quite similar descriptions of the incident. 0
+ 3. You should get some professional advice if you're thinking about changing the system radically.
+A) My professional advice to you is to avoid any major changes in the system. 0
+B) Don't make any radical changes in the scheme; that's my advice to you. 0
+C) It would be very unprofessional behaviour if you were to make any major changes in the system.  0
+D) If you're considering major alterations in procedures, I suggest you consult an expert.  0
+E) Without consulting an expert first, you were ill advised to introduce any major changes to the system. 1
+ 4.   At first she was rather reluctant to give up her job but now finds it very rewarding to be bringing up her children.
+A) She used to be unwilling to give up her job but now her sense of responsibility to her children tells her she must. 0
+B) Initially she wasn't at all keen to stop working, but she now finds that looking after her children affords her much satisfaction. 1
+C) Now that she spends her days at home with her children she feels less fulfilled than she ever did when she was out working. 0
+D) She has enjoyed bringing up her children but nevertheless looks forward to resuming work.  0
+E) When the children have grown up she may regret that she gave up her career for them.  0
+ 5.   A good book review lets you know whether it's the sort of book you want to read or not.
+A) To be good, a book review has to establish who would enjoy reading it.  0
+B) One ought to be able to understand from a book review which books are worth reading.  0
+C) The prime function of any book review should be to establish whether or not a book is worth reading.  0
+D) According to book reviews, all books are worth reading.  0
+E) You can understand from a good book review whether or not it's the kind of book you enjoy.  1
+ 6.   The manager is unwilling to say anything as he has not yet had a chance to consult his legal adviser.
+A) The manager doesn't want there to be a law case so he is saying nothing. 0
+B) The manager's lawyer has advised him to keep absolutely quiet. 0
+C) Until he is instructed in the legal aspects of the matter the manager is keeping quiet.  1
+D) The manager is referring all guestions to his lawyer and answering none himself.  0
+E) In consultation with his lawyer the manager has decided to answer no more questions.  0
+ 7.   Owing to the poor visibility it took us ten hours, instead of the usual eight, to get to Istanbul.
+A) The lights of Istanbul were visible for 2 hours before we reached the city.  0
+B) Even though we ran into a lot of fog on the way to Istanbul, the journey didn't take much longer than usual. 0
+C) We waited two hours for the fog to lift before driving on to Istanbul. 0
+D) The fog meant that we reached Istanbul two hourslater than would be normal.  1
+E) It takes between eight and ten hours to drive to Istanbul, depending on visibility.  0
+ 8.   Much to my surprise, I found his lecture on the civilization of Mesopotamia extremely interesting.
+A) I was fascinated by what he had to say in his lecture on the civilization of Mesopotamia though I hadn't expected to be.  1
+B) Contrary to expectations, his lecture on ancient Mesopotamia was the most fascinating of all. 0
+C) It was at his lecture on the civilization of Mesopotamia that I realized how fascinating the subject is. 0
+D) Surprisingly few people were interested in the lecture on the civilization of Mesopotamia.  0
+E) I hadn't expected him to lecture on the civilization of Mesopotamia, but he spoke remarkably well.  0
+ 9.   It is only natural that stealing should be more prevalent as everything now costs so much.
+A) One cannot expect a rise in instances of theft while the cost of living continues to be so high. 0
+B) In view of the high cost of living, it is not surprising that theft should be on the increase.  1
+C) If prices go up, so will the number of cases of theft.  0
+D) Unless costs are kept down more people will become thieves. 0
+E) Naturally there are more cases of shop-lifting in shops selling expensive goods.  0
+ 10. The project turned out to be so costly that we decided not to go on with it.
+A) We had to abandon the project though we earned much money by it. 0
+B) We gave up the project since it was starting to cost so much. 1
+C) The decision to cancel the project actually proved costly.  0
+D) Though the project was cancelled, we didn't lose any money by it. 0
+E) A lot of money had been spent, so we could not afford giving it up.  0
+ 11. Citrus trees thrive on a wide range of soils, but well-drained and slightly acid types are most suitable.
+A) The ideal soil for citrus trees is one that is well- drained and rather acid; they do not do well in other soils. 0
+B) Though citrus trees prefer a well-drained and slightly acid soil, they do well in many other types, too.  1
+C) Citrus trees grow in many different places, but the soil must always be well-drained and fairly acid. 0
+D) The well-drained and rather acid soil that suits citrus trees is the most common of soil types.  0
+E) Citrus trees are particular about the soil on which they grow and do best on well-drained and slightly acid soil types. 0
+ 12. He advised me not to write until I'd got over my anger and this was good advice.
+A) Once I'd managed to control my anger I realised that he'd given me some very good advice on how to write it. 0
+B) I couldn't help being annoyed when the letter finally came with so much good advice in it. 0
+C) He very wisely suggested that I didn't write while I was still feeling so annoyed. 1
+D) He advised me not to show how angry I was in the letter and this was doubtless sensible. 0
+E) I should have listened to his advice and not written while I was still so angry.  0
+ 13. His gift for assessing the risks involved in granting any specific loan makes him invaluable to the bank.
+A) Before granting a loan, a bank will always try to assess the risks involved and these vary with each individual case. 0
+B) The bank expressed its gratitude to him with a gift, since he had rightly pointed out the risks involved in that particular loan. 0
+C) The bank relies heavily on him because of his ability to judge accurately the degrees of risks entailed with any given loan. 1
+D) The bank agreed to lend him a specific amount but not an indefinite one as that would have involved higher risks. 0
+E) The loan he received from the bank shows his ability to get what he wants in spite of the risks involved. 0
+ 14. In view of the evidence, it seemed quite clear that it was John alone who had committed the crime.
+A) Any evidence pointing to John's loneliness was viewed with great clarity.  0
+B) From the evidence it was fairly obvious that John didn't have any partners-in-crime. 0
+C) As far as the evidence is concerned, John seems to be a suspect. 0
+D) All the evidence showed that John was not the only person to be charged with the crime.  1
+E) If John had committed the crime because he was lonely, the evidence would have clearly shown it. 0
+ 15 . His career took off to a brilliant start, but since then his record hardly seems deserving of mild praise, let alone glory.
+A) His career record has not lived up to his early promise, so he really does not merit either our approval or disapproval.  0
+B) His career began with a stunning success, but then he did nothing to earn either the praise or the approval he now receives.  0
+C) In spite of his early promise, his career record shows nothing deserving of the special praise or glory he seems to expect.  0
+D) He was amazingly successful at the start of his career but afterwards he has done nothing to merit even a moderate amount of approval and certainly not renown.  1
+E) Had his career record been in line with the brillant start he made, he would most certainly have earned high honours and great renown. 0
+ 1.   She had acted ____ she was dismissed immediately.
+A) more unprofessionally than  0
+B) as unprofessionally as  0
+C) so unprofessionally that  1
+D) unprofessionally enough  0
+E) the most unprofessionally  0
+ 2.   ____ we climbed, ____ the air became, which made it difficult for us to proceed.
+A) The higher / the colder 1
+B) The highest / the coldest 0
+C) To high / too cold  0
+D) As high / so cold 0
+E) So high / very cold 0
+ 3.   The Goosander is one of ____ ducks which nest in tree holes. They are highly efficient underwater swimmers, being able to stay submerged for ____ a minute.
+A) the most / the longest 0
+B) the few / longer than 1
+C) too many / so long 0
+D) more / too long  0
+E) the least / as long 0
+ 4.   Records of Johannes Gutenberg are ____ vague for us to be able to know what he looked like or even his actual date of birth.
+A) such 0
+B) more  0
+C) so 0
+D) as 0
+E) too 1
+ 5.   I wish my cousin would type his letters to me as his handwriting is ____ legible.
+A) merely  0
+B) bitterly 0
+C) slightly 0
+D) barely  1
+E) utterly 0
+ 6.   I made a bit of a mess of wrapping Matthew's present, but it was ____ shape to wrap.
+A) too awkward  0
+B) as awkward as  0
+C) so awkward that  0
+D) such an awkward  1
+E) more awkward  0
+ 7.   The Renault Megane uses a little ____ petrol than the Skoda Esprit, but it performs ____ better.
+A) so much / less 0
+B) too much / more  0
+C) the most / a lot 0
+D) much / such 0
+E) more / much  1
+ 8.   I didn't find the ski runs ____ so exhilarating as the ones in St Moritz.
+A) too nearly 0
+B) nearer  0
+C) nearly 1
+D) nearest  0
+E) so near 0
+ 9. Farmer Parkinson's dog is ____ to scare any intruder.
+A) ferocious enough  1
+B) such ferocious  0
+C) as ferocious  0
+D) so ferocious that  0
+E) more ferocious  0
+ 10. The two brothers could have hanged themselves or they might have been murdered by attackers. The police suspect ____.
+A) such late 0
+B) the latter 1
+C) later 0
+D) the latest 0
+E) so late 0
+ 11. ____ dangerously a person lives, ____ likely he or she is to die young.
+A) So / much more  0
+B) The more / the more  1
+C) As much / too 0
+D) Far too / so much  0
+E) The most / the most 0
+ 12. To the thief, the bracelet will be ____ as it is only made of pewter, but to me, it was precious because my aunt had given it to me just before she died.
+A) elaborate 0
+B) humble 0
+C) worthless 1
+D) plain 0
+E) priceless 0
+ 13. Her economic situation has got ____ worse since she gave up her job because of her illness.
+A) more  0
+B) so 0
+C) as 0
+D) even 1
+E) too 0
+ 14. Of all the problems she has faced, this one is by far____.
+A) badly 0
+B) worse 0
+C) too badly 0
+D) so badly 0
+E) the worst 1
+ 15. I was ____ at the time to help him with his project at all, so it is completely his own work.
+A) too busy 1
+B) buster 0
+C) the busiest 0
+D) so busy 0
+E) such busy 0
+ 16. I've had ____ trouble starting the car lately ____ I think I'll have to take it to the garage.
+A) so much / that 1
+B) too many / for 0
+C) the most / that 0
+D) such a lot / as 0
+E) much more / than  0
+ 17. In today's busy world traditional crafts, ____ knitting and embroidery, are declining in popularity.
+A) the most 0
+B) much more  0
+C) such 0
+D) such as 1
+E) much as 0
+ 18. The decision to promote him was based ____ on his sales record, and neither his management skills nor his organizational ability was taken into account.
+A) highly 0
+B) barely  0
+C) bitterly 0
+D) intensely 0
+E) solely 1
+ 19. The holiday we spent in Canada turned out to be ____ expensive than we'd expected.
+A) so 0
+B) much 0
+C) less 1
+D) a little 0
+E) too 0
+ 20. Don't be too critical of Mark as this is the first time he's played in ____ an important match.
+A) too 0
+B) such 1
+C) so 0
+D) as 0
+E) more  0
+ 21. I don't know why ____ people find skiing great. I can't think of anything ____ being cold and frightened at the same time.
+A) few / as badly as 0
+B) too many / the worst 0
+C) too much / so much 0
+D) so many / worse than 1
+E) the fewer / the worse 0
+ 22. The Queen mother, who is 100 years old this year, is ____ member of the British Royal family.
+A) as old 0
+B) too old 0
+C) so old 0
+D) the eldest 1
+E) much older 0
+ 23. As their conversation continued, she became ____ of the strange-looking gentleman.
+A) as suspicious as 0
+B) more and more suspicious  1
+C) so suspiciously that 0
+D) more suspiciously than  0
+E) much too suspiciously 0
+ 24. ____ the trial progressed, ____ apparent it became that he was guilty.
+A) So for / so much 0
+B) The farthest / the most 0
+C) The further / the more  1
+D) Much farther / too much 0
+E) The furthest / even so 0
+ 25. If he spent ____ money on his family ____ he does on beer, his children wouldn't be running around without shoes on.
+A) as much / as 1
+B) so much / that 0
+C) a little / than 0
+D) enough / so 0
+E) too much / that 0
+ 26. I know we didn't stop overnight when we drove to Scotland last year, but the Isle of Sky is much ____ Edinburgh.
+A) very far 0
+B) farther than 1
+C) the farthest 0
+D) as far as 0
+E) so far 0
+ 27. The holiday firm was accused of ____ misleading holidaymakers about the location of their hotel.
+A) accidentally 0
+B) deliberately 1
+C) exceptionally  0
+D) fairly 0
+E) tactfully 0
+ 28. We took a tour of the most amazing Chateau during our holiday, which we discovered ____ by accident.
+A) purely  1
+B) wisely 0
+C) deliberately 0
+D) competently 0
+E) systematically 0
+ 29. The ruddy duck is ____ seen in the wild on British lakes or rivers.
+A) too rare  0
+B) rare  0
+C) so rare  0
+D) rarely  1
+E) the rarest  0
+ 30. You should have ____ material for a skirt if you are careful about how you lay the pattern out.
+A) much 0
+B) enough 1
+C) the most 0
+D) as 0
+E) such 0
+ 31. ____ the tourists didn't want to go to the town where the riots had taken place just a few weeks before.
+A) Reluctantly  0
+B) Approximately  0
+C) Extremely  0
+D) Perfectly  0
+E) Understandably 1
+ 32. Considering he is the top salesman, he is really ____ and never boasts at all.
+A) variable 0
+B) suitable 0
+C) modest 1
+D) confident 0
+E) jealous 0
+ 33. I believe no one could have investigated the matter ____ we did.
+A) so thoroughly that  0
+B) as thoroughly as  1
+C) thorough enough  0
+D) more thorough than  0
+E) the most thoroughly  0
+ 34. When I moved into the house, the grease on the oven was ____ it took me a whole morning to remove it.
+A) so thick that 1
+B) as thick as 0
+C) thick enough 0
+D) too thick 0
+E) much thicker  0
+ 35. The director thought our proposal was ____ a good idea that he suggested we start implementing it immediately.
+A) so 0
+B) as 0
+C) such 1
+D) like  0
+E) more  0
+ 36. I didn't know why the purchasing assistant is complaining as, of all the staff, she's ____ affected by the changes.
+A) so few 0
+B) few 0
+C) little 0
+D) the lesser 0
+E) the least 1
+ 37. A: Well, you've been ____ today, haven't you? B: Yes, not only have I put up these new shelves, but I have also mended the leaky tap in the bathroom.
+A) industrious 1
+B) confident 0
+C) watchful 0
+D) careful  0
+E) sincere  0
+ 38. The valley of the River Severn is ____ it's known as the garden of England.
+A) as fertile as 0
+B) so fertile that 1
+C) fertile enough 0
+D) more fertile than  0
+E) the most fertile 0
+ 39. Simon and John are twins, but they are not identical ones, in fact, they are quite ____ from each other.
+A) similar 0
+B) the same 0
+C) different  1
+D) complete 0
+E) suitable 0
+ 40. The dry-cleaner's couldn't get the stain out completely, but you can ____ see it now.
+A) approximately  0
+B) virtually 0
+C) barely  1
+D) practically 0
+E) nearly 0
+  1.   I've had a full day's rest now and I feel much ----; at least ---- enough to be able to get out of bed.
+A) the worst / worse 0
+B) better / well 1
+C) best / better 0
+D) good / so well 0
+E) worse / as good 0
+ 2.   There is nothing ---- a slight breeze on a hot, sunny day.
+A) refreshing enough  0
+B) as refreshed as  0
+C) more refreshing than  1
+D) so refreshing that  0
+E) the most refreshed  0
+ 3.   The survey confirmed that house prices are ---- higher in the South than in the North.
+A) so 0
+B) more  0
+C) most 0
+D) as 0
+E) much 1
+ 4.   There is ---- a shortage of qualified teachers in England ---- the government is paying students to  0train in teaching.
+A) such / that 1
+B) so / as 0
+C) more / than  0
+D) too / than 0
+E) as / that 0
+ 5.   My father treasures the gold watch that he was given ---- a retirement present.
+A) like  0
+B) as 1
+C) such as 0
+D) so 0
+E) too 0
+ 6.   Some of the delegates were ---- with the Chairman's speech ---- they walked out.
+A) too disappointed / that 0
+B) more disappointing / than  0
+C) so disappointed / that 1
+D) so disappointing / than 0
+E) as disappointed / as 0
+ 7.   Without the heavy make-up she wears, she looks ---- in real life ---- she does on television.
+A) young / so 0
+B) as young / that 0
+C) younger / than 1
+D) the youngest / as 0
+E) so young / that 0
+ 8.   He wasn't ---- studious student in the class, but he worked ---- to pass the final examinations.
+A) the most / hard enough  1
+B) such / harder than  0
+C) more / so hard that  0
+D) as much as / hardly  0
+E) too much / too hard  0
+ 9.   After we had been shopping, Alice and May went bowling, but I was ---- to join them.
+A) so tiring that 0
+B) the most tired  0
+C) so tired as  0
+D) too tired  1
+E) as tiring as 0
+ 10. The spot where Vicki's new house is located is ---- that all her friends and relatives want to visit her.
+A) the most picturesque  0
+B) more picturesque than  0
+C) as picturesque  0
+D) such a picturesque  0
+E) so picturesque  1
+ 11. The amazing thing about "oltu stone" is that ---- you keep it, ---- it gets.
+A) so long / so shiny 0
+B) the long / the shiny 0
+C) the longest / the shiniest 0
+D) the longer / the shinier 1
+E) as long / as shiny 0
+ 12. For me, ---- aspect of the conference was the decision to concentrate on environmental issues.
+A) as encouraging 0
+B) so encouraged as 0
+C) more encouraged  0
+D) the most encouraging 1
+E) such an encouraged 0
+ 13. My father plays golf just for fun, although sometimes he plays ---- some professionals.
+A) so skilful that 0
+B) as skillfully as 1
+C) more skillfully  0
+D) the most skilful 0
+E) skillfully enough 0
+ 14. She couldn't believe that her son had behaved ---- to be disciplined by the teacher.
+A) as bad as 0
+B) worse than 0
+C) worse than 0
+D) so badly that 0
+E) badly enough 1
+ 15. The courts dealt with the farmer who had shot the thief ---- tolerantly ---- most people considered appropriate.
+A) more / as  0
+B) so / as 0
+C) the most / than 0
+D) less / than 1
+E) too / that 0
+ 16. Because it all happened ----, he couldn't give the officer an accurate description of his attackers.
+A) so suddenly 1
+B) as sudden 0
+C) too sudden 0
+D) as suddenly 0
+E) the most sudden 0
+ 17. The people have ---- distrust of the government in this African nation that few residents expect the elections to be fair.
+A) so 0
+B) such 1
+C) as 0
+D) like  0
+E) much 0
+ 18. He is feeling ----it can be expected after ---- a major operation.
+A) well enough / like  0
+B) so well that / so 0
+C) as well as / such 1
+D) better than / that 0
+E) the best / as 0
+ 19. I felt ---- ill yesterday to get out of bed, but I'm feeling ---- better today.
+A) as / much 0
+B) so / that 0
+C) more / so  0
+D) enough / more  0
+E) too / a lot 1
+ 20. This material is ---- to be stitched together on a sewing machine.
+A) too delicate 1
+B) as delicately as 0
+C) so delicate that 0
+D) delicately enough 0
+E) such a delicate 0
+ 21. Certain household items, ____ bleach and insecticides, are very dangerous and should be kept away from children.
+A) so much 0
+B) just as 0
+C) rather 0
+D) such as 1
+E) more  0
+ 22. ____ students enrolled on the Serbo-Croat language course that they are discontinuing this class.
+A) Fewer  0
+B) Less  0
+C) the least 0
+D) So little 0
+E) So few 1
+ 23. I knew my grandmother was seriously ill as she couldn't speak ____.
+A) tactfully 0
+B) utterly 0
+C) anxiously 0
+D) courageously 0
+E) coherently  1
+ 24. The council are looking for a qualified management accountant, but it is a / an ____ position to cover the present post holder's maternity leave.
+A) temporary 1
+B) immediate 0
+C) momentary 0
+D) compulsory 0
+E) limitless 0
+ 25. ____ petroleum and natural gas, coal is a carbon- based fossil fuel.
+A) Such as 0
+B) More  0
+C) So 0
+D) As 0
+E) Like  1
+ 26. I thought we were being ____ we could be, but the neighbours still complained that we were ___.
+A) quieter than / such noisy 0
+B) as quiet as / too noisy 1
+C) so quietly / noisy enough 0
+D) quietly enough / as noisy 0
+E) the quietest / noisier 0
+ 27. I didn't really want the children to eat all the ice cream, but I was ____ to argue with them.
+A) as tired as  0
+B) tired enough  0
+C) too tired  1
+D) so tired that  0
+E) more tired than  0
+ 28. We were expecting it to be a little cool, but admittedly, none of us expected ____ weather ____ this for our club picnic.
+A) so awful / th 0
+B) as awfully / as 0
+C) more awfully / than  0
+D) such awful / as 1
+E) the most awful / than 0
+ 29. The oak tree in our garden is almost ____ the house itself.
+A) so tall that 0
+B) the tallest 0
+C) much taller 0
+D) tall enough 0
+E) as tall as 1
+ 30. In some southern counties in the USA, blacks outnumber whites by four to one. Yet ____ thirty-six years ago, in many of these counties, not a single black person has registered to vote.
+A) as recently as  1
+B) so recently that  0
+C) more recently  0
+D) less recently  0
+E) recently enough  0
+ 31. The shops on the main street have been restored and now they serve ____ boutiques and gift shops for tourists.
+A) such 0
+B) so 0
+C) as 1
+D) like  0
+E) enough 0
+ 32. 'The Commercial Dispatch' is ____ of all the newspapers published in Mississippi.
+A) more progressive  0
+B) the most progressive  1
+C) as progressive as  0
+D) too progressive  0
+E) so progressive that  0
+ 33. Toads, which belong to ____ family ____ frogs, have shorter legs than frogs.
+A) the same / as 1
+B) more / than  0
+C) so / that 0
+D) such / as 0
+E) rather / than 0
+ 34. It was ____ injury that he struggled to carry on playing for the rest of the game.
+A) so painfully 0
+B) such a painful 1
+C) the most painful 0
+D) as painful as 0
+E) too painfully 0
+ 35. I felt quite out of place in my evening dress as most of the guests were ____ dressed.
+A) formally  0
+B) publicly 0
+C) privately 0
+D) casually 1
+E) peacefully 0
+ 36. Most of the population of Canada live in the cities in the South, leaving the Arctic North ____ populated.
+A) plainly 0
+B) roughly  0
+C) sparsely 1
+D) densely 0
+E) primitivel 0
+ 37. For one she knew the answer to the question, and so, afraid to miss the chance, raised her hand ____.
+A) limitlessly 0
+B) temporarily 0
+C) reluctantly  0
+D) tenderly 0
+E) enthusiastically 1
+ 38. The comedian Jasper Carrot doesn't tell jokes, but he describes daily life ____ audiences roar with laughter.
+A) as humorously as  0
+B) humorously enough  0
+C) such a humorous  0
+D) more humorous than  0
+E) so humorously that  1
+ 39. ____ birds ____ parrots, parakeets and mynahs learn to imitate sounds, but they do not have the capacity to think or to understand what they are saying.
+A) Rather / than  0
+B) So / that 0
+C) Much / like  0
+D) Such / as 1
+E) As / as 0
+ 40. Canadian wolves are ____ wolves in the world and twice ____ a large dog.
+A) larger than / so big  0
+B) the largest / as big as  1
+C) large enough / bigger than  0
+D) too large / too big  0
+E) so large / the biggest  0
+  1.   The company I work for offered me to choose between a better salary and a flat in the city centre and I chose ____.
+A) the latter 1
+B) the last 0
+C) the later 0
+D) late 0
+E) so late 0
+ 2. The proportion of English, who are severely obese, increased by 50 per cent from 2000 to 2005, twice _____ the growth seen in moderate obesity.
+A) so fast as 0
+B) so fast that 0
+C) too fast 0
+D) as fast as 1
+E) fast enough 0
+ 3.   Many dairy products ______ cheese and yoghurt and some fermented meat products already use lactic acid producing bacteria to protect and preserve their products.
+A) rather 0
+B) most of 0
+C) both 0
+D) such as 1
+E) just as 0
+ 4.   Last November, a landmark paper showed that stem- cell-like tumour cells with a signature protein are actually _____ to radiation ______ other brain cancer cells.
+A) so resistant / that  0
+B) as resistantly / as  0
+C) more resistant / than  1
+D) such resistantly / that  0
+E) so resistant / as  0
+ 5.   No actor in the 20th century broke down _____ barriers in Hollywood _____ did Poitier.
+A) more / than  1
+B) rather / than 0
+C) much / as 0
+D) either / or 0
+E) not only / but also 0
+ 6.   The success of a Palestinian state is inconceivable in the absence of peace and security for Palestinians and Israelis ______.
+A) as 0
+B) like  0
+C) similar 0
+D) alike  1
+E) similar 0
+ 7. According to the estimate, there are _____ or ______  85,000 people who have joined today's rally asking for the resignation of the president.
+A) more / fewer than  0
+B) the more / the less  0
+C) less / fewer than 0
+D) more / less  1
+E) much / more than  0
+ 8.   Institutions and TOEFL score recipients that note ______ inconsistencies ______ high TOEFL scores and apparent weak English proficiency should refer to the photo on the official score report for evidence of impersonation.
+A) so / that 0
+B) such / that 0
+C) such / as 1
+D) more / than  0
+E) as / as 0
+ 9. Pollution from marine shipping causes _____ 60,000 premature cardiopulmonary and lung cancer deaths around the world each year.
+A) appropriately  0
+B) apprehensively  0
+C) approximately  1
+D) extensively  0
+E) primarily 0
+ 10. The report benchmarks the number of annual deaths caused globally by pollution from marine vessels, with coastal regions in Asia and Europe ______.
+A) more affecting 0
+B) the most affected 1
+C) as affected 0
+D) the most affecting 0
+E) affecting 0
+ 11. A study into the 'black sheep effect', shows that children treat disloyalty in their own group _____ within different groups.
+A) as harsh as 0
+B) so harshly that 0
+C) more harshly than  1
+D) so harsh as 0
+E) the most harshly 0
+ 12. _____ the danger of a particular insurgency is recognized, _____ likely it is that the military intervention will have to be considered.
+A) So early / little 0
+B) Much earlier / less 0
+C) The earliest / the least 0
+D) The earlier / the less 1
+E) Such earlier / less than 0
+ 13. The many land and sea animals provide a source of food _____ income for the locals.
+A) as well as 1
+B) as 0
+C) more than  0
+D) so well 0
+E) such 0
+ 14. The Turkish strategy encompassed varying approaches and was _____ that of the English, necessitating a rethinking of traditional counterinsurgency methods.
+A) more adaptable than  1
+B) so adaptable as 0
+C) so adaptable 0
+D) adaptable enough 0
+E) the most adaptable 0
+ 15. One study found that nursing home residents 65 and older are three times _____ likely to be hospitalized for influenza ____ people of similar ages who do not live in nursing homes.
+A) such / that 0
+B) too / as 0
+C) so / that 0
+D) more / than  1
+E) so / as 0
+ 16. Insurance companies would spend a lot _____ paying the $10 cost of a flu shot for each employee _____ they would pay to stop the resulting outbreak.
+A) such little / that 0
+B) so little / as 0
+C) so little / that 0
+D) less / than 1
+E) the least / as 0
+ 17. Biscuit-makers both in Europe and Latin America have not done _____ hoped.
+A) so good as 0
+B) as well as 1
+C) as good as 0
+D) so well that 0
+E) better 0
+ 18. A new Palestinian state will be more likely to succeed, _____ its territorial contiguity; _____ open its borders, allowing free movement of people.
+A) the greatest / the most  0
+B) the greater / the more  1
+C) so great / as more  0
+D) as great / so much  0
+E) greater than / more  0
+ 19. Women face unique challenges in keeping their blood pressure under control, and this may help explain why _____ women _____ men struggle with uncontrolled blood pressure.
+A) more / than  1
+B) less / than 0
+C) the / same 0
+D) the more / the more  0
+E) such / as 0
+ 20. Heart disease is the leading killer of women and men in the United States, and high blood pressure is a major contributor to _____ problems ______ heart attack and stroke.
+A) either / or 0
+B) whether / or 0
+C) such / that 0
+D) so / that 0
+E) such / as 1
+ 21. These works are of ____ importance _____ they should be published at any cost.
+A) so / that 0
+B) such / that 1
+C) as / as 0
+D) more / than  0
+E) so / as 0
+ 22. Strasberg himself considered the girl to be his _____ pupils of all time.
+A) more greatly than  0
+B) the greatest  0
+C) the greater  0
+D) greatest  1
+E) as great as  0
+ 23. The new calculations might leave the mass of the universe ______ ten to 20 per cent _____ previously calculated.
+A) more than / so light as  0
+B) as much as / as light as 0
+C) the more / the lighter  0
+D) as much as / lighter than 1
+E) as many as / lighter than 0
+ 24. In the neighbourhood _____ 10 to 14 per cent of patients who go to see their doctor have depression.
+A) so many that 0
+B) such as 0
+C) as much as 0
+D) so much as 0
+E) as many as 1
+ 25. The economic downfall of the U.S. has affected many countries and Haiti is one of _____ one.
+A) the most affecting 0
+B) more affecting 0
+C) as affected as 0
+D) the most affected 1
+E) more affected than 0
+  1.   Around 40.000 children are _____ malnourished _____ they face the prospect of death in the months ahead.
+A) such / that 0
+B) so / that 1
+C) more / than  0
+D) as / as 0
+E) so / as 0
+ 2.   With the late 19th century, an era has begun that is much _____ its predecessors.
+A) as different as  0
+B) more differently than  0
+C) more different than  1
+D) different  0
+E) the most different  0
+ 3. If you suffer from reflux, it is _____ to avoid eating and drinking right before bed since this can make your symptoms _____.
+A) important / the worst 0
+B) the most important / bad 0
+C) more important / worse  1
+D) more important / bad  0
+E) the most important / the worst 0
+ 4.   After all,  the common saying came to mind: The _____ the _____.
+A) most / merriest  0
+B) more / merrier  1
+C) much / merry  0
+D) many / merry  0
+E) most / merry  0
+ 5.   Symptoms of avian influenza in humans have ranged from typical human influenza-like symptoms _____ fever, cough, sore throat; to severe respiratory diseases _____ acute respiratory distress.
+A) such as / as 0
+B) as for / too 0
+C) like / such as  1
+D) such / enough 0
+E) as / like  0
+ 6.   It would have been much _____ if the man had parked as we did there.
+A) quick 0
+B) quickly 0
+C) quicker  1
+D) the quickest  0
+E) more quickly  0
+ 7.   The new produced electric pencil sharpener could consume an entire pencil in _____ a second.
+A) more than  0
+B) further that 0
+C) less than 1
+D) so much as 0
+E) so little as 0
+ 8.   Some biomedical research will probably enable a lot of individuals infected with HIV to live _____, _____ lives.
+A) longer / more comfortable  1
+B) the Iongest / the most comfortable 0
+C) so long / comfortable 0
+D) too long / comfortable 0
+E) long enough / more comfortable  0
+ 9.   With _____ an unusual name, it was clear from the start that the director's film was going to be different.
+A) such 1
+B) so 0
+C) as 0
+D) like  0
+E) about 0
+ 10. The techniques are being applied almost everywhere by big and small firms _____.
+A) similar 0
+B) alike  1
+C) the same 0
+D) as well 0
+E) as 0
+ 11. A customer cannot go into a shop and offer a _____ price for an item ______ the list price given by the management.
+A) so low / that 0
+B) such low / that 0
+C) lower / than 1
+D) too low / than 0
+E) lowest / than 0
+ 12. The size relationship between the atmosphere and the earth is _____ a football and its cover.
+A) between 0
+B) comparable to 0
+C) compared with  0
+D) alike  0
+E) similar to 1
+ 13. They speak a language ____ German.
+A) the same 0
+B) akin to 1
+C) alike  0
+D) such 0
+E) as 0
+ 14. He has always liked detective stories and romances and so on - nothing ______ intellectual.
+A) enough 0
+B) as 0
+C) too 0
+D) more  1
+E) a lot of 0
+ 15. I've always believed that happiness counts _____ money.
+A) more than  1
+B) the most 0
+C) so much as 0
+D) much 0
+E) so much that 0
+ 16. I am not eating that - it smells ______! What is that?
+A) disgusting 1
+B) impressing  0
+C) annoying 0
+D) disappointing 0
+E) terrifying  0
+ 17. Paul is very ______ in appearance to his brother.
+A) similar 1
+B) alike  0
+C) like  0
+D) the same 0
+E) as like  0
+ 18. On average, the Japanese car companies remain _____ in the world market.
+A) the most productively  0
+B) more productive  1
+C) too productive  0
+D) so productively  0
+E) the more productive  0
+ 19. It was ____ further to the town centre than I remembered.
+A) much 1
+B) very 0
+C) many 0
+D) a lot of 0
+E) less than 0
+ 20. The risk for homicide is ____ in infancy than in any other year of childhood before age 17 years and is _____ during the first 4 months of life,
+A) more greatly / greatest  0
+B) so great / greatest  0
+C) the greatest / great  0
+D) more great / greater  0
+E) greater / the greatest  1
+ 21. _____ he insisted he was innocent, _____ they seemed to believe him.
+A) The most / the least 0
+B) Too much / too little  0
+C) As much / as little 0
+D) So much / so little 0
+E) The more / the less  1
+ 22. It was comfortable, chic and cheap: _____ of all, _____ of the rent was being paid by an unknown man.
+A) better / most 1
+B) best / less 0
+C) best / the least 0
+D) the best / many 0
+E) good / most 0
+ 23. It seems that this year's winter is ______ warmer than last year's.
+A) rather 1
+B) very 0
+C) such 0
+D) so 0
+E) more  0
+ 24. That's what we have liked to see - everybody in the office works _____ at it!
+A) hard  1
+B) hardly  0
+C) such hard  0
+D) the hardest  0
+E) so hardly  0
+ 25. It saves much petrol, yet there is ______ that in this vehicle.
+A) more and more  0
+B) so much as 0
+C) much more than  1
+D) as long as 0
+E) less than 0
+ 1.   The back wheel of a bicycle bears _____ weight _____ the front wheel.
+A) as / as 0
+B) such / that 0
+C) much / with 0
+D) same / like  0
+E) more / than  1
+ 2.   It's regarded as the best hotel in town. _____ famous people _____ the Prince of Wales have stayed there.
+A) Like / that  0
+B) Like / as  0
+C) As / as 0
+D) So / just 0
+E) Such / as 1
+ 3.   When cars came into fashion later in his life, he disliked them _____ much because of their noise and fumes _____ he refused to have one.
+A) too / which 0
+B) as / as 0
+C) rather / so 0
+D) so / that 1
+E) so / yet 0
+ 4.   The jury dealt with the shop assistant who had killed the thief _____ tolerantly _____ most of the people watching the trial considered appropriate.
+A) less / than 1
+B) more / as  0
+C) so / as 0
+D) the most / that 0
+E) such / that 0
+ 5.   There is certainly_____ more under-farmed or badly- farmed land in the world _____ well-farmed land.
+A) much / than 1
+B) so / as 0
+C) either / or 0
+D) even / such as 0
+E) rather / such 0
+ 6.   Some news outlets reported that Feverfew's odds had really been _____ high _____ one in a million, which the statistician denies.
+A) such / that 0
+B) as / as 1
+C) so / that 0
+D) too / to 0
+E) so / as to 0
+ 7.   The human population has swelled _____ much ______ people alive today outnumber all those who have ever lived.
+A) so / that 1
+B) such / that 0
+C) too / to 0
+D) enough / to 0
+E) as / as 0
+ 8.   A new study shows that brain circuitry makes some people _____ susceptible to becoming addicts.
+A) as 0
+B) more  1
+C) the most 0
+D) too 0
+E) enough 0
+ 9.   People have developed strategies for combating forgetfulness _____ messages scribbled on post-it notes, electronic address books carried in devices.
+A) as well 0
+B) so that 0
+C) such as 1
+D) either 0
+E) even 0
+ 10. Digital memories can do ____ simply assist the recollection of past events, conversations and projects.
+A) as well 0
+B) enough to 1
+C) so that 0
+D) the most 0
+E) more than  0
+ 11. According to Steinhardt, ____ explicit the image, _____ the technology is for actually detecting weapons.
+A) the best / the best 0
+B) more / better  0
+C) the more / the better  1
+D) so / that 0
+E) such / that 0
+ 12. During the last eighteen months, a new research has indicated that a far _____ rise in sea level may be possible because the ice sheets of the Antarctic appear to have begun moving _____ toward the sea.
+A) rapid / more quickly  0
+B) rapid / quicker  0
+C) more rapidly / more quickly  0
+D) more rapidly / quickly  0
+E) more rapid / more quickly  1
+ 13. Polly was _____ fond of him _____ when she was widowed she followed him back to Philadelphia after the revolution.
+A) too / than 0
+B) more / than  0
+C) as / as 0
+D) such / that 0
+E) so / that 1
+ 14. The disease is encountered in the Western and is _____ common among women in certain professions, such as models and ballet dancers.
+A) enough 0
+B) either 0
+C) as 0
+D) more  1
+E) the most 0
+ 15. Because his ideas taught the world _____ had ever been known about humanity, he came to be regarded as the principal authority on the subject.
+A) as much as 0
+B) as many as 0
+C) much more than  1
+D) too much 0
+E) the most 0
+ 16. Energy use and carbon dioxide emissions are highly correlated: _____ energy we consume, _____ C02 we release into the atmosphere.
+A) the more / the more  1
+B) so much / so much 0
+C) the most / the most 0
+D) much more / much more  0
+E) such much / that much 0
+ 17. As a general rule, psychotherapies are _____ effective ______ medication for the treatment of mild depression.
+A) as / as 1
+B) so / that 0
+C) such / that 0
+D) too / to 0
+E) such / as 0
+ 18. New developments came from a _____ understanding of what happens to eyes when they're dry when compared to the past.
+A) well 0
+B) best 0
+C) much best 0
+D) better 1
+E) the most 0
+ 19. The article regards the idea not ____ an elite movement or temporary trend, but rather _____ an advancing cultural element that enhances our lives.
+A) neither / nor 0
+B) both / and 0
+C) as / as 1
+D) such / as 0
+E) more / than  0
+ 20. Every day ____ 1,500 Americans die from cancer - about one person every minute.
+A) rather 0
+B) the most 0
+C) so much 0
+D) mostly 0
+E) more than  1
+ 21. Women are twice ____ likely to get depression _____ men.
+A) so / as 0
+B) as / as 1
+C) so / that 0
+D) such / that 0
+E) too / to 0
+ 22. I don't think there is anything different that makes the education _____ today _____ a hundred years ago.
+A) more / than  0
+B) better / as 0
+C) much / than 0
+D) better / than 1
+E) the best /of 0
+ 23. _____ the treatment is started, _____ the chance of recovery.
+A) Sooner / better 0
+B) The soonest / the best 0
+C) So soon / so good 0
+D) The sooner / the well 0
+E) The sooner / the better 1
+ 24. Advertising is invading public spaces, _____ schools, which some critics argue is a form of child exploitation.
+A) so that 0
+B) as well 0
+C) such that 0
+D) such as 1
+E) either 0
+ 25. The thing I told you is only a legend and it is _____ good ______ be true.
+A) as / as 0
+B) enough / to 0
+C) so / that 0
+D) too / to 1
+E) such /that 0
+ 1.   He is _____ better at golf _____ at swimming because he even doesn't know how to hit the ball.
+A) so / and 0
+B) any / so 0
+C) much / than 0
+D) more / to  0
+E) no / than 1
+ 2.   Do you know that ice-cream has about _____ calories as three glasses of milk?
+A) so many 0
+B) as many 1
+C) so much 0
+D) as much 0
+E) as well 0
+ 3.   I have no doubt that in 2007 the French and the German will continue to be _____ receptive to foreign entrepreneurs _____ the British.
+A) more / as  0
+B) such / that 0
+C) so / that 0
+D) less / than 1
+E) much / than 0
+ 4. Few events have ______ powerfully influenced the political and economic development of our world _____ 11th September terrorist attacks.
+A) much / than 0
+B) such / that 0
+C) the most / for 0
+D) so / as 1
+E) too / that 0
+ 5.   Did you know that learning to ski is _____ than learning to skate?
+A) far more easier  0
+B) much easier 1
+C) so much easy 0
+D) as easy 0
+E) the easiest 0
+ 6.   Antique sales in the United States are _____ profitable _____ they used to be.
+A) more / than  1
+B) so / as 0
+C) such / that 0
+D) such / as 0
+E) as / than 0
+ 7.   He hasn't done _____ well in life _____ his sister because he's been given fewer chances.
+A) so / as 1
+B) such / as 0
+C) so / that 0
+D) as / that 0
+E) more / than  0
+ 8.   You should be concentrating on your project _____ listening to music all night long.
+A) so that 0
+B) even if 0
+C) rather than 1
+D) such as 0
+E) no more  0
+ 9.   It's _____ a box for me to lift by myself so I think I need some help with this.
+A) big 0
+B) too big 1
+C) very big 0
+D) a too big 0
+E) such big 0
+ 10. I have _____ little free time _____ I probably won't be able to attend the meeting.
+A) too / for 0
+B) such / that 0
+C) so / that 1
+D) very / to 0
+E) so / as 0
+ 11. His attitude towards the verdict was _____ everyone supposed he was guilty.
+A) so much 0
+B) as 1
+C) such that 0
+D) like  0
+E) similar 0
+ 12. This pullover is _____ thicker than that black one but it seems it is _____ worse quality.
+A) quite / as 0
+B) moderately / just as 0
+C) slightly / much 1
+D) very / fairly 0
+E) rather / more  0
+ 13. When the weather will warm up again, it will also be the time when butterflies become _____ and lay many eggs which will soon turn into nice chubby juicy caterpillars, the favourite food of wasps and their larva.
+A) as actively 0
+B) so active as 0
+C) more actively than  0
+D) such active as 0
+E) more active  1
+ 14. Those who had been attacked gradually left, leaving Birmingham a _____ conservative city ______ it had  0been throughout the eighteenth century.
+A) much / as 0
+B) more / than  1
+C) so / as 0
+D) such / that 0
+E) so / that 0
+ 15. Our teacher was so indecisive that she was ______ persuaded to change her mind again.
+A) readily  1
+B) subtly 0
+C) abruptly 0
+D) hardly  0
+E) punctually 0
+ 16. Prevention of future needs will often avert far ______ hardship ____ a response after the fact.
+A) a s /as 0
+B) so / that 0
+C) such / as 0
+D) more / than  1
+E) so / as 0
+ 17. Although no two language courses are organized in _____ the same way, nearly all of them use the same type of system, materials and curriculum.
+A) eternally  0
+B) roughly  0
+C) approximately  0
+D) exactly  1
+E) especially 0
+ 18. Our manager always tells that he has met _____ different businessmen in his career _____ he now knows all kinds of them very well.
+A) too much / as 0
+B) such a lot of / for 0
+C) too little / so 0
+D) so many / that 1
+E) more / than  0
+ 19. John's parents received a letter from his teacher that said he was a good student, but that he talked to his friends _____ during the lesson.
+A) incoherently  0
+B) infallibly 0
+C) vaguely 0
+D) illegibly 0
+E) incessantly 1
+ 20. "Did you enjoy your vacation?" "Well, I didn't like Egypt ______ Turkey."
+A) the half of 0
+B) half as much as 1
+C) half the much 0
+D) half the time as 0
+E) half as much of 0
+ 21. It was ____ a boring book _____ I didn't want to read itonce more.
+A) so / that 0
+B) as / as 0
+C) very / that 0
+D) so / as 0
+E) such / that 1
+ 22. Actually, I didn't grow up here. I ______ moved here from another town.
+A) lately 1
+B) hardly  0
+C) properly  0
+D) nearly 0
+E) almost 0
+ 23. The party was not a success because ______ anyone came.
+A) just 0
+B) almost 0
+C) only 0
+D) hardly  1
+E) many 0
+ 24 . If the operation hadn't been _____ successful, her nose would have been very ___ worse by now.
+A) such / far 0
+B) little / more  0
+C) rather / a lot 0
+D) so / much 1
+E) as / many 0
+ 25. Glaciers erode material as they move, and deposit that material _____ along their paths, forming a number of easily recognizable features that are characteristic of areas that were once glaciated.
+A) as far as 0
+B) farther than 0
+C) farther 1
+D) so far that 0
+E) so far than 0
+  1. Very few will have learnt of ____ before and he willnot hang around long enough to make a name for______.
+A) us / ourselves  0
+B) him / himself  1
+C) themselves / ours  0
+D) theirs / herself  0
+E) him / its  0
+ 2. ______ wants to expose ______. People often hide theirfeelings.
+A) Everybody / themselves  0
+B) Somebody / himself  0
+C) Anybody / themselves  0
+D) Nobody / themselves  1
+E) Somebody / themselves  0
+ 3. The officer rode 70 km to _____ home city and thenturned a gun on _____, the reporter told.
+A) our / him  0
+B) his / herself  0
+C) my / itself  0
+D) her / herself  1
+E) us / ourselves  0
+ 4. The gangs emanate terror. Every town, _____ say isunder _____ control.
+A) they / their  1
+B) we / our  0
+C) they / themselves  0
+D) you / theirs  0
+E) us / my  0
+ 5. _____ elder people's pulse rate is less than 2 beatsper second.
+A) Much  0
+B) A few of  0
+C) Most  1
+D) The whole  0
+E) Every  0
+ 6. It will be advisable to quit _____ alcohol and smokingduring pregnancy.
+A) each  0
+B) every  0
+C) all  1
+D) a number of  0
+E) some  0
+ 7. The wildlife of ______ region is under threat and______ rare animal species may become extinct.
+A) all / a large amount of  0
+B) each / others  0
+C) another / both  0
+D) every / either  0
+E) the whole / some  1
+ 8. The place was spacious with _____ room for relaxationsurrounded by restaurants.
+A) no  0
+B) a  0
+C) any  0
+D) lots of  1
+E) little  0
+ 9. There were some people on the street that foughtwith _____.
+A) one another  1
+B) themselves  0
+C) another  0
+D) other  0
+E) the other  0
+ 10. After ____ years passed, I decided to have anoperation to have _____ the wrinkles taken away fromaround my eyes.
+A) many / a good many  0
+B) the whole / both  0
+C) some / many  0
+D) all / all of  0
+E) several / all  1
+ 11. ______ of us managed to do it separately, butfortunately together we did it.
+A) Neither  1
+B) Both  0
+C) Some  0
+D) All  0
+E) Each  0
+ 12. Before the gathering that night, there was _____ moreclearing up in the house to do as usual.
+A) a few  0
+B) some  1
+C) several  0
+D) a great many  0
+E) a number of  0
+ 13. Her husband tried to convince her to reject it, but shewould have _____ of it.
+A) some  1
+B) no  0
+C) none  0
+D) neither  0
+E) many  0
+ 14. We had _____ room so none of us had any problemswith accommodation.
+A) little  0
+B) few  0
+C) enough  1
+D) the number of  0
+E) a  0
+ 15. I really want to know what kind of feeling it is to havea relative that hates you that ______.
+A) most  0
+B) much  1
+C) a lot  0
+D) a good many  0
+E) a little  0
+ 16. Things happen in ______ stadium and ours is nodifferent than _____.
+A) any / the other  0
+B) every / others  1
+C) the others / the others  0
+D) each / each other  0
+E) one / one another  0
+ 17. We have realized that _____ has brought _____ worthsbuying.
+A) everybody / anything  0
+B) somebody / nothing  0
+C) anybody / everything  0
+D) nobody / anything  1
+E) anybody / something  0
+ 18. We hope doctors may someday be able to diagnoselung cancer with ______ more than a quick swab ofthe mouth.
+A) everything  0
+B) nothing  1
+C) something  0
+D) anything  0
+E) somewhere  0
+ 19. Not only graduate but also undergraduate studentsfind _____ in a troublesome position that can not begot rid of.
+A) themselves  1
+B) one another  0
+C) them  0
+D) the others  0
+E) each other  0
+ 20. I spend ____ my time thinking about you at nights.
+A) a good deal of  1
+B) a great many of  0
+C) a plenty number of  0
+D) a number of  0
+E) almost  0
+ 21. In our country, there are well-known spectacleplaces, _____ after______, especially in the West.
+A) one / the others  0
+B) some / other  0
+C) several / others  0
+D) the other / the others  0
+E) one / another  1
+ 22. He sprang forward ____ metres towards the trenchesbut soon hesitated.
+A) no  0
+B) a few  1
+C) a great quantity of  0
+D) plenty of  0
+E) quite a few  0
+ 23. _____ in my brain a light bulb slowly started to twinkletowards the given question.
+A) Everything  0
+B) Nothing  0
+C) Somewhere  1
+D) Anyone  0
+E) Nowhere  0
+ 24. To ______ that are acquainted with them, they don't appear to be an ideal couple.
+A) nowhere  0
+B) anybody  1
+C) nobody  0
+D) somebody  0
+E) non 0
+ 25. _____ was in the name of Reynar; _____ Daze.
+A) Some / other  0
+B) Another / some  0
+C) One / the other  1
+D) Each other / the other  0
+E) Other / the others  0
+  1. This year's whiteout of a winter has prompted _____global-warming naysayer to crow about buying AlGore a snow shovel.
+A) some  0
+B) a lot of  0
+C) many a  1
+D) none  0
+E) little  0
+ 2. _____ commercial or recreational salmon fishing willbe allowed off the coast of Oregon this year due tothe possible extinction of the species.
+A) Some  0
+B) One  0
+C) No  1
+D) None  0
+E) Each  0
+ 3. With some families displaced for more than a decade,children born or raised in camps have _____ or ______memory of traditional farming life.
+A) little / no  1
+B) no / any  0
+C) more / less  0
+D) few / fewer  0
+E) less / none  0
+ 4. Istanbul is the biggest city in Turkey and one of theworld's major cities, with around 6.7 million people inthe city _____ and ______ four million in the areaaround it.
+A) its own / other  0
+B) themselves / the other  0
+C) alone / others  0
+D) one another / the others  0
+E) itself / another  1
+ 5. _____ product you buy should be a gateway to apersonal sustainability practice.
+A) None  0
+B) Everything  0
+C) Any  1
+D) Several  0
+E) Most  0
+ 6. There were Rangers fans throwing bottles and cansat _____ because the game was not on.
+A) themselves  0
+B) one another  1
+C) other  0
+D) each another  0
+E) the others  0
+ 7. Officials say _____ affected county has now beenreached and rescue efforts started.
+A) each other  0
+B) both  0
+C) all  0
+D) either  0
+E) every  1
+ 8. At no time should you endanger yourself or ______take _____ unnecessary risks.
+A) the others / every  0
+B) others / any  1
+C) one another / no  0
+D) each other / some  0
+E) the other / either  0
+ 9. While consumers who obtain genuine products canimprove their health, _____ who are deceived byclever advertising may lose their health, their savingsor _____.
+A) those / both  1
+B) ones / neither  0
+C) all / none  0
+D) both / all  0
+E) none / either  0
+ 10. Discount retailers such as Aldi and Lidl have beencharging for bags for ______ years.
+A) a great amount of  0
+B) a number of  1
+C) many a  0
+D) a lot  0
+E) too much  0
+ 11. For most of ______ who emigrated, the search foremployment and a better life was almost certainlythe principal cause of ______ departure.
+A) none / their  0
+B) ones / some  0
+C) all / any  0
+D) some / its  0
+E) those / their  1
+ 12. Not ____ of the changes observed in nature aredamaging to _____ creatures.
+A) every / whole  0
+B) each / both  0
+C) either / neither  0
+D) none / all  0
+E) all / all  1
+ 13. _____ attempt to explain why humans think andbehave in the way that they do will inevitably belinked to one or _____ branch of psychology.
+A) Whole / others  0
+B) Each / each other  0
+C) Every / the other  0
+D) All / one another  0
+E) Any / another  1
+ 14. Having different types of businesses in aneighbourhood can increase _____ walking tripsamong residents.
+A) a great amount of  0
+B) a vast amount of  0
+C) the number of  1
+D) several  0
+E) a number of  0
+ 15. In neighbourhoods where residents are willing to help_____, children are less likely to be overweight.
+A) another  1
+B) one another  0
+C) each other  0
+D) the other  0
+E) themselves  0
+ 16. Until the 1980s, about 2 in ______ 1,000 people werethought to be affected by the disease.
+A) each  0
+B) other  0
+C) more  0
+D) no 0
+E) every  1
+ 17. Our brain is made of many parts, ______ of which hasa specific function.
+A) every  0
+B) all  0
+C) each  1
+D) whole  0
+E) many  0
+ 18. _____ number has an inherent power of analysis; ithas also the power of synthesis because of the innerbond that connects all _____ numbers to the unit.
+A) Every / the other  0
+B) Each / other  1
+C) All / some  0
+D) No / any  0
+E) Whole / many  0
+ 19. There were ____ adventurers who were willing to fightin _____ cause if the pay were good.
+A) several / some  0
+B) many / none  0
+C) some / any  1
+D) a good deal of / few  0
+E) the number of / most  0
+ 20. The scientists stripped the DNA from 19 human eggsand implanted in _____ a DNA-containing nucleusfrom _____ person's cell.
+A) both / the other  0
+B) every / other  0
+C) each / another  1
+D) none / others  0
+E) neither / the others  0
+ 21. When an electron meets an antielectron, _____particles vanish.
+A) none  0
+B) all  0
+C) both  1
+D) either  0
+E) every  0
+ 22. Physical dating violence affects almost one in _____ 11 adolescents.
+A) several  0
+B) other  0
+C) all  0
+D) every  1
+E) each  0
+ 23. Police had no motive for the attack, and witnessessaid they heard _____ demand for money or _____else.
+A) no / anything  1
+B) any / something  0
+C) some / anyone  0
+D) every / nothing  0
+E) a / anything 0
+ 24. Under law, the manufacturers don't have to declare_____ ingredients.
+A) whole  0
+B) all  1
+C) every  0
+D) each  0
+E) few  0
+ 25. She put forward two proposals, ______ of which didn't mmake any sense to the participants in the summit.
+A) a good number  0
+B) all  0
+C) neither  0
+D) none  0
+E) either  1
+  1. We saw _____ positive results from our investigationon aggressive human breast cancer cells.
+A) the number of  0
+B) quite a few  1
+C) a good deal  0
+D) lots  0
+E) many a  0
+ 2. Astronomers suggest that there are two separateuniverses, one made out of matter, our own, and_____made out of antimatter.
+A) the other  1
+B) another  0
+C) other  0
+D) others  0
+E) each  0
+ 3. There are issues that needed ______ attention beforethe disaster.
+A) a great deal of  1
+B) a great many  0
+C) several of  0
+D) many  0
+E) the number of  0
+ 4. With those scrutinising the election saying they found_____ widespread evidence of vote-rigging, therewould seem to be _____ chance of the result beingreversed.
+A) a little / many  0
+B) plenty / none  0
+C) no / little  1
+D) every / much  0
+E) a lot of/none  0
+ 5. Under torture a person will say_____ his captors wantto hear.
+A) something  0
+B) whichever  0
+C) anything  1
+D) nothing  0
+E) each other  0
+ 6. _____ of the past three recessions has beensuccessively weaker and shorter as policy misstepshave lessened.
+A) Every  0
+B) One  0
+C) Some  0
+D) The other  0
+E) Each  1
+ 7. How does one go about making sure adults dischargeresponsibilities when they are _____ unaware of what_____ can do?
+A) theirs / they  0
+B) themselves / they  1
+C) they / theirs  0
+D) them / he  0
+E) us / we  0
+ 8. In the play, the two players cannot see or hear _____,but they are seated at interconnected computers.
+A) each other  1
+B) one another  0
+C) themselves  0
+D) another  0
+E) the others  0
+ 9. He asked me _____ questions every _____ minutes.
+A) several / many  0
+B) the number of / other  0
+C) less / a few  0
+D) many / one another  0
+E) a number of / few  1
+ 10. The infection can spread easily in a school, wheremany young live in close proximity to _____.
+A) one another  1
+B) themselves  0
+C) another  0
+D) the other  0
+E) others  0
+ 11. Eating healthy tomatoes is only one small way totake care of _____, _____ community and the planet.
+A) yours / mine  0
+B) themselves / my  0
+C) me / his  0
+D) yourself / your  1
+E) them / theirs  0
+ 12. Rescue efforts resumed in Beichuan after _____ entirecity was evacuated amid fears that it could beengulfed by a river bursting _____ banks.
+A) the / its  1
+B) - / themselves  0
+C) an / their  0
+D) the / their  0
+E) the / our  0
+ 13. Both the Alliance elements in Afghanistan and theShiite factions in Iraq had been recipients of Iraniansupport before the US interested ______ in ______causes.
+A) itself / their  1
+B) them / its  0
+C) theirs / some  0
+D) its / theirs  0
+E) it / its  0
+ 14. Radiation doesn't cause less DNA damage in cancerstem cells than in ______ tumour cells.
+A) other  1
+B) others  0
+C) the others  0
+D) another  0
+E) every  0
+ 15. The experts use _____ different strategies to convinceparents to send children back to school.
+A) the number of  0
+B) a number of  1
+C) a great deal of  0
+D) a great amount of  0
+E) a good quantity of  0
+ 16. As China and America ____ draw up military budgetswith _____ in mind, there is the threat of a growingmutual suspicion that will be hard to ratchet down.
+A) each / the other  1
+B) both / themselves  0
+C) the other / the others  0
+D) neither / others  0
+E) either / each other  0
+ 17. As for George Bush's calls for democracy in the widerMiddle East, _____ Americans thought this was a goodidea, but _____ thought it would succeed.
+A) most / few  1
+B) several / all  0
+C) many / a lot of  0
+D) plenty of / a great deal  0
+E) few / no 0
+ 18. ____ which feels that the worm will help in securingthe system while _____ is of the opinion that a wormis a worm after all and has to be eradicated.
+A) Some / others  0
+B) One / the other  1
+C) Few / other  0
+D) Many / another  0
+E) One / other  0
+ 19. As a child grows older, he becomes more convincedthat science could do _____ or nothing to explain theworld of spirituality.
+A) few  0
+B) little  1
+C) some  0
+D) a few  0
+E) a little  0
+ 20. In December last year, the health secretary and five_____ cabinet ministers signed a concordat proposinga transformation of social care.
+A) the other  0
+B) others  0
+C) the others  0
+D) other  1
+E) another  0
+ 21. The artists of the Spanish Market work with manydifferent kinds of materials. _____ weave cloth onlooms. ____make their own pottery or carve objectsout of bone.
+A) All / None  0
+B) Most / Half  0
+C) Whole / Others  0
+D) Many / The other  0
+E) Some / Others  1
+ 22. It is true that we, all nations, live elbow to elbow with______ all the way from the Caspian Sea to thewestern end of the Mediterranean.
+A) another  0
+B) each others  0
+C) the other  0
+D) other  0
+E) one another  1
+ 23. Some people with depression may have thoughtsabout hurting themselves or _____, and they mayeven think about killing _____.
+A) the others / themselves  0
+B) other / them  0
+C) others / themselves  1
+D) anothers / theirs  0
+E) others / theirs  0
+ 24. The merits of ensuring that the world's poorest haveaccess to the internet are questionable — ______ sayit can help lift them out of poverty, ______ that theimpact is marginal.
+A) most / a great many  0
+B) the whole / others  0
+C) none / the others  0
+D) some / others  1
+E) each / other  0
+ 25. It's never too early to begin thinking and planning forthe Silent Auction, ______ as a donor or consumer or______.
+A) neither / either  0
+B) either / both  1
+C) not / neither  0
+D) either / neither  0
+E) either / none  0
+ 1.   Last Saturday, my father ____ that his dinner suit was too small, so now he ____ a strict diet.
+A) has discovered / followed  0
+B) discovers / was following 0
+C) discovered / is following  1
+D) was discovering / has followed 0
+E) has been discovering / will follow 0
+ 2.   Helen ____ her driving test five times so far without success, but she ____ yet.
+A) takes / isn't giving up  0
+B) has taken / hasn't given up  1
+C) was taking / didn't give up 0
+D) is taking / doesn't give up 0
+E) took / wasn't giving up 0
+ 3.   Most of the time, John and his friends ____ football matches at their local coffee, but this Saturday, they ____ to the stadium, and so they're all very excited.
+A) watch / are going  1
+B) have been watching / go 0
+C) are watching / have gone  0
+D) were watching / went  0
+E) have watched / were going  0
+ 4.   Kate ____ a vegetarian for eleven years now, and she ____ meat at all during this time.
+A) is / isn't eating 0
+B) has been / wasn't eating 0
+C) is / doesn't eat 0
+D) has been / hasn't eaten 1
+E) was / didn't eat 0
+ 5.   Last year, Richard ____ his bicycle to work every day, but he ____ the bus since the accident.
+A) rides / takes  0
+B) has ridden / is taking 0
+C) rode / has been taking  1
+D) was riding / took 0
+E) is riding / has taken  0
+ 6.   I ____ glasses when I was younger, but now I ____ contact lenses.
+A) was wearing / have had 0
+B) have worn / am having  0
+C) have been wearing / had 0
+D) wear / was having 0
+E) wore / have  1
+ 7.   About a month ago, I ____ a brochure about your hotel, but I ____ it yet.
+A) request / didn't receiv  0
+B) have requested / am not receiving  0
+C) was requesting / wasn't receiving  0
+D) requested / haven't received  1
+E) have been requested / don't receive  0
+ 8.   The conditions in our office ____ more and more unbearable, so quite often recently I ____ quitting it and looking for a new job.
+A) have got / was considering 0
+B) was getting / am considering 0
+C) are getting / have considered  1
+D) have been getting / consider 0
+E) get / considere  0
+ 9.   Because I ____ a long way from my work, I ____ lots of time going to and from work.
+A) live / waste 1
+B) lived / have wasted 0
+C) have been living / wasted 0
+D) am living / have been wasting 0
+E) was living / am wasting 0
+ 10. In the USA, the twenty largest newspaper chains ____ for almost half of the circulation, reflecting a trend that ____ in the 1970s.
+A) account / started 1
+B) were accounting / start  0
+C) has accounted / was starting 0
+D) accounted / is starting 0
+E) accounts / has started 0
+ 11. Clean snow ____ as much as 87 per cent of the sunlight that ____ on it.
+A) is reflecting / shone 0
+B) has reflected / was shining 0
+C) reflected / is shining 0
+D) was reflected / has shone 0
+E) reflects / shines 1
+ 12. More than two hundred people ____ the tower when the bomb ____ in one of the dustbins.
+A) have visited / was exploding  0
+B) were visiting / exploded  1
+C) visited / has exploded  0
+D) are visiting / is exploding  0
+E) visit / has exploded  0
+ 13. Because you ____ half of the ingredients as I ____ dinner, you probably aren't hungry at all now.
+A) were eating / have prepared  0
+B) have eaten / prepared  0
+C) have been eating / prepare  0
+D) ate / was preparing  1
+E) eat / have been preparing  0
+ 14. She ____ strictly since Christmas and so far she ____ eight kilos.
+A) was dieting / was losing 0
+B) dieted / loses 0
+C) diets / is losing 0
+D) is dieting / lost 0
+E) has been dieting / has lost 1
+ 15. Cindy's family ____ chains in this area for over three centuries and now her father ____ this traditional craft at the county museum twice a day as well.
+A) are making / is demonstrating  0
+B) have made / has demonstrated 0
+C) made / was demonstrating 0
+D) were making / demonstrated  0
+E) have been making / demonstrates 1
+ 16. He ______ to unlock the door to his flat because the telephone ________.
+A) was hurrying / rang  0
+B) hurries / has been ringing  0
+C) hurried / was ringing  1
+D) is hurrying / rings  0
+E) has hurried / has rung  0
+ 17. There ____ economies since the dawn of civilisation, but as a field of study, economics ____ only recently.
+A) were / was developing  0
+B) have been / has developed 1
+C) are / has been developing  0
+D) were / is developing  0
+E) have been / develops 0
+ 18. John Deere ____ his farm machinery business, which ____ tractors today, in the 19th century.
+A) founds / still produced  0
+B) has founded / is still producing  0
+C) was founding / was still producing  0
+D) founded / still produces  1
+E) is founding / is still produced  0
+ 19. I ____ my French lately; consequently, I ____ more and more of it.
+A) am not practising / forget  0
+B) haven't been practising / am forgetting  1
+C) don't practice / have forgotten  0
+D) wasn't practising / forgot  0
+E) didn't practice / was forgetting  0
+ 20. The old lady's health ____ day by day until she ____ smoking.
+A) was deteriorating / gave up 1
+B) is deteriorating / gives up 0
+C) deteriorated / has given up 0
+D) deteriorates / is giving up 0
+E) has deteriorated / was giving up 0
+ 21. The managing director ____ Sid to sales manager and ever since then, he ____ everybody around.
+A) promoted / has been bossing  1
+B) promotes / bosses  0
+C) has promoted / is bossing  0
+D) is promoting / was bossing  0
+E) was promoting / has bossed  0
+ 22. Problems with the hotel, coupled with this awful weather, ____ our holiday miserable, so we ____ before the scheduled time.
+A) have made / have left  0
+B) were making / leave  0
+C) make / left  0
+D) are making / are leaving  1
+E) made / were leaving  0
+ 23. The fact that more people ____ ozone-friendly products nowadays ____ that the media can positively increase public awareness.
+A) have used / was showing 0
+B) used / has shown 0
+C) use / has been showing 0
+D) were using / showed  0
+E) are using / shows  1
+ 24. My sister ____ from severe backaches lately and I think it's because, last month, she ____ to work in a shop where she has to pick up heavy things.
+A) is suffering / has started 0
+B) suffers / was starting 0
+C) has been suffering / started 1
+D) suffered / is starting  0
+E) was suffering / start 0
+ 25. Though she ____ dancing, Sonia ____ to the disco with her friends the previous night just in order to be with them in a different atmosphere.
+A) hasn't like / has gone  0
+B) doesn't like / went  1
+C) didn't like / is going  0
+D) doesn't like / goes  0
+E) didn't like / is going  0
+ 26. Somebody ____ three times this morning asking for Pete, but nobody called Pete ____ here.
+A) has phoned / has ever lived 1
+B) is phoning / was ever living 0
+C) phones / ever lived 0
+D) phoned / is ever living 0
+E) has been phoning / ever lived 0
+ 27. Joey ____ just ____stubborn when he refused to go to the cinema today and he only did so because we ____ to go bowling yesterday.
+A) is / being / haven't wanted 0
+B) has / been / didn't want 0
+C) is / being / don't want 0
+D) was / being / haven't been wanting 0
+E) was / being / didn't want 1
+ 28. My mother ____ her optician tomorrow because her eyesight ____ worse since she got this computing job.
+A) has visited / is becoming 0
+B) visited / was becoming 0
+C) visits / becomes 0
+D) is visiting / has become 1
+E) was visiting / became 0
+ 29. As the President ____the hall, all the guests ____ to their feet to welcome him.
+A) was entering / have risen 0
+B) entered / rose  1
+C) is entering / rise 0
+D) enters / have been rising 0
+E) has entered / were rising  0
+ 30. She ____ interested in health ever since she was a young girl and now that the medical college ____ her as a student, it seems that she will be able to work in the medical field.
+A) was / accepted 0
+B) has been / has accepted 1
+C) is / is accepting 0
+D) is being / accepts 0
+E) was / was accepting 0
+ 31. Bob ____ with us tonight as he ____ an appointment with the dentist.
+A) won't have trained / is making 0
+B) hasn't trained / was making 0
+C) hadn't trained / made 0
+D) doesn't train / makes  0
+E) isn't going to train / has made 1
+ 32. We ____ football for two hours and ____ to a restaurant for a meal, afterwards.
+A) are playing / go  0
+B) play / are going  0
+C) played / went 1
+D) have played / were going  0
+E) have been playing / had gone 0
+ 33. Environmental pollution ____ ever since people ____ to congregate in towns and cities.
+A) will have existed / are beginning  0
+B) exist / have begun  0
+C) had existed / were beginning  0
+D) has existed / began  1
+E) will exist / begin  0
+ 34. I heard that you ____ about the boys all day, so I just rang to tell you that Matthew ____ from a payphone a couple of hours ago and they are both fine. The weather is fine and they will be home on Sunday evening.
+A) had been worrying / will phone  0
+B) have been worrying / phoned  1
+C) will be worrying / had phoned  0
+D) are worrying / is going to phone  0
+E) were worrying / phones  0
+ 35. Although he ____ the first round in record time, he ____ in the second, and so finished tenth overall.
+A) finishes / is slipping 0
+B) had been finishing / was slipping 0
+C) will have finished / slips 0
+D) had finished / slipped 1
+E) was finishing / has slipped 0
+ 36. The petrol warning light ____ for half an hour before we ____ a petrol station.
+A) had been flashing / reached  1
+B) is going to flash / will reach  0
+C) flashed / have reached  0
+D) flashes / will be reaching  0
+E) was flashing / were reaching  0
+ 37. Up until the tap water ____ back on yesterday evening, we ____ water back and forth for three days.
+A) came / had been carrying  1
+B) has come / have been carrying  0
+C) had come / were carrying  0
+D) was coming / will have carried  0
+E) is coming / will have carried  0
+ 38. The neighbours ____ so loudly last night that they ____ us all awake until after midnight.
+A) are shouting / are keeping  0
+B) have been shouting / were keeping  0
+C) shouted / have been keeping  0
+D) have shouted / had kept  0
+E) were shouting / kept  1
+ 39. Man's use of pictures to tell stories and to record experiences ____ prehistoric times, when he ____ the walls of caves.
+A) was beginning / has drawn 0
+B) began / drew  1
+C) begins / will have drawn 0
+D) has begun / was drawing 0
+E) had begun / draw 0
+ 40. My team ____ a match for a month, so currently the manager ____ resigning if they lose one more match.
+A) doesn't win / considered  0
+B) isn't winning / was considering 0
+C) hasn't won / is considering 1
+D) hadn't won / will have considered  0
+E) wasn't winning / will consider 0
+ 41. My brother ____ past the post office every morning and I ____ him all week to post a letter for me, but he keeps forgetting, so I'm going to post it myself tomorrow.
+A) will be going / ask 0
+B) will go / am asking 0
+C) goes / have been asking 1
+D) is going / will ask 0
+E) has been going / had ask 0
+ 42. The football team that ____ last year's championship ____ little chance of winning it again this year.
+A) was winning / stood 0
+B) was going to win / stand 0
+C) has won / has stood 0
+D) had won / was standing 0
+E) won / stands 1
+ 43. Freedom of the press ____ an issue between people and their governments since the time individuals ____ newspapers independent of government control for the first time.
+A) is / are publishing  0
+B) will have been / publish 0
+C) had been / were publishing  0
+D) has been / published 1
+E) was / have published 0
+ 44. The hikers ____ so tired by the time they ____ the top of the hill that I'm sure they'll first want to sit down for a rest.
+A) will have got / reach  1
+B) are getting / will have reached  0
+C) had got / reached  0
+D) have got / are reaching  0
+E) were getting / had reached  0
+ 45. When the young scouts ____ the top of the hill, they ____ for more than an hour.
+A) reached / have been walking  0
+B) reach / will have been walking  1
+C) will have reached / are walking  0
+D) had reached / were walking  0
+E) have reached / will be walking  0
+ 46. Modern exploration of the undersea world had its beginning in June 1943, when Jacques Cousteau ____ his first dive with a revolutionary breathing device which he ____ with Emile Gagnan, a French engineer.
+A) was making / has developed 0
+B) had made / will have developed 0
+C) has made / was developing 0
+D) will have made / develops 0
+E) made / had developed 1
+ 47. She says that she ____ the eight o'clock train tomorrow, but I'm sure she ____ it, as usual.
+A) is catching / is missing 0
+B) has caught / misses 0
+C) will have caught / has missed 0
+D) is going to catch / will miss 1
+E) was catching / missed 0
+ 48. The fisherman ____ more fish in one night than ever before, so when they anchored in the harbour, they ____ with joy at the thought of their reward.
+A) had been catching / will sing 0
+B) will have caught / sang 0
+C) had caught / were singing  0
+D) caught / have been singing 1
+E) have caught / will be singing 0
+ 49. On my friend's farm, they ____ an alarm clock because the cockerel ____ at five o'clock every morning without fail.
+A) don't need / crows  0
+B) haven't needed / was crowing  0
+C) won't have needed / has crowed  1
+D) wont need / is crowing  0
+E) didn't need / will crow  0
+ 50 . The Continental Congress ____ the US Postal Service in 1775 and the first federal government ____ the service in the Constitution.
+A) was founding / has included 0
+B) had founded / includes 0
+C) has founded / is including 0
+D) was going to found / will include 0
+E) founded / included 1
+  1. When we visit Art Galleries in other countries, we usually _____ to go in, but when foreigners come to Britain, they _____ by the British tax-payer.
+A) have to pay / are subsidized  1
+B) can pay / subsidize 0
+C) must be paid / were subsidized  0
+D) had to pay / were subsidized  0
+E) were supposed to pay / had been subsidized  0
+ 2. Course books in Applied Economics _____ frequently since this area focuses on the actual policies which _____ in recent years.
+A) must revise / are implemented  0
+B) need to be revised / have been implemented  1
+C) could have revised / implementing  0
+D) need revising / have implemented  0
+E) should have been revised /implemented  0
+ 3.   The file _____ data on school attendance, and data on certificates, degrees or diplomas the students ______.
+A) presents / have been granted  1
+B) is presented / are granted  0
+C) has presented / have granted  0
+D) had presented / were granted  0
+E) presented / have been granted  0
+ 4.   The police have been said _____ with great restraint, despite provocation at the time.
+A) to have acted 1
+B) having acted 0
+C) to act 0
+D) to be acted 0
+E) acting 0
+ 5. Society _____, but gender roles _____ to change withit.
+A) may change / won’t be expected  0
+B) might have changed / weren’t going to expect  0
+C) might be changing / haven't expected  0
+D) may change / aren’t expected  1
+E) could change / aren't expecting  0
+ 6.   Fear of family or community disapproval _____ women's acquiescence, particularly when it _____ by threats of physical punishment or expulsion.
+A) may compel / is reinforced  1
+B) may be compelled / has reinforced  0
+C) has compelled / will be reinforced  0
+D) compels / was reinforced  0
+E) could be compelling / has reinforced  0
+ 7.   It _____ that change in the public sphere _____ in changes in individual attitudes and behaviours.
+A) takes for granted / will reflect 0
+B) is taken for granted / will be reflected 1
+C) has been taken for granted / will have reflected 0
+D) is taken for granted / will be reflecting 0
+E) has taken for granted / will have been reflected 0
+ 8.   The emotions and needs _____ but _____ to be expressed.
+A) won’t be disappeared / may not be allowed  0
+B) haven’t disappeared / hadn’t been allowed  0
+C) don't disappear / aren’t allowed  1
+D) aren’t disappeared / haven’t been allowed  0
+E) didn’t disappear / won’t have allowed 0
+ 9.   The language in which the data ______ _____ in the contract.
+A) was licensed / has stipulated 0
+B) would have been licensed / had stipulated 0
+C) is licensed / is stipulated 1
+D) used to be licensed / stipulated 0
+E) had licensed / was stipulated 0
+ 10. The ideal way to contain a potential influenza pandemic would be to vaccinate people before they _____ to a virus strain that _____ from person to person.
+A) exposed / is transmitted  0
+B) were exposed / is transmitted  0
+C) had been exposed / is transmitted  0
+D) were exposed / transmits  0
+E) are exposed / has transmitted  1
+ 11. The mission ____ by two days for a fourth spacewalk, and _____ further to deal with the computer issue, officials said.
+A) has extended / may have extended  0
+B) had been extended / might be extended  1
+C) has been extended / would be extended  0
+D) extended / could be extending  0
+E) extending / may have been extended  0
+ 12. They looked for a silent place in which they could stay for a fortnight without _____.
+A) having disturbed 0
+B) having been disturbed 0
+C) being disturbed 1
+D) disturbing 0
+E) to disturb 0
+ 13. He ought not to let himself _____ in exams, concentration is the most important issue to be successful.
+A) distracted 0
+B) have distracted 0
+C) be distracted 1
+D) to distracted 0
+E) distract 0
+ 14. Everybody thinks Olympic athletes who _____ drugs to enhance their performance _____ from further competition.
+A) have used / might be banning 0
+B) are using / should have banned  0
+C) use / were banned  0
+D) are used / have banned  0
+E) use / should be banned 1
+ 15. The film, which _____ an ordinary Anatolian member, _____ to be a strong candidate for the previous competition.
+A) depicted / has believed 0
+B) is depicted / was believed 0
+C) has been depicted / was believed 0
+D) had depicted / is believed 0
+E) depicts / was believed 1
+ 16. The so-called language broadcasts, which _____ for many years, _____ by the state broadcaster in June 2004 as a part of reforms intended to meet EU criteria on minorities.
+A) had been banned / were introduced  1
+B) have banned / introduced  0
+C) have been banned / were introducing  0
+D) banning / were introduced  0
+E) banned / introduced  0
+ 17. Your lawyer's advice _____ before any decision _____.
+A) has been obtained / is made 0
+B) was obtained / was being made 0
+C) has obtained / was made 0
+D) should have been obtained / was made 1
+E) must have been obtained / used to make  0
+ 18. Syria ____ of being behind the delay in electing a new president in Lebanon and for this reason Mouallems' statement _____ with disbelief by the ruling majority.
+A) accused / met 0
+B) being accusing / met 0
+C) has been accused / was met 1
+D) had accused / would be met 0
+E) accused / was met 0
+ 19. Medicinal chemists know their latest compound _____ seriously as a drug lead until it _____ its punch in animal models.
+A) wasn't taken / proves  0
+B) won't be taken / has proven  1
+C) weren’t taken / would be proven  0
+D) won't take / proves  0
+E) weren't taken / had proved  0
+ 20. The artist in the photograph ____ with his bultos, which are coloured sculptures of saints or other religious figures.
+A) poses 1
+B) had posed 0
+C) was posed 0
+D) is posed 0
+E) has been posed 0
+ 21. Syria ____ an Arab summit at the end of next month, and U.S.-allied Arab states such as Egypt is reportedly threatening to boycott if no president _____ in Lebanon by then.
+A) will hold / will be elected 0
+B) holds / has been elected 0
+C) is holding / will have been elected 0
+D) is to hold / is elected 1
+E) has held / was elected 0
+ 22. For a century, execution has meant hanging - a form of capital punishment that often _____ a near-instant death if the spinal cord _____, or a minute or two of strangulation before unconsciousness arrives.
+A) involved / has been broken  0
+B) has involved / was broken  0
+C) is involved / is broken  0
+D) involved / had been broken  0
+E) involves / is broken  1
+ 23. Of the 20 rigorously evaluated programs, the child development one ______ ______ effective.
+A) did not show / to be 0
+B) is not shown / being 0
+C) will not have shown / to being 0
+D) has not shown / to have been 0
+E) was not shown / to be 1
+ 24. In 2003, a study in the Journal of Medicine estimated that if the U.S. pop-nation _____ of a healthier weight, 90,000 deaths due to cancer _____ each year.
+A) may be / could be prevented  0
+B) had been / might have prevented  0
+C) were / could be prevented  1
+D) had been / have been prevented  0
+E) is / should be prevented  0
+ 25. Because of his activism, Khamenei _____ from running for office, and he was hospitalized after _____ by religious vigilantes.
+A) has been barred / being attacked  1
+B) was barred / having attacked  0
+C) had been barred / attacking  0
+D) being barred / attacked  0
+E) barred / being attacked  0
+  1.   I'm afraid our accountants _____ for fraud - on the brighter side, our financial statements _____ the Times best-seller fiction list.
+A) are investigating / have made  0
+B) were investigated / has made  0
+C) are being investigated / have made  1
+D) are investigated / have been made  0
+E) have investigated / made 0
+ 2. Unless there _____ a dated object, such as a coin, within a layer, a technique _____ to determine an approximate chronological date.
+A) was / would be used 0
+B) is / must be used 1
+C) can be / has been used 0
+D) should be / must have been used 0
+E) had been / could be used 0
+ 3.   The boxer _____ in the last round. It took a long time to bring him down.
+A) is knocked out  0
+B) has been knocked out  0
+C) was knocked out  1
+D) should have been knocked out  0
+E) was being knocked out  0
+ 4.   He _____ to learn that his proposal ______.
+A) is delighted / will accept 0
+B) should be delighted / accepted 0
+C) was delighted / had been accepted 1
+D) delighted / accepted 0
+E) was delighted / having accepted 0
+ 5.   It is believed that a criminal inquiry _____ out to give the age of the remains and the fact that any potential witnesses to a possible crime would no longer be alive.
+A) won’t carry  0
+B) wouldn't be carried  1
+C) shouldn't be carried  0
+D) wouldn’t carry  0
+E) couldn’t have carried  0
+ 6.   The shape of the world _____ into account if you really want to solve the problem.
+A) took 0
+B) had to be taken  0
+C) has taken  0
+D) must take  0
+E) may be taken  1
+ 7.   Digital memories _____ all people to tell their life stories to their descendants in a compelling fashion that until now _____ solely for the rich and famous.
+A) could enable / has reserved  0
+B) can enable / has been reserved  1
+C) may be enabled / is reserved  0
+D) should enable / is being reserved  0
+E) is enabled / reserves  0
+ 8.   Is it possible to find a country where the beauty, the history and the variety in the scenery _____ in such perfect harmony?
+A) were combined  0
+B) are combined  1
+C) combined 0
+D) combining 0
+E) to combing 0
+ 9. According to the U.S. Climate Report, a copy of which _____ by the newspaper, the administration's climate policy _____ in emissions growing 11 per cent in 2012 from 2002.
+A) obtained / will result  0
+B) was obtained / will result  1
+C) was obtained / will be resulted  0
+D) is obtained / will result  0
+E) obtains / will be resulted  0
+ 10. One of the most prescient of Bush's ideas was the suggestion that the Memex _____ to imitate the associative thinking of the human mind, which he ______ in lively terms.
+A) has designed / has described 0
+B) is designed / is described 0
+C) should design / was described 0
+D) should be designed / described 1
+E) has been designed / describes 0
+ 11. The machine ____ all tests set for it thus far and it _____ for detecting certain threats by our engineers.
+A) is passed / has evaluated 0
+B) has been passed / has evaluated 0
+C) has been passed / has been evaluated 0
+D) passed / has evaluated 0
+E) has passed / has been evaluated 1
+ 12. In Freudian theory, neurosis ____ by certain complexes of repressed ideas, and the aim of treatment is to recover these disturbing contents to consciousness.
+A) was caused 0
+B) has caused 0
+C) is caused 1
+D) causes 0
+E) had been caused 0
+ 13. Tetracycline antibiotics _____ to pregnant women; women who _____; or children under 12 years of age.
+A) weren’t given / breastfeed  0
+B) haven’t given / have breastfed  0
+C) haven’t been given / breastfed  0
+D) aren’t giving / were breastfeeding  0
+E) aren’t given / are breastfeeding  1
+ 14. In Paris, he _____ by would-be immigrants to America who _____ that he could help them get there and furnish them with land and jobs.
+A) had been besieged / assumed 0
+B) was besieged / assumed 1
+C) was besieged / was assumed 0
+D) had besieged / had been assumed 0
+E) is besieged / would assume 0
+ 15. Responses ______ for the extent to which the behaviour _____ to the actor's disposition.
+A) were scored / was attributed  1
+B) had scored / was attributed  0
+C) scored / attributes  0
+D) score / will attribute  0
+E) were scored / attributed  0
+ 16. Hundreds of antiques which _____ to one of the sultans _____ by the end of this year.
+A) were belonging / will be selling  0
+B) belonged / will have been sold 1
+C) are belonged / will be sold  0
+D) have been belonged / are going to be sold  0
+E) belonged / are going to sell  0
+ 17. Gilgamesh was a man who wanted more power than mortals _____ and wanted his influence _____ forever.
+A) allowed / be known 0
+B) to allow / to know 0
+C) were allowed / to be known  1
+D) allow / known 0
+E) were allowed / to known  0
+ 18. School attendance ____ only for courses that _____ as credits towards a certiflcate, diploma or degree.
+A) counted / should be used 0
+B) has been counted / have used 0
+C) is counted / could be used 0
+D) counts / might use 1
+E) used to count / might be used 0
+ 19. The Sumerians ____ approximately 3000 to 2500 B.C. in a region known as the "Fertile Crescent" located along the Tigris River and _____ to be the world's first civilization.
+A) were emerged / considered  0
+B) emerged / were considered  1
+C) emerged / considered  0
+D) have emerged / have been considered  0
+E) emerged / have considered  0
+ 20. KIBS ______ to be one of the main of technological change and economic progress and _____ as "users, carriers and sources of innovation".
+A) might have believed / are described  0
+B) were believed / could describe  0
+C) are believed / described  1
+D) have believed / would be described 0
+E) used to believe / could be described 0
+ 21. The trial ____ in Manhattan, a borough where juries are less hospitable to plaintiffs than the Bronx.
+A) was to be held 1
+B) will hold 0
+C) would have held 0
+D) will have held 0
+E) would hold 0
+ 22. The buildings ____ back to the Aztecs, whose ceremonial centre _____ there before the Europeans built over it.
+A) date / located 0
+B) dated / had located 0
+C) dated / was located 0
+D) date / had located 0
+E) date / was located 1
+ 23. Most of the convalescents prefer ______ for at home while they _____ with their beloveds rather than in a health centre.
+A) to care / are  0
+B) to have cared / were  0
+C) to have been cared / have been  0
+D) to be cared / are  1
+E) cared / were  0
+ 24. A set of very strict measures ______ to prevent terrorism at least in order to _____ free in public.
+A) has been taken / roam  1
+B) has taken / roam  0
+C) was taken / have roamed  0
+D) had taken / had roamed  0
+E) will have taken / roam  0
+ 25. Reproductive health -including everything to do with contraception, and childbirth- _____ to be a woman's concern. However, man _____ himself with such matters.
+A) was considering / hasn’t concerned  0
+B) has been considered / isn't concerned  0
+C) is considered / doesn't concern  1
+D) considers / isn’t concerning  0
+E) was considered / won’t concern  0
+ 1.  The health-care reforms realized by the government, with partial support of the opposition, _____, by a majority of non-governmental organizations, ______ far from revolutionary in providing ample service, especially to the elderly retirees.
+A) were said / to being  0
+B) are said / to be  1
+C) said / to have been 0
+D) say / to be 0
+E) are said / being  0
+ 2.   On the soccer field, his remarkable skill in his brilliant kicks, passes and runs _____ by Pele once.
+A) are shown  0
+B) were being shown  0
+C) should have been shown 0
+D) were shown  1
+E) shown 0
+ 3.   Diana Prince, as she _____ to the outside world, possesses special powers that _____ about when she whirls around to transform into Wonder Woman.
+A) is known / bring 0
+B) has been known / brought  0
+C) is known / are brought  1
+D) was known / are bringing  0
+E) is known / have brought  0
+ 4.   While some papers in fields such as physical chemistry _____ sufficiently close to the boundary of physics to be included, others _____ to belong unequivocally to the fields of engineering,
+A) judge / should be judged 0
+B) would be judged / are judged  0
+C) have judged / have judged 0
+D) were judged / had been judged  0
+E) are judged / are judged  1
+ 5. Hiroshima _____ quite heavily by the Unites States bombing during the Second World War, but it _____ soon after the war.
+A) was damaged / was rebuilt  1
+B) has been damaged / had rebuilt  0
+C) could have been damaged / rebuilt  0
+D) was damaging / had been rebuilt  0
+E) had been damaged / has been rebuilt  0
+ 6. The day before the event, at least one man ______ dead in riots by supporters protesting against his prosecution.
+A) had shot 0
+B) shot 0
+C) was shooting 0
+D) would be shot 0
+E) was shot 1
+ 7.   Three weeks after the last resistance against the conservative party _____, the members of the party _____ unopposed into the town hall, and the conservative party's 20-year rule began.
+A) was defeated / had been walking 0
+B) had been defeated / walked  1
+C) was defeating / were walking  0
+D) had defeated / would be walking 0
+E) has been defeated / have walked  0
+ 8.   More than 440.000 residential construction jobs _____ in the current housing downturn in the past month alone.
+A) have lost 0
+B) were lost  0
+C) lost 0
+D) are lost  0
+E) have been lost 1
+ 9. The police officers ______ the suspicious killing of a diplomat before a renowned businessman ______ a couple of days ago.
+A) had been investigating / was killed 1
+B) were investigating / had been killed  0
+C) have been investigating / was killed 0
+D) were investigated / killed  0
+E) will investigate / has been killed 0
+ 10. After the home side ____ 3-2 in a thrilling football match, the winner players _____ by the supporters.
+A) had won / cheered up  0
+B) had been won / were cheered up  0
+C) won / were cheered up  1
+D) wins / are cheered up  0
+E) wins / will have been.cheered up  0
+ 11. The hotel, which ____ only last year, _____ with a solarium and sauna.
+A) was completed / is equipped 1
+B) had completed / was equipped 0
+C) has been completed / will be equipped 0
+D) will complete / equips 0
+E) completed / was equipped 0
+ 12. Further research ____ before we know if mushroom extracts _____ to treat cancer patients.
+A) will be needed / can be used 1
+B) must have needed / have used 0
+C) could be needed / were used  0
+D) are needed / may be used  0
+E) might need / could be used 0
+ 13. Home sales ____ by a ferocious mortgage credit crunch and a wave of foreclosures.
+A) are hit  0
+B) hit 0
+C) have been hit 1
+D) were hit  0
+E) would hit 0
+ 14. Extracts of the fungus ____ for centuries by Eastern healers, who _____ it has the power to rejuvenate and extend life.
+A) have used / believe 0
+B) have been used / are believed  0
+C) were used / believed  0
+D) have been used / believe 1
+E) are used / believe  0
+ 15. After intense bargaining, EU membership talks _____.
+A) launched 0
+B) will launch 0
+C) were launched  1
+D) have launched 0
+E) were launching  0
+ 16. He used his ability to make people ______ that he _____ future events.
+A) believed / would predict  0
+B) to believe / might predict  0
+C) believe / could predict  1
+D) believing / should predict  0
+E) believe / may predict  0
+ 17. Newer media _____ older media but _____ in concert with them.
+A) haven’t displaced / have used 0
+B) aren’t displacing / are being used  1
+C) will be displacing / used 0
+D) wasn’t displaced / will be used 0
+E) wasn't displacing / used 0
+ 18. A holistic approach ____ in assessing the potential
+A) is needed 1
+B) needs 0
+C) has needed 0
+D) will need 0
+E) would need 0
+ 19. Over the past year, the economy _____ by the blows of a trio of crises — housing, credit and financial.
+A) has bruised 0
+B) bruised 0
+C) has been bruised 1
+D) was bruised 0
+E) had been bruising 0
+ 20. Once the centre of the Ottoman Empire, the modern secular republic _____ in the 1920s by nationalist leader Kemal Ataturk.
+A) established 0
+B) establishing 0
+C) was established 1
+D) has been established 0
+E) was establishing 0
+ 21. All of the passports ____ to employees by 1 Mayenvironmental and health effects of toxic effluent  2018.from the industry.
+A) will be returning  0
+B) will have returned  0
+C) will be returned  1
+D) will return  0
+E) will have been returning  0
+ 22. In parts of western and southern India, the dire economic state of farmers ______ for thousands of suicides in recent years.
+A) was blamed 0
+B) had been blamed 0
+C) has been blamed 1
+D) had blamed 0
+E) has blamed 0
+ 23. The companies ____ to apply the regulations so as to make the working conditions better in the managing directors' summit.
+A) were made  1
+B) have made 0
+C) made 0
+D) have been making 0
+E) are making  0
+ 24.   The recent recovery in palm oil production in Southeast Asia has led to a/an ----- decline in all vegetable oil prices.
+A) dense 0
+B) tentative 0
+C) clumsy 0
+D) abstract 0
+E) dramatic 1
+ 25. At present, the rate of economic growth is very satisfactory, but ------ when foreign competition makes itself felt, this will not be the case.
+A) enthusiastically 0
+B) eventually 1
+C) considerably 0
+D) effectively 0
+E) preferably 0
+
+
